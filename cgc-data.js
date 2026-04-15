@@ -683,7 +683,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted West Jet gift cards" title="discounted West Jet gift cards" style="background-image:url('#REF!');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted West Jet gift cards" title="discounted West Jet gift cards" style="background-image:url('');"></div>
   <div class="market-card-body">
     <div class="market-brand">West Jet — $$100</div>
     <div class="market-price">$$80</div>
