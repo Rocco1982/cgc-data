@@ -3,6 +3,20 @@ window.CGC_DATA = {
   <div class="hero-deal-status">
     <span class="hero-deal-pill hero-pill-live">Live</span>
   </div>
+  <div class="hero-sale-badge">20.00% OFF</div>
+  <div class="hero-card-media" style="background:#ffffff;">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif" alt="discounted Costco gift cards">
+  </div>
+  <div class="hero-deal-body">
+    <div class="hero-deal-price">Costco — $300.00</div>
+    <div class="hero-deal-save">Pay $240.00</div>
+    <div class="hero-deal-stock">Available now</div>
+    <a class="hero-deal-buy" href="">Buy Now</a>
+  </div>
+</div><div class="hero-deal-card" data-ref="GC-CA-OJBT-3091">
+  <div class="hero-deal-status">
+    <span class="hero-deal-pill hero-pill-live">Live</span>
+  </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
     <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif" alt="discounted Costco gift cards">
@@ -575,6 +589,23 @@ window.CGC_DATA = {
   </div>
 </div>`,
   marketHtml: `<article class="market-card" data-brand="Costco" data-category="retail" data-ref="GC-CA-OJBT-3091">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-live">Live</span>
+  </div>
+  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-card-top" role="img" aria-label="discounted Costco gift cards" title="discounted Costco gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif');"></div>
+  <div class="market-card-body">
+    <div class="market-brand">Costco — $$300.00</div>
+    <div class="market-price">$$240.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Available now</div>
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Instant Delivery</span>
+    </div>
+    <a class="market-buy" href="">Buy Now</a>
+  </div>
+</article><article class="market-card" data-brand="Costco" data-category="retail" data-ref="GC-CA-OJBT-3091">
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
