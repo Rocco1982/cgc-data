@@ -1,21 +1,4 @@
-<article class="market-card" data-brand="Zara Home" data-category="retail" data-ref="GC-CA-OJBT-3091">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-live">Live</span>
-  </div>
-  <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Zara Home gift cards" title="discounted Zara Home gift cards" style="background-image:url('');"></div>
-  <div class="market-card-body">
-    <div class="market-brand">Zara Home — $$100.00</div>
-    <div class="market-price">$$75.00</div>
-    <div class="market-save">Save 25.00%</div>
-    <div class="market-stock">Available now</div>
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Instant Delivery</span>
-    </div>
-    <a class="market-buy" href="">Buy Now</a>
-  </div>
-</article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
+<article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
