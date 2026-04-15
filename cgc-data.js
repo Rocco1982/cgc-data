@@ -462,7 +462,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$100.00</div>
     <div class="market-price">$$75.00</div>
@@ -683,7 +683,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted West Jet gift cards" title="discounted West Jet gift cards" style="background-image:url('#REF!');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted West Jet gift cards" title="discounted West Jet gift cards" style="background-image:url('');"></div>
   <div class="market-card-body">
     <div class="market-brand">West Jet — $$100</div>
     <div class="market-price">$$80</div>
