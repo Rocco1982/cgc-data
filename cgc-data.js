@@ -8,8 +8,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Zara Home gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Zara Home — $$100.00</div>
-    <div class="hero-deal-save">Pay $$75.00</div>
+    <div class="hero-deal-price">Zara Home — $100.00</div>
+    <div class="hero-deal-save">Pay $75.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -22,8 +22,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Foodland gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Foodland — $$50.00</div>
-    <div class="hero-deal-save">Pay $$40.00</div>
+    <div class="hero-deal-price">Foodland — $50.00</div>
+    <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -36,8 +36,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Loblaws gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Loblaws — $$42.00</div>
-    <div class="hero-deal-save">Pay $$33.60</div>
+    <div class="hero-deal-price">Loblaws — $42.00</div>
+    <div class="hero-deal-save">Pay $33.60</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -50,8 +50,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Banana Republic gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Banana Republic — $$50.00</div>
-    <div class="hero-deal-save">Pay $$37.50</div>
+    <div class="hero-deal-price">Banana Republic — $50.00</div>
+    <div class="hero-deal-save">Pay $37.50</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -64,8 +64,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Ultimate Dining gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Ultimate Dining — $$20.00</div>
-    <div class="hero-deal-save">Pay $$16.00</div>
+    <div class="hero-deal-price">Ultimate Dining — $20.00</div>
+    <div class="hero-deal-save">Pay $16.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -78,8 +78,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Loblaws gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Loblaws — $$10.00</div>
-    <div class="hero-deal-save">Pay $$8.00</div>
+    <div class="hero-deal-price">Loblaws — $10.00</div>
+    <div class="hero-deal-save">Pay $8.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -92,8 +92,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Walmart gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Walmart — $$10.00</div>
-    <div class="hero-deal-save">Pay $$7.50</div>
+    <div class="hero-deal-price">Walmart — $10.00</div>
+    <div class="hero-deal-save">Pay $7.50</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -106,8 +106,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Dairy Queen gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Dairy Queen — $$25.00</div>
-    <div class="hero-deal-save">Pay $$20.00</div>
+    <div class="hero-deal-price">Dairy Queen — $25.00</div>
+    <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -120,8 +120,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Roots Canada — $$28.00</div>
-    <div class="hero-deal-save">Pay $$22.40</div>
+    <div class="hero-deal-price">Roots Canada — $28.00</div>
+    <div class="hero-deal-save">Pay $22.40</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -134,8 +134,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $$50.00</div>
-    <div class="hero-deal-save">Pay $$37.50</div>
+    <div class="hero-deal-price">Keg Steakhouse — $50.00</div>
+    <div class="hero-deal-save">Pay $37.50</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -148,8 +148,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Indigo gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Indigo — $$20.00</div>
-    <div class="hero-deal-save">Pay $$16.00</div>
+    <div class="hero-deal-price">Indigo — $20.00</div>
+    <div class="hero-deal-save">Pay $16.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -162,8 +162,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Lululemon gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Lululemon — $$50.00</div>
-    <div class="hero-deal-save">Pay $$40.00</div>
+    <div class="hero-deal-price">Lululemon — $50.00</div>
+    <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -176,8 +176,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Winners gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Winners — $$50.00</div>
-    <div class="hero-deal-save">Pay $$37.50</div>
+    <div class="hero-deal-price">Winners — $50.00</div>
+    <div class="hero-deal-save">Pay $37.50</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -190,8 +190,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Mark's Work Wearhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Mark's Work Wearhouse — $$50.00</div>
-    <div class="hero-deal-save">Pay $$40.00</div>
+    <div class="hero-deal-price">Mark's Work Wearhouse — $50.00</div>
+    <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -204,8 +204,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $$52.00</div>
-    <div class="hero-deal-save">Pay $$41.60</div>
+    <div class="hero-deal-price">Keg Steakhouse — $52.00</div>
+    <div class="hero-deal-save">Pay $41.60</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -218,8 +218,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Bass Pro Shop gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Bass Pro Shop — $$16.00</div>
-    <div class="hero-deal-save">Pay $$12.00</div>
+    <div class="hero-deal-price">Bass Pro Shop — $16.00</div>
+    <div class="hero-deal-save">Pay $12.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -232,8 +232,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $$25.00</div>
-    <div class="hero-deal-save">Pay $$20.00</div>
+    <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
+    <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -246,8 +246,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Walmart gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Walmart — $$100.00</div>
-    <div class="hero-deal-save">Pay $$80.00</div>
+    <div class="hero-deal-price">Walmart — $100.00</div>
+    <div class="hero-deal-save">Pay $80.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -260,8 +260,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Lululemon gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Lululemon — $$75.97</div>
-    <div class="hero-deal-save">Pay $$56.98</div>
+    <div class="hero-deal-price">Lululemon — $75.97</div>
+    <div class="hero-deal-save">Pay $56.98</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -274,8 +274,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Cactus Club gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Cactus Club — $$79.67</div>
-    <div class="hero-deal-save">Pay $$63.74</div>
+    <div class="hero-deal-price">Cactus Club — $79.67</div>
+    <div class="hero-deal-save">Pay $63.74</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -288,8 +288,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Value Village gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Value Village — $$10.39</div>
-    <div class="hero-deal-save">Pay $$8.31</div>
+    <div class="hero-deal-price">Value Village — $10.39</div>
+    <div class="hero-deal-save">Pay $8.31</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -302,8 +302,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Under Armour gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Under Armour — $$50.00</div>
-    <div class="hero-deal-save">Pay $$37.50</div>
+    <div class="hero-deal-price">Under Armour — $50.00</div>
+    <div class="hero-deal-save">Pay $37.50</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -316,8 +316,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Best Buy gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Best Buy — $$50.00</div>
-    <div class="hero-deal-save">Pay $$40.00</div>
+    <div class="hero-deal-price">Best Buy — $50.00</div>
+    <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -330,8 +330,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Canadian Tire — $$29.00</div>
-    <div class="hero-deal-save">Pay $$23.20</div>
+    <div class="hero-deal-price">Canadian Tire — $29.00</div>
+    <div class="hero-deal-save">Pay $23.20</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -344,8 +344,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted One4all gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">One4all — $$25.00</div>
-    <div class="hero-deal-save">Pay $$18.75</div>
+    <div class="hero-deal-price">One4all — $25.00</div>
+    <div class="hero-deal-save">Pay $18.75</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -358,8 +358,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92400b671e6c284c89b81.png" alt="discounted Staples gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Staples — $$68.23</div>
-    <div class="hero-deal-save">Pay $$54.58</div>
+    <div class="hero-deal-price">Staples — $68.23</div>
+    <div class="hero-deal-save">Pay $54.58</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -372,8 +372,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $$50.00</div>
-    <div class="hero-deal-save">Pay $$40.00</div>
+    <div class="hero-deal-price">Keg Steakhouse — $50.00</div>
+    <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -386,8 +386,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $$100.00</div>
-    <div class="hero-deal-save">Pay $$75.00</div>
+    <div class="hero-deal-price">Keg Steakhouse — $100.00</div>
+    <div class="hero-deal-save">Pay $75.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -400,8 +400,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Flight Centre gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Flight Centre — $$50.00</div>
-    <div class="hero-deal-save">Pay $$40.00</div>
+    <div class="hero-deal-price">Flight Centre — $50.00</div>
+    <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -414,8 +414,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Booster Juice gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Booster Juice — $$10.52</div>
-    <div class="hero-deal-save">Pay $$8.42</div>
+    <div class="hero-deal-price">Booster Juice — $10.52</div>
+    <div class="hero-deal-save">Pay $8.42</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -428,8 +428,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Roots Canada — $$28.00</div>
-    <div class="hero-deal-save">Pay $$21.00</div>
+    <div class="hero-deal-price">Roots Canada — $28.00</div>
+    <div class="hero-deal-save">Pay $21.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -442,8 +442,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Roots Canada — $$25.00</div>
-    <div class="hero-deal-save">Pay $$20.00</div>
+    <div class="hero-deal-price">Roots Canada — $25.00</div>
+    <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -456,8 +456,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Boston Pizza gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Boston Pizza — $$21.00</div>
-    <div class="hero-deal-save">Pay $$16.80</div>
+    <div class="hero-deal-price">Boston Pizza — $21.00</div>
+    <div class="hero-deal-save">Pay $16.80</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -470,8 +470,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Winners gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Winners — $$25.00</div>
-    <div class="hero-deal-save">Pay $$18.75</div>
+    <div class="hero-deal-price">Winners — $25.00</div>
+    <div class="hero-deal-save">Pay $18.75</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -484,8 +484,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $$25.00</div>
-    <div class="hero-deal-save">Pay $$20.00</div>
+    <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
+    <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -498,8 +498,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Canadian Tire — $$40.00</div>
-    <div class="hero-deal-save">Pay $$32.00</div>
+    <div class="hero-deal-price">Canadian Tire — $40.00</div>
+    <div class="hero-deal-save">Pay $32.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -512,8 +512,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Canadian Tire — $$53.95</div>
-    <div class="hero-deal-save">Pay $$40.46</div>
+    <div class="hero-deal-price">Canadian Tire — $53.95</div>
+    <div class="hero-deal-save">Pay $40.46</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -526,8 +526,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Canadian Tire — $$40.00</div>
-    <div class="hero-deal-save">Pay $$32.00</div>
+    <div class="hero-deal-price">Canadian Tire — $40.00</div>
+    <div class="hero-deal-save">Pay $32.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -540,8 +540,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Keg gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg — $$50</div>
-    <div class="hero-deal-save">Pay $$40</div>
+    <div class="hero-deal-price">Keg — $50</div>
+    <div class="hero-deal-save">Pay $40</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -554,8 +554,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted Loblaws gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Loblaws — $$22.09</div>
-    <div class="hero-deal-save">Pay $$16.57</div>
+    <div class="hero-deal-price">Loblaws — $22.09</div>
+    <div class="hero-deal-save">Pay $16.57</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -568,8 +568,8 @@ window.CGC_DATA = {
     <img loading="lazy" decoding="async" src="" alt="discounted West Jet gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">West Jet — $$100</div>
-    <div class="hero-deal-save">Pay $$80</div>
+    <div class="hero-deal-price">West Jet — $100</div>
+    <div class="hero-deal-save">Pay $80</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
