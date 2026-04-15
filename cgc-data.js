@@ -578,11 +578,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -598,11 +595,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -618,11 +612,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -638,11 +629,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -658,11 +646,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -678,11 +663,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -698,11 +680,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -718,11 +697,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -738,11 +714,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -758,11 +731,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -778,11 +748,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -798,11 +765,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -818,11 +782,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -838,11 +799,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -858,11 +816,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -878,11 +833,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -898,11 +850,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -918,11 +867,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -938,11 +884,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -958,11 +901,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -978,11 +918,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -998,11 +935,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1018,11 +952,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1038,11 +969,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1058,11 +986,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1078,11 +1003,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1098,11 +1020,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1118,11 +1037,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1138,11 +1054,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1158,11 +1071,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1178,11 +1088,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1198,11 +1105,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1218,11 +1122,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1238,11 +1139,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1258,11 +1156,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1278,11 +1173,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1298,11 +1190,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1318,11 +1207,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1338,11 +1224,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1358,11 +1241,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
@@ -1378,11 +1258,8 @@ window.CGC_DATA = {
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
-
   <div class="market-sale-badge">NaN% OFF</div>
-
   <div class="market-card-top" role="img" aria-label="discounted  gift cards" title="discounted  gift cards" style="background-image:url('');"></div>
-
   <div class="market-card-body">
     <div class="market-brand"> — $</div>
     <div class="market-price">$</div>
