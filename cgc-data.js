@@ -37,7 +37,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Loblaws gift cards" title="discounted Loblaws gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Loblaws gift cards" title="discounted Loblaws gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Loblaws — $$42.00</div>
     <div class="market-price">$$33.60</div>
@@ -88,7 +88,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Loblaws gift cards" title="discounted Loblaws gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Loblaws gift cards" title="discounted Loblaws gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Loblaws — $$10.00</div>
     <div class="market-price">$$8.00</div>
@@ -105,7 +105,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Walmart gift cards" title="discounted Walmart gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Walmart gift cards" title="discounted Walmart gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Walmart — $$10.00</div>
     <div class="market-price">$$7.50</div>
@@ -156,7 +156,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$50.00</div>
     <div class="market-price">$$37.50</div>
@@ -241,7 +241,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$52.00</div>
     <div class="market-price">$$41.60</div>
@@ -275,7 +275,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$25.00</div>
     <div class="market-price">$$20.00</div>
@@ -292,7 +292,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Walmart gift cards" title="discounted Walmart gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Walmart gift cards" title="discounted Walmart gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Walmart — $$100.00</div>
     <div class="market-price">$$80.00</div>
@@ -377,7 +377,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Best Buy gift cards" title="discounted Best Buy gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Best Buy gift cards" title="discounted Best Buy gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');"></div>
   <div class="market-card-body">
     <div class="market-brand">Best Buy — $$50.00</div>
     <div class="market-price">$$40.00</div>
@@ -394,7 +394,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$29.00</div>
     <div class="market-price">$$23.20</div>
@@ -428,7 +428,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Staples gift cards" title="discounted Staples gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Staples gift cards" title="discounted Staples gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92400b671e6c284c89b81.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Staples — $$68.23</div>
     <div class="market-price">$$54.58</div>
@@ -445,7 +445,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$50.00</div>
     <div class="market-price">$$40.00</div>
@@ -462,7 +462,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$100.00</div>
     <div class="market-price">$$75.00</div>
@@ -581,7 +581,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$25.00</div>
     <div class="market-price">$$20.00</div>
@@ -598,7 +598,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$40.00</div>
     <div class="market-price">$$32.00</div>
@@ -615,7 +615,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$53.95</div>
     <div class="market-price">$$40.46</div>
@@ -632,7 +632,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$40.00</div>
     <div class="market-price">$$32.00</div>
@@ -666,7 +666,7 @@
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Loblaws gift cards" title="discounted Loblaws gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Loblaws gift cards" title="discounted Loblaws gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Loblaws — $$22.09</div>
     <div class="market-price">$$16.57</div>
