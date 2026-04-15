@@ -573,34 +573,6 @@ window.CGC_DATA = {
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
-</div><div class="hero-deal-card">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">NaN% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted  gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price"> — $</div>
-    <div class="hero-deal-save">Pay $</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
-  </div>
-</div><div class="hero-deal-card">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">NaN% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted  gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price"> — $</div>
-    <div class="hero-deal-save">Pay $</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
-  </div>
 </div>`,
   marketHtml: `<article class="market-card" data-brand="" data-category="retail">
   <div class="market-status-row">
