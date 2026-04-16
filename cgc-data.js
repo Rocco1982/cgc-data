@@ -517,20 +517,6 @@ window.CGC_DATA = {
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="https://buy.stripe.com/00w9AT6zGcQcaxgdI37Zu1r">Buy Now</a>
   </div>
-</div><div class="hero-deal-card" data-ref="GCFC-F26386">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">25.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png" alt="discounted Canadian Tire gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Canadian Tire — $53.95</div>
-    <div class="hero-deal-save">Pay $40.46</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="https://buy.stripe.com/5kQ6oH6zG3fCaxg7jF7Zu1q">Buy Now</a>
-  </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U20649">
   <div class="hero-deal-status">
     <span class="hero-deal-pill hero-pill-live">Live</span>
@@ -1216,23 +1202,6 @@ window.CGC_DATA = {
       <span class="market-meta">Instant Delivery</span>
     </div>
     <a class="market-buy" href="https://buy.stripe.com/00w9AT6zGcQcaxgdI37Zu1r">Buy Now</a>
-  </div>
-</article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-F26386">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-live">Live</span>
-  </div>
-  <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Canadian Tire gift cards" title="discounted Canadian Tire gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');"></div>
-  <div class="market-card-body">
-    <div class="market-brand">Canadian Tire — $$53.95</div>
-    <div class="market-price">$$40.46</div>
-    <div class="market-save">Save 25.00%</div>
-    <div class="market-stock">Available now</div>
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Instant Delivery</span>
-    </div>
-    <a class="market-buy" href="https://buy.stripe.com/5kQ6oH6zG3fCaxg7jF7Zu1q">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-U20649">
   <div class="market-status-row">
