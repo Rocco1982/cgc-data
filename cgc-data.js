@@ -403,7 +403,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg Steakhouse — $100.00</div>
     <div class="hero-deal-save">Pay $75.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/eVq7sL5vC03qbBk5bx7Zu1z">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q79239">
   <div class="hero-deal-status">
@@ -417,7 +417,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Flight Centre — $50.00</div>
     <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/3cI9AT6zG7vS7l4eM77Zu1y">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L07573">
   <div class="hero-deal-status">
@@ -431,7 +431,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Booster Juice — $10.52</div>
     <div class="hero-deal-save">Pay $8.42</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/aFabJ13nu4jG48SgUf7Zu1x">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-X51661">
   <div class="hero-deal-status">
@@ -445,7 +445,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Roots Canada — $28.00</div>
     <div class="hero-deal-save">Pay $21.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/aFa00j8HOcQc20KgUf7Zu1w">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A85796">
   <div class="hero-deal-status">
@@ -459,7 +459,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Roots Canada — $25.00</div>
     <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/dRm00jbU0cQcgVEfQb7Zu1v">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U25112">
   <div class="hero-deal-status">
@@ -473,7 +473,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Boston Pizza — $21.00</div>
     <div class="hero-deal-save">Pay $16.80</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/bJefZhaPWaI49tc5bx7Zu1u">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-C45776">
   <div class="hero-deal-status">
@@ -487,7 +487,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Winners — $25.00</div>
     <div class="hero-deal-save">Pay $18.75</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/bJe9AT2jqg2o9tcgUf7Zu1t">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-V18690">
   <div class="hero-deal-status">
@@ -501,7 +501,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
     <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/7sY8wPgag7vS9tcgUf7Zu1s">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q09903">
   <div class="hero-deal-status">
@@ -515,7 +515,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $40.00</div>
     <div class="hero-deal-save">Pay $32.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/00w9AT6zGcQcaxgdI37Zu1r">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-F26386">
   <div class="hero-deal-status">
@@ -529,7 +529,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $53.95</div>
     <div class="hero-deal-save">Pay $40.46</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/5kQ6oH6zG3fCaxg7jF7Zu1q">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U20649">
   <div class="hero-deal-status">
@@ -543,7 +543,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $40.00</div>
     <div class="hero-deal-save">Pay $32.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/14A14n4ry7vSbBk47t7Zu1p">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U46222">
   <div class="hero-deal-status">
@@ -557,7 +557,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg — $50</div>
     <div class="hero-deal-save">Pay $40</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/fZuaEX0bi3fC34OcDZ7Zu1o">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-F26386">
   <div class="hero-deal-status">
@@ -571,7 +571,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Loblaws — $22.09</div>
     <div class="hero-deal-save">Pay $16.57</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/eVqcN56zGg2o0WGbzV7Zu1n">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q19909">
   <div class="hero-deal-status">
@@ -585,7 +585,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">West Jet — $100</div>
     <div class="hero-deal-save">Pay $80</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/14A14n4rydUgcFocDZ7Zu1m">Buy Now</a>
   </div>
 </div>`,
   marketHtml: `<article class="market-card" data-brand="Costco" data-category="retail" data-ref="GC-CA-OJBT-3091">
@@ -1079,7 +1079,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/eVq7sL5vC03qbBk5bx7Zu1z">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Flight Centre" data-category="retail" data-ref="GCFC-Q79239">
   <div class="market-status-row">
@@ -1096,7 +1096,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/3cI9AT6zG7vS7l4eM77Zu1y">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Booster Juice" data-category="retail" data-ref="GCFC-L07573">
   <div class="market-status-row">
@@ -1113,7 +1113,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/aFabJ13nu4jG48SgUf7Zu1x">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-X51661">
   <div class="market-status-row">
@@ -1130,7 +1130,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/aFa00j8HOcQc20KgUf7Zu1w">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-A85796">
   <div class="market-status-row">
@@ -1147,7 +1147,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/dRm00jbU0cQcgVEfQb7Zu1v">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Boston Pizza" data-category="retail" data-ref="GCFC-U25112">
   <div class="market-status-row">
@@ -1164,7 +1164,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/bJefZhaPWaI49tc5bx7Zu1u">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-C45776">
   <div class="market-status-row">
@@ -1181,7 +1181,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/bJe9AT2jqg2o9tcgUf7Zu1t">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-V18690">
   <div class="market-status-row">
@@ -1198,7 +1198,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/7sY8wPgag7vS9tcgUf7Zu1s">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-Q09903">
   <div class="market-status-row">
@@ -1215,7 +1215,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/00w9AT6zGcQcaxgdI37Zu1r">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-F26386">
   <div class="market-status-row">
@@ -1232,7 +1232,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/5kQ6oH6zG3fCaxg7jF7Zu1q">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-U20649">
   <div class="market-status-row">
@@ -1249,7 +1249,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/14A14n4ry7vSbBk47t7Zu1p">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Keg" data-category="retail" data-ref="GCFC-U46222">
   <div class="market-status-row">
@@ -1266,7 +1266,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/fZuaEX0bi3fC34OcDZ7Zu1o">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-F26386">
   <div class="market-status-row">
@@ -1283,7 +1283,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/eVqcN56zGg2o0WGbzV7Zu1n">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="West Jet" data-category="retail" data-ref="GCFC-Q19909">
   <div class="market-status-row">
@@ -1300,7 +1300,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="https://buy.stripe.com/14A14n4rydUgcFocDZ7Zu1m">Buy Now</a>
   </div>
 </article>`
 };
