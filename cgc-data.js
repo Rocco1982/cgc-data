@@ -277,7 +277,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Lululemon — $75.97</div>
     <div class="hero-deal-save">Pay $56.98</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVzE2S0Zk8orKjYxjlZrb","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14AbJ1bU0bM8cFo6fB7Zu0m"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L94318">
   <div class="hero-deal-status">
@@ -291,7 +291,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Cactus Club — $79.67</div>
     <div class="hero-deal-save">Pay $63.74</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVyE2S0Zk8orKoAZmPKeN","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/dRmaEX9LSdUg8p8dI37Zu0l"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-X28056">
   <div class="hero-deal-status">
@@ -305,7 +305,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Value Village — $10.39</div>
     <div class="hero-deal-save">Pay $8.31</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVxE2S0Zk8orKRkXF31An","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cI7sLbU0g2obBk9rN7Zu0k"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-R48690">
   <div class="hero-deal-status">
@@ -319,7 +319,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Under Armour — $50.00</div>
     <div class="hero-deal-save">Pay $37.50</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVwE2S0Zk8orKEYpMxD61","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/aFa8wPf6c8zW9tcbzV7Zu0j"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-W35405">
   <div class="hero-deal-status">
@@ -333,7 +333,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Best Buy — $50.00</div>
     <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVvE2S0Zk8orK00c5GyoI","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14A7sL9LS03q0WGavR7Zu0i"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-G44650">
   <div class="hero-deal-status">
@@ -347,7 +347,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $29.00</div>
     <div class="hero-deal-save">Pay $23.20</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVuE2S0Zk8orKvh1F4byL","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/cNidR9bU04jG8p8dI37Zu0h"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U75205">
   <div class="hero-deal-status">
@@ -361,7 +361,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">One4all — $25.00</div>
     <div class="hero-deal-save">Pay $18.75</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVsE2S0Zk8orKjdEQQSC4","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cI4gz5vCaI4bBkcDZ7Zu0g"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L30436">
   <div class="hero-deal-status">
@@ -375,7 +375,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Staples — $68.23</div>
     <div class="hero-deal-save">Pay $54.58</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVrE2S0Zk8orKB9kEWxHy","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/00wcN56zGaI420KeM77Zu0f"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A51165">
   <div class="hero-deal-status">
@@ -389,7 +389,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg Steakhouse — $50.00</div>
     <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVqE2S0Zk8orKfLwEchOB","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14A28rbU02by20K47t7Zu0e"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A51165">
   <div class="hero-deal-status">
@@ -403,7 +403,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg Steakhouse — $100.00</div>
     <div class="hero-deal-save">Pay $75.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVpE2S0Zk8orK7kmBMzX7","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/8x2aEXaPWeYkeNwbzV7Zu0d"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q79239">
   <div class="hero-deal-status">
@@ -417,7 +417,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Flight Centre — $50.00</div>
     <div class="hero-deal-save">Pay $40.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVoE2S0Zk8orKHaOo9GbN","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/4gMeVdf6c03qbBk33p7Zu0c"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L07573">
   <div class="hero-deal-status">
@@ -431,7 +431,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Booster Juice — $10.52</div>
     <div class="hero-deal-save">Pay $8.42</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVnE2S0Zk8orKktJCM8BM","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/7sY28r0bi17uaxg1Zl7Zu0b"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-X51661">
   <div class="hero-deal-status">
@@ -445,7 +445,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Roots Canada — $28.00</div>
     <div class="hero-deal-save">Pay $21.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVlE2S0Zk8orKTbCrZ5E6","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14AdR95vC4jGdJs1Zl7Zu0a"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A85796">
   <div class="hero-deal-status">
@@ -459,7 +459,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Roots Canada — $25.00</div>
     <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVkE2S0Zk8orKNB3sTmyG","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/9B65kD6zGdUg9tcavR7Zu09"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U25112">
   <div class="hero-deal-status">
@@ -473,7 +473,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Boston Pizza — $21.00</div>
     <div class="hero-deal-save">Pay $16.80</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVjE2S0Zk8orKiNZFcoGc","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/28E5kD8HO9E048S47t7Zu08"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-C45776">
   <div class="hero-deal-status">
@@ -487,7 +487,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Winners — $25.00</div>
     <div class="hero-deal-save">Pay $18.75</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfViE2S0Zk8orKuvl57e2l","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/bJe14n3nubM834OdI37Zu07"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-V18690">
   <div class="hero-deal-status">
@@ -501,7 +501,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
     <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVhE2S0Zk8orKbraToacV","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/dRm8wPgag4jG6h05bx7Zu06"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q09903">
   <div class="hero-deal-status">
@@ -515,7 +515,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $40.00</div>
     <div class="hero-deal-save">Pay $32.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVgE2S0Zk8orKgSPgRLfL","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/4gMaEX9LS8zW34O9rN7Zu05"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-F26386">
   <div class="hero-deal-status">
@@ -529,7 +529,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $53.95</div>
     <div class="hero-deal-save">Pay $40.46</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVeE2S0Zk8orKuHlTmmzT","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cI14n6zG2bygVEcDZ7Zu04"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U20649">
   <div class="hero-deal-status">
@@ -543,7 +543,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Canadian Tire — $40.00</div>
     <div class="hero-deal-save">Pay $32.00</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVdE2S0Zk8orKNMWDE1Xe","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/9B600jcY4dUgeNwavR7Zu03"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U46222">
   <div class="hero-deal-status">
@@ -557,7 +557,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Keg — $50</div>
     <div class="hero-deal-save">Pay $40</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVcE2S0Zk8orK2mm8Wal7","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/00wcN57DKg2odJs6fB7Zu02"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-F26386">
   <div class="hero-deal-status">
@@ -571,7 +571,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">Loblaws — $22.09</div>
     <div class="hero-deal-save">Pay $16.57</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVaE2S0Zk8orKJ9oc1mPU","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/cNifZh1fm03q34OcDZ7Zu01"}">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q19909">
   <div class="hero-deal-status">
@@ -585,7 +585,7 @@ window.CGC_DATA = {
     <div class="hero-deal-price">West Jet — $100</div>
     <div class="hero-deal-save">Pay $80</div>
     <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
+    <a class="hero-deal-buy" href="{"id":"plink_1TMfVZE2S0Zk8orKL7prIWO1","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cIbJ15vC6rO7l4dI37Zu00"}">Buy Now</a>
   </div>
 </div>`,
   marketHtml: `<article class="market-card" data-brand="Costco" data-category="retail" data-ref="GC-CA-OJBT-3091">
@@ -926,7 +926,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVzE2S0Zk8orKjYxjlZrb","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14AbJ1bU0bM8cFo6fB7Zu0m"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Cactus Club" data-category="retail" data-ref="GCFC-L94318">
   <div class="market-status-row">
@@ -943,7 +943,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVyE2S0Zk8orKoAZmPKeN","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/dRmaEX9LSdUg8p8dI37Zu0l"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Value Village" data-category="retail" data-ref="GCFC-X28056">
   <div class="market-status-row">
@@ -960,7 +960,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVxE2S0Zk8orKRkXF31An","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cI7sLbU0g2obBk9rN7Zu0k"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Under Armour" data-category="retail" data-ref="GCFC-R48690">
   <div class="market-status-row">
@@ -977,7 +977,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVwE2S0Zk8orKEYpMxD61","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/aFa8wPf6c8zW9tcbzV7Zu0j"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-W35405">
   <div class="market-status-row">
@@ -994,7 +994,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVvE2S0Zk8orK00c5GyoI","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14A7sL9LS03q0WGavR7Zu0i"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-G44650">
   <div class="market-status-row">
@@ -1011,7 +1011,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVuE2S0Zk8orKvh1F4byL","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/cNidR9bU04jG8p8dI37Zu0h"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="One4all" data-category="retail" data-ref="GCFC-U75205">
   <div class="market-status-row">
@@ -1028,7 +1028,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVsE2S0Zk8orKjdEQQSC4","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cI4gz5vCaI4bBkcDZ7Zu0g"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Staples" data-category="retail" data-ref="GCFC-L30436">
   <div class="market-status-row">
@@ -1045,7 +1045,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVrE2S0Zk8orKB9kEWxHy","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/00wcN56zGaI420KeM77Zu0f"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-A51165">
   <div class="market-status-row">
@@ -1062,7 +1062,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVqE2S0Zk8orKfLwEchOB","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14A28rbU02by20K47t7Zu0e"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-A51165">
   <div class="market-status-row">
@@ -1079,7 +1079,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVpE2S0Zk8orK7kmBMzX7","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/8x2aEXaPWeYkeNwbzV7Zu0d"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Flight Centre" data-category="retail" data-ref="GCFC-Q79239">
   <div class="market-status-row">
@@ -1096,7 +1096,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVoE2S0Zk8orKHaOo9GbN","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/4gMeVdf6c03qbBk33p7Zu0c"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Booster Juice" data-category="retail" data-ref="GCFC-L07573">
   <div class="market-status-row">
@@ -1113,7 +1113,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVnE2S0Zk8orKktJCM8BM","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/7sY28r0bi17uaxg1Zl7Zu0b"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-X51661">
   <div class="market-status-row">
@@ -1130,7 +1130,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVlE2S0Zk8orKTbCrZ5E6","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/14AdR95vC4jGdJs1Zl7Zu0a"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-A85796">
   <div class="market-status-row">
@@ -1147,7 +1147,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVkE2S0Zk8orKNB3sTmyG","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/9B65kD6zGdUg9tcavR7Zu09"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Boston Pizza" data-category="retail" data-ref="GCFC-U25112">
   <div class="market-status-row">
@@ -1164,7 +1164,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVjE2S0Zk8orKiNZFcoGc","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/28E5kD8HO9E048S47t7Zu08"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-C45776">
   <div class="market-status-row">
@@ -1181,7 +1181,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfViE2S0Zk8orKuvl57e2l","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/bJe14n3nubM834OdI37Zu07"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-V18690">
   <div class="market-status-row">
@@ -1198,7 +1198,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVhE2S0Zk8orKbraToacV","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/dRm8wPgag4jG6h05bx7Zu06"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-Q09903">
   <div class="market-status-row">
@@ -1215,7 +1215,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVgE2S0Zk8orKgSPgRLfL","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/4gMaEX9LS8zW34O9rN7Zu05"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-F26386">
   <div class="market-status-row">
@@ -1232,7 +1232,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVeE2S0Zk8orKuHlTmmzT","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cI14n6zG2bygVEcDZ7Zu04"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-U20649">
   <div class="market-status-row">
@@ -1249,7 +1249,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVdE2S0Zk8orKNMWDE1Xe","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/9B600jcY4dUgeNwavR7Zu03"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Keg" data-category="retail" data-ref="GCFC-U46222">
   <div class="market-status-row">
@@ -1266,7 +1266,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVcE2S0Zk8orK2mm8Wal7","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/00wcN57DKg2odJs6fB7Zu02"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-F26386">
   <div class="market-status-row">
@@ -1283,7 +1283,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVaE2S0Zk8orKJ9oc1mPU","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/cNifZh1fm03q34OcDZ7Zu01"}">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="West Jet" data-category="retail" data-ref="GCFC-Q19909">
   <div class="market-status-row">
@@ -1300,7 +1300,7 @@ window.CGC_DATA = {
       <span class="market-meta">Digital</span>
       <span class="market-meta">Instant Delivery</span>
     </div>
-    <a class="market-buy" href="">Buy Now</a>
+    <a class="market-buy" href="{"id":"plink_1TMfVZE2S0Zk8orKL7prIWO1","object":"payment_link","active":true,"after_completion":{"hosted_confirmation":{"custom_message":null},"type":"hosted_confirmation"},"allow_promotion_codes":false,"application":null,"application_fee_amount":null,"application_fee_percent":null,"automatic_tax":{"enabled":false,"liability":null},"billing_address_collection":"auto","consent_collection":null,"currency":"cad","custom_fields":[],"custom_text":{"after_submit":null,"shipping_address":null,"submit":null,"terms_of_service_acceptance":null},"customer_creation":"if_required","inactive_message":null,"invoice_creation":{"enabled":false,"invoice_data":{"account_tax_ids":null,"custom_fields":null,"description":null,"footer":null,"issuer":null,"metadata":{},"rendering_options":null}},"livemode":true,"managed_payments":{"enabled":false},"metadata":{},"on_behalf_of":null,"payment_intent_data":null,"payment_method_collection":"if_required","payment_method_types":null,"phone_number_collection":{"enabled":false},"restrictions":null,"shipping_address_collection":null,"shipping_options":[],"submit_type":"auto","subscription_data":null,"tax_id_collection":{"enabled":false,"required":"never"},"transfer_data":null,"url":"https://buy.stripe.com/3cIbJ15vC6rO7l4dI37Zu00"}">Buy Now</a>
   </div>
 </article>`
 };
