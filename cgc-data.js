@@ -1,33 +1,5 @@
 window.CGC_DATA = {
-  heroHtml: `<div class="hero-deal-card" data-ref="GC-CA-OJBT-3091">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">20.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif" alt="discounted Costco gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Costco — $300.00</div>
-    <div class="hero-deal-save">Pay $240.00</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="https://buy.stripe.com/5kQ7sL5vCeYk8p8dI37Zu21">Buy Now</a>
-  </div>
-</div><div class="hero-deal-card" data-ref="GC-CA-OJBT-3091">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">25.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif" alt="discounted Costco gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Costco — $100.00</div>
-    <div class="hero-deal-save">Pay $75.00</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="https://buy.stripe.com/5kQ7sLcY4bM8eNw9rN7Zu20">Buy Now</a>
-  </div>
-</div><div class="hero-deal-card" data-ref="GCFC-G91751">
+  heroHtml: `<div class="hero-deal-card" data-ref="GCFC-G91751">
   <div class="hero-deal-status">
     <span class="hero-deal-pill hero-pill-live">Live</span>
   </div>
@@ -250,20 +222,6 @@ window.CGC_DATA = {
     <div class="hero-deal-save">Pay $20.00</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="https://buy.stripe.com/5kQ4gzaPWdUg5cWdI37Zu1K">Buy Now</a>
-  </div>
-</div><div class="hero-deal-card" data-ref="GCFC-B09101">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">20.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif" alt="discounted Walmart gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Walmart — $100.00</div>
-    <div class="hero-deal-save">Pay $80.00</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="https://buy.stripe.com/cNidR9aPWg2o20K7jF7Zu1J">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-B59842">
   <div class="hero-deal-status">
@@ -574,41 +532,7 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://buy.stripe.com/14A14n4rydUgcFocDZ7Zu1m">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Costco" data-category="retail" data-ref="GC-CA-OJBT-3091">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-live">Live</span>
-  </div>
-  <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Costco gift cards" title="discounted Costco gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif');"></div>
-  <div class="market-card-body">
-    <div class="market-brand">Costco — $$300.00</div>
-    <div class="market-price">$$240.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Available now</div>
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Instant Delivery</span>
-    </div>
-    <a class="market-buy" href="https://buy.stripe.com/5kQ7sL5vCeYk8p8dI37Zu21">Buy Now</a>
-  </div>
-</article><article class="market-card" data-brand="Costco" data-category="retail" data-ref="GC-CA-OJBT-3091">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-live">Live</span>
-  </div>
-  <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Costco gift cards" title="discounted Costco gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305517c3a4d126357b3.jfif');"></div>
-  <div class="market-card-body">
-    <div class="market-brand">Costco — $$100.00</div>
-    <div class="market-price">$$75.00</div>
-    <div class="market-save">Save 25.00%</div>
-    <div class="market-stock">Available now</div>
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Instant Delivery</span>
-    </div>
-    <a class="market-buy" href="https://buy.stripe.com/5kQ7sLcY4bM8eNw9rN7Zu20">Buy Now</a>
-  </div>
-</article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
+  marketHtml: `<article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
@@ -879,23 +803,6 @@ window.CGC_DATA = {
       <span class="market-meta">Instant Delivery</span>
     </div>
     <a class="market-buy" href="https://buy.stripe.com/5kQ4gzaPWdUg5cWdI37Zu1K">Buy Now</a>
-  </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-B09101">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-live">Live</span>
-  </div>
-  <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Walmart gift cards" title="discounted Walmart gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');"></div>
-  <div class="market-card-body">
-    <div class="market-brand">Walmart — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Available now</div>
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Instant Delivery</span>
-    </div>
-    <a class="market-buy" href="https://buy.stripe.com/cNidR9aPWg2o20K7jF7Zu1J">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Lululemon" data-category="retail" data-ref="GCFC-B59842">
   <div class="market-status-row">
