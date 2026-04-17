@@ -33,7 +33,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Banana Republic gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e2911b8696a78b8db62355.jfif" alt="discounted Banana Republic gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Banana Republic — $50.00</div>
@@ -47,7 +47,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png" alt="discounted Ultimate Dining gift cards">
+    <img loading="lazy" decoding="async" src="" alt="discounted Ultimate Dining gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Ultimate Dining — $20.00</div>
@@ -257,7 +257,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Value Village gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924b123917331fbc8637a.png" alt="discounted Value Village gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Value Village — $10.39</div>
@@ -383,7 +383,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Booster Juice gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg" alt="discounted Booster Juice gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Booster Juice — $10.52</div>
@@ -571,7 +571,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Banana Republic gift cards" title="discounted Banana Republic gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Banana Republic gift cards" title="discounted Banana Republic gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e2911b8696a78b8db62355.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Banana Republic — $$50.00</div>
     <div class="market-price">$$37.50</div>
@@ -588,7 +588,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Ultimate Dining gift cards" title="discounted Ultimate Dining gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Ultimate Dining gift cards" title="discounted Ultimate Dining gift cards" style="background-image:url('');"></div>
   <div class="market-card-body">
     <div class="market-brand">Ultimate Dining — $$20.00</div>
     <div class="market-price">$$16.00</div>
@@ -843,7 +843,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Value Village gift cards" title="discounted Value Village gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Value Village gift cards" title="discounted Value Village gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924b123917331fbc8637a.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Value Village — $$10.39</div>
     <div class="market-price">$$8.31</div>
@@ -996,7 +996,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Booster Juice gift cards" title="discounted Booster Juice gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Booster Juice gift cards" title="discounted Booster Juice gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg');"></div>
   <div class="market-card-body">
     <div class="market-brand">Booster Juice — $$10.52</div>
     <div class="market-price">$$8.42</div>
