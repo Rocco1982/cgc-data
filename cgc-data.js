@@ -5,7 +5,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Foodland gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9269bd7871cddf7155bb5.jfif" alt="discounted Foodland gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Foodland — $50.00</div>
@@ -89,7 +89,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Dairy Queen gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92602a4e6aa34cb8fd348.jfif" alt="discounted Dairy Queen gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Dairy Queen — $25.00</div>
@@ -103,7 +103,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Roots Canada gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Roots Canada — $28.00</div>
@@ -145,7 +145,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Lululemon gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png" alt="discounted Lululemon gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Lululemon — $50.00</div>
@@ -159,7 +159,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Winners gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png" alt="discounted Winners gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Winners — $50.00</div>
@@ -173,7 +173,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Mark's Work Wearhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9259501157e64b3c6c78b.png" alt="discounted Mark's Work Wearhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Mark's Work Wearhouse — $50.00</div>
@@ -229,7 +229,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Lululemon gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png" alt="discounted Lululemon gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Lululemon — $75.97</div>
@@ -243,7 +243,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Cactus Club gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a74b4c63e5061c5a5bd3a8.png" alt="discounted Cactus Club gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Cactus Club — $79.67</div>
@@ -271,7 +271,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Under Armour gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif" alt="discounted Under Armour gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Under Armour — $50.00</div>
@@ -313,7 +313,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted One4all gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a7482cb701feb92d6aa546.webp" alt="discounted One4all gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">One4all — $25.00</div>
@@ -369,7 +369,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Flight Centre gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d923c3d7871cddf714b9eb.png" alt="discounted Flight Centre gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Flight Centre — $50.00</div>
@@ -397,7 +397,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Roots Canada gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Roots Canada — $28.00</div>
@@ -411,7 +411,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Roots Canada gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Roots Canada — $25.00</div>
@@ -439,7 +439,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Winners gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png" alt="discounted Winners gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Winners — $25.00</div>
@@ -537,7 +537,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Foodland gift cards" title="discounted Foodland gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Foodland gift cards" title="discounted Foodland gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9269bd7871cddf7155bb5.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Foodland — $$50.00</div>
     <div class="market-price">$$40.00</div>
@@ -639,7 +639,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Dairy Queen gift cards" title="discounted Dairy Queen gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Dairy Queen gift cards" title="discounted Dairy Queen gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92602a4e6aa34cb8fd348.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Dairy Queen — $$25.00</div>
     <div class="market-price">$$20.00</div>
@@ -656,7 +656,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Roots Canada gift cards" title="discounted Roots Canada gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Roots Canada gift cards" title="discounted Roots Canada gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Roots Canada — $$28.00</div>
     <div class="market-price">$$22.40</div>
@@ -707,7 +707,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Lululemon gift cards" title="discounted Lululemon gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Lululemon gift cards" title="discounted Lululemon gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Lululemon — $$50.00</div>
     <div class="market-price">$$40.00</div>
@@ -724,7 +724,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Winners gift cards" title="discounted Winners gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Winners gift cards" title="discounted Winners gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Winners — $$50.00</div>
     <div class="market-price">$$37.50</div>
@@ -741,7 +741,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Mark's Work Wearhouse gift cards" title="discounted Mark's Work Wearhouse gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Mark's Work Wearhouse gift cards" title="discounted Mark's Work Wearhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9259501157e64b3c6c78b.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Mark's Work Wearhouse — $$50.00</div>
     <div class="market-price">$$40.00</div>
@@ -809,7 +809,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Lululemon gift cards" title="discounted Lululemon gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Lululemon gift cards" title="discounted Lululemon gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Lululemon — $$75.97</div>
     <div class="market-price">$$56.98</div>
@@ -826,7 +826,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Cactus Club gift cards" title="discounted Cactus Club gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Cactus Club gift cards" title="discounted Cactus Club gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a74b4c63e5061c5a5bd3a8.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Cactus Club — $$79.67</div>
     <div class="market-price">$$63.74</div>
@@ -860,7 +860,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Under Armour gift cards" title="discounted Under Armour gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Under Armour gift cards" title="discounted Under Armour gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Under Armour — $$50.00</div>
     <div class="market-price">$$37.50</div>
@@ -911,7 +911,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted One4all gift cards" title="discounted One4all gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted One4all gift cards" title="discounted One4all gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a7482cb701feb92d6aa546.webp');"></div>
   <div class="market-card-body">
     <div class="market-brand">One4all — $$25.00</div>
     <div class="market-price">$$18.75</div>
@@ -979,7 +979,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Flight Centre gift cards" title="discounted Flight Centre gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Flight Centre gift cards" title="discounted Flight Centre gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d923c3d7871cddf714b9eb.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Flight Centre — $$50.00</div>
     <div class="market-price">$$40.00</div>
@@ -1013,7 +1013,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Roots Canada gift cards" title="discounted Roots Canada gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Roots Canada gift cards" title="discounted Roots Canada gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Roots Canada — $$28.00</div>
     <div class="market-price">$$21.00</div>
@@ -1030,7 +1030,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Roots Canada gift cards" title="discounted Roots Canada gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Roots Canada gift cards" title="discounted Roots Canada gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Roots Canada — $$25.00</div>
     <div class="market-price">$$20.00</div>
@@ -1064,7 +1064,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Winners gift cards" title="discounted Winners gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Winners gift cards" title="discounted Winners gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Winners — $$25.00</div>
     <div class="market-price">$$18.75</div>
