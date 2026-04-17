@@ -47,7 +47,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Ultimate Dining gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png" alt="discounted Ultimate Dining gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Ultimate Dining — $20.00</div>
@@ -131,7 +131,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Indigo gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png" alt="discounted Indigo gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Indigo — $20.00</div>
@@ -201,7 +201,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">25.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Bass Pro Shop gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif" alt="discounted Bass Pro Shop gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Bass Pro Shop — $16.00</div>
@@ -425,7 +425,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Boston Pizza gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png" alt="discounted Boston Pizza gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Boston Pizza — $21.00</div>
@@ -495,10 +495,10 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Keg gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg — $50</div>
+    <div class="hero-deal-price">Keg Steakhouse — $50</div>
     <div class="hero-deal-save">Pay $40</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="https://buy.stripe.com/fZuaEX0bi3fC34OcDZ7Zu1o">Buy Now</a>
@@ -523,10 +523,10 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted West Jet gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e29026a136e5e5066d0760.jfif" alt="discounted WestJet gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">West Jet — $100</div>
+    <div class="hero-deal-price">WestJet — $100</div>
     <div class="hero-deal-save">Pay $80</div>
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="https://buy.stripe.com/14A14n4rydUgcFocDZ7Zu1m">Buy Now</a>
@@ -588,7 +588,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Ultimate Dining gift cards" title="discounted Ultimate Dining gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Ultimate Dining gift cards" title="discounted Ultimate Dining gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Ultimate Dining — $$20.00</div>
     <div class="market-price">$$16.00</div>
@@ -690,7 +690,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Indigo gift cards" title="discounted Indigo gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Indigo gift cards" title="discounted Indigo gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Indigo — $$20.00</div>
     <div class="market-price">$$16.00</div>
@@ -775,7 +775,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">25.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Bass Pro Shop gift cards" title="discounted Bass Pro Shop gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Bass Pro Shop gift cards" title="discounted Bass Pro Shop gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');"></div>
   <div class="market-card-body">
     <div class="market-brand">Bass Pro Shop — $$16.00</div>
     <div class="market-price">$$12.00</div>
@@ -1047,7 +1047,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Boston Pizza gift cards" title="discounted Boston Pizza gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Boston Pizza gift cards" title="discounted Boston Pizza gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Boston Pizza — $$21.00</div>
     <div class="market-price">$$16.80</div>
@@ -1127,14 +1127,14 @@ window.CGC_DATA = {
     </div>
     <a class="market-buy" href="https://buy.stripe.com/14A14n4ry7vSbBk47t7Zu1p">Buy Now</a>
   </div>
-</article><article class="market-card" data-brand="Keg" data-category="retail" data-ref="GCFC-U46222">
+</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-U46222">
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Keg gift cards" title="discounted Keg gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Keg Steakhouse gift cards" title="discounted Keg Steakhouse gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');"></div>
   <div class="market-card-body">
-    <div class="market-brand">Keg — $$50</div>
+    <div class="market-brand">Keg Steakhouse — $$50</div>
     <div class="market-price">$$40</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Available now</div>
@@ -1161,14 +1161,14 @@ window.CGC_DATA = {
     </div>
     <a class="market-buy" href="https://buy.stripe.com/eVqcN56zGg2o0WGbzV7Zu1n">Buy Now</a>
   </div>
-</article><article class="market-card" data-brand="West Jet" data-category="retail" data-ref="GCFC-Q19909">
+</article><article class="market-card" data-brand="WestJet" data-category="retail" data-ref="GCFC-Q19909">
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted West Jet gift cards" title="discounted West Jet gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted WestJet gift cards" title="discounted WestJet gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e29026a136e5e5066d0760.jfif');"></div>
   <div class="market-card-body">
-    <div class="market-brand">West Jet — $$100</div>
+    <div class="market-brand">WestJet — $$100</div>
     <div class="market-price">$$80</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Available now</div>
