@@ -47,7 +47,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Ultimate Dining gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png" alt="discounted Ultimate Dining gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Ultimate Dining — $20.00</div>
@@ -588,7 +588,7 @@ window.CGC_DATA = {
     <span class="market-pill market-pill-live">Live</span>
   </div>
   <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Ultimate Dining gift cards" title="discounted Ultimate Dining gift cards" style="background-image:url('');"></div>
+  <div class="market-card-top" role="img" aria-label="discounted Ultimate Dining gift cards" title="discounted Ultimate Dining gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png');"></div>
   <div class="market-card-body">
     <div class="market-brand">Ultimate Dining — $$20.00</div>
     <div class="market-price">$$16.00</div>
