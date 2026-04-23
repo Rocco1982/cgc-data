@@ -1,5 +1,19 @@
 window.CGC_DATA = {
-  heroHtml: `<div class="hero-deal-card" data-ref="GCFC-G91751">
+  heroHtml: `<div class="hero-deal-card" data-ref="GCFC-G91752">
+  <div class="hero-deal-status">
+    <span class="hero-deal-pill hero-pill-live">Live</span>
+  </div>
+  <div class="hero-sale-badge">25.00% OFF</div>
+  <div class="hero-card-media" style="background:#ffffff;">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480419d29d276a.png" alt="discounted Tim Hortons gift cards">
+  </div>
+  <div class="hero-deal-body">
+    <div class="hero-deal-price">Tim Hortons — $0.50</div>
+    <div class="hero-deal-save">Pay $0.38</div>
+    <div class="hero-deal-stock">Available now</div>
+    <a class="hero-deal-buy" href="https://buy.stripe.com/28EcN53nubM87l4dI37Zu1Z">Buy Now</a>
+  </div>
+</div><div class="hero-deal-card" data-ref="GCFC-G91751">
   <div class="hero-deal-status">
     <span class="hero-deal-pill hero-pill-live">Live</span>
   </div>
@@ -532,7 +546,24 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://buy.stripe.com/14A14n4rydUgcFocDZ7Zu1m">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
+  marketHtml: `<article class="market-card" data-brand="Tim Hortons" data-category="retail" data-ref="GCFC-G91752">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-live">Live</span>
+  </div>
+  <div class="market-sale-badge">25.00% OFF</div>
+  <div class="market-card-top" role="img" aria-label="discounted Tim Hortons gift cards" title="discounted Tim Hortons gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480419d29d276a.png');"></div>
+  <div class="market-card-body">
+    <div class="market-brand">Tim Hortons — $$0.50</div>
+    <div class="market-price">$$0.38</div>
+    <div class="market-save">Save 25.00%</div>
+    <div class="market-stock">Available now</div>
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Instant Delivery</span>
+    </div>
+    <a class="market-buy" href="https://buy.stripe.com/28EcN53nubM87l4dI37Zu1Z">Buy Now</a>
+  </div>
+</article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
     <span class="market-pill market-pill-live">Live</span>
   </div>
