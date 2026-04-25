@@ -69,20 +69,6 @@ window.CGC_DATA = {
     <div class="hero-deal-stock">Available now</div>
     <a class="hero-deal-buy" href="https://buy.stripe.com/eVqcN55vCeYkdJs9rN7Zu1V">Buy Now</a>
   </div>
-</div><div class="hero-deal-card" data-ref="GCFC-F94077">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill hero-pill-live">Live</span>
-  </div>
-  <div class="hero-sale-badge">20.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif" alt="discounted Walmart gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Walmart — $10.00</div>
-    <div class="hero-deal-save">Pay $8.00</div>
-    <div class="hero-deal-stock">Available now</div>
-    <a class="hero-deal-buy" href="https://buy.stripe.com/00w6oH8HOaI4bBkavR7Zu1U">Buy Now</a>
-  </div>
 </div><div class="hero-deal-card" data-ref="GCFC-C06388">
   <div class="hero-deal-status">
     <span class="hero-deal-pill hero-pill-live">Live</span>
@@ -630,23 +616,6 @@ window.CGC_DATA = {
       <span class="market-meta">Instant Delivery</span>
     </div>
     <a class="market-buy" href="https://buy.stripe.com/eVqcN55vCeYkdJs9rN7Zu1V">Buy Now</a>
-  </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-F94077">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-live">Live</span>
-  </div>
-  <div class="market-sale-badge">20.00% OFF</div>
-  <div class="market-card-top" role="img" aria-label="discounted Walmart gift cards" title="discounted Walmart gift cards" style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');"></div>
-  <div class="market-card-body">
-    <div class="market-brand">Walmart — $$10.00</div>
-    <div class="market-price">$$8.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Available now</div>
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Instant Delivery</span>
-    </div>
-    <a class="market-buy" href="https://buy.stripe.com/00w6oH8HOaI4bBkavR7Zu1U">Buy Now</a>
   </div>
 </article><article class="market-card" data-brand="Dairy Queen" data-category="retail" data-ref="GCFC-C06388">
   <div class="market-status-row">
