@@ -534,7 +534,7 @@ window.CGC_DATA = {
 </div>`,
   marketHtml: `<article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-N35370">
   <div class="market-status-row">
-    <span class="market-pill "></span>
+    <span class="market-pill market-pill-hot">Coming Soon</span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -550,14 +550,14 @@ window.CGC_DATA = {
     <div class="market-brand">Canadian Tire — $$50.00</div>
     <div class="market-price">$$40.00</div>
     <div class="market-save">Save 20.00%</div>
-    <div class="market-stock"></div>
+    <div class="market-stock">Coming soon — get notified first</div>
 
     <div class="market-meta-row">
       <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
+      <span class="market-meta">Alert Available</span>
     </div>
 
-    <a class="market-buy" href=""></a>
+    <a class="market-buy" href="#alerts">Notify Me When Live</a>
   </div>
 </article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
