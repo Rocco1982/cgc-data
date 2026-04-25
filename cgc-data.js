@@ -532,34 +532,7 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href=""></a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-N35370">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Canadian Tire gift cards"
-    title="discounted Canadian Tire gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Canadian Tire — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="#alerts">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
+  marketHtml: `<article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
     <span class="market-pill "></span>
   </div>
