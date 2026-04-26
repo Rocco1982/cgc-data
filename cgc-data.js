@@ -1,7 +1,7 @@
 window.CGC_DATA = {
   heroHtml: `<div class="hero-deal-card" data-ref="GCFC-G91751">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -15,7 +15,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U30354">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -29,7 +29,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Z66480">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -43,7 +43,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-S97339">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -57,7 +57,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-D38934">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -71,7 +71,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-C06388">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -85,7 +85,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-X51661">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -99,7 +99,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U95624">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -113,7 +113,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A00922">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -127,7 +127,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-P76968">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -141,7 +141,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-B85032">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -155,7 +155,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-E14194">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -169,7 +169,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q16744">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -183,7 +183,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-C67969">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -197,7 +197,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L20478">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -211,7 +211,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-B59842">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -225,7 +225,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L94318">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -239,7 +239,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-X28056">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -253,7 +253,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-R48690">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -267,7 +267,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-W35405">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -281,7 +281,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-G44650">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -295,7 +295,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U75205">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -309,7 +309,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L30436">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -323,7 +323,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A51165">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -337,7 +337,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A51165">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -351,7 +351,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q79239">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -365,7 +365,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-L07573">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -379,7 +379,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-X51661">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -393,7 +393,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A85796">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -407,7 +407,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U25112">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -421,7 +421,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-C45776">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -435,7 +435,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-V18690">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -449,7 +449,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q09903">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -463,7 +463,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-F26386">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -477,7 +477,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U20649">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -491,7 +491,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-U46222">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -505,7 +505,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-F26386">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -519,7 +519,7 @@ window.CGC_DATA = {
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q19909">
   <div class="hero-deal-status">
-    <span class="hero-deal-pill market-pill-best">Available Now</span>
+    <span class="hero-deal-pill market-pill-best"></span>
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
@@ -561,7 +561,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -588,7 +588,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-U30354">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -615,7 +615,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Banana Republic" data-category="retail" data-ref="GCFC-Z66480">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -642,7 +642,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Ultimate Dining" data-category="retail" data-ref="GCFC-S97339">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -669,7 +669,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-D38934">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -696,7 +696,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Dairy Queen" data-category="retail" data-ref="GCFC-C06388">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -723,7 +723,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-X51661">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -750,7 +750,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-U95624">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -777,7 +777,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-A00922">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -804,7 +804,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Lululemon" data-category="retail" data-ref="GCFC-P76968">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -831,7 +831,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-B85032">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -858,7 +858,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-E14194">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -885,7 +885,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-Q16744">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -912,7 +912,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-C67969">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -939,7 +939,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-L20478">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -966,7 +966,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Lululemon" data-category="retail" data-ref="GCFC-B59842">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -993,7 +993,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Cactus Club" data-category="retail" data-ref="GCFC-L94318">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1020,7 +1020,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Value Village" data-category="retail" data-ref="GCFC-X28056">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1047,7 +1047,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Under Armour" data-category="retail" data-ref="GCFC-R48690">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1074,7 +1074,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-W35405">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1101,7 +1101,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-G44650">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1128,7 +1128,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="One4all" data-category="retail" data-ref="GCFC-U75205">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1155,7 +1155,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Staples" data-category="retail" data-ref="GCFC-L30436">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1182,7 +1182,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-A51165">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1209,7 +1209,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-A51165">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1236,7 +1236,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Flight Centre" data-category="retail" data-ref="GCFC-Q79239">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1263,7 +1263,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Booster Juice" data-category="retail" data-ref="GCFC-L07573">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1290,7 +1290,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-X51661">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1317,7 +1317,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-A85796">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1344,7 +1344,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Boston Pizza" data-category="retail" data-ref="GCFC-U25112">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1371,7 +1371,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-C45776">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1398,7 +1398,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-V18690">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1425,7 +1425,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-Q09903">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1452,7 +1452,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-F26386">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1479,7 +1479,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-U20649">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1506,7 +1506,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-U46222">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
@@ -1533,7 +1533,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-F26386">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">20.00% OFF</div>
@@ -1560,7 +1560,7 @@ window.CGC_DATA = {
   </div>
 </article><article class="market-card" data-brand="WestJet" data-category="retail" data-ref="GCFC-Q19909">
   <div class="market-status-row">
-    <span class="market-pill market-pill-best">Available Now</span>
+    <span class="market-pill market-pill-best"></span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
