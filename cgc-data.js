@@ -557,7 +557,7 @@ window.CGC_DATA = {
       <span class="market-meta">Alert Available</span>
     </div>
 
-    <a class="market-buy" href="#alerts">Notify Me When Live</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N35370">Notify Me When Live</a>
   </div>
 </article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
