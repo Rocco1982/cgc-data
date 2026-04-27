@@ -532,7 +532,7 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-Q19909">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-N35370">
+  marketHtml: `<article class="market-card" data-brand="Starbucks" data-category="retail" data-ref="GCFC-J05074">
   <div class="market-status-row">
     <span class="market-pill market-pill-hot">Coming Soon</span>
   </div>
@@ -541,14 +541,14 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Canadian Tire gift cards"
-    title="discounted Canadian Tire gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');">
+    aria-label="discounted Starbucks gift cards"
+    title="discounted Starbucks gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab4804fb3b9d2764.jfif');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Canadian Tire — $$50.00</div>
-    <div class="market-price">$$40.00</div>
+    <div class="market-brand">Starbucks — $$100.00</div>
+    <div class="market-price">$$80.00</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Coming soon — get notified first</div>
 
@@ -557,7 +557,7 @@ window.CGC_DATA = {
       <span class="market-meta">Alert Available</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N35370">Notify Me When Live</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-J05074">Notify Me When Live</a>
   </div>
 </article><article class="market-card" data-brand="Foodland" data-category="retail" data-ref="GCFC-G91751">
   <div class="market-status-row">
