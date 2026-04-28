@@ -570,7 +570,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Foot Locker gift cards"
     title="discounted Foot Locker gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbc.png');">
   </div>
 
   <div class="market-card-body">
@@ -1110,7 +1110,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Princess Auto gift cards"
     title="discounted Princess Auto gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e0824d066ec62b9caf4.png');">
   </div>
 
   <div class="market-card-body">
@@ -1353,7 +1353,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Ardene gift cards"
     title="discounted Ardene gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e088acd760bf8ec140c.png');">
   </div>
 
   <div class="market-card-body">
@@ -1434,7 +1434,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Michaels gift cards"
     title="discounted Michaels gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8c.png');">
   </div>
 
   <div class="market-card-body">
@@ -1812,7 +1812,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted A&W gift cards"
     title="discounted A&W gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb3.png');">
   </div>
 
   <div class="market-card-body">
@@ -2692,6 +2692,168 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R66696">Notify Me When Live</a>
   </div>
+</article><article class="market-card" data-brand="JD Sports" data-category="retail" data-ref="GCFC-R73921">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-hot">Coming Soon</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted JD Sports gift cards"
+    title="discounted JD Sports gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e088acd760bf8ec140a.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">JD Sports — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Coming soon — get notified first</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Alert Available</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R73921">Notify Me When Live</a>
+  </div>
+</article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-A97916">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-hot">Coming Soon</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Loblaws gift cards"
+    title="discounted Loblaws gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Loblaws — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Coming soon — get notified first</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Alert Available</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-A97916">Notify Me When Live</a>
+  </div>
+</article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-P73140">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-hot">Coming Soon</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Cineplex gift cards"
+    title="discounted Cineplex gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a758eb73a2029d89e58fc2.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Cineplex — $$25.00</div>
+    <div class="market-price">$$20.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Coming soon — get notified first</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Alert Available</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P73140">Notify Me When Live</a>
+  </div>
+</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-R73970">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-hot">Coming Soon</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Amazon gift cards"
+    title="discounted Amazon gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Amazon — $$7.00</div>
+    <div class="market-price">$$5.95</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Coming soon — get notified first</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Alert Available</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R73970">Notify Me When Live</a>
+  </div>
+</article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-K60697">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-hot">Coming Soon</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Mark's Work Wearhouse gift cards"
+    title="discounted Mark's Work Wearhouse gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9259501157e64b3c6c78b.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Mark's Work Wearhouse — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Coming soon — get notified first</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Alert Available</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K60697">Notify Me When Live</a>
+  </div>
+</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-K80290">
+  <div class="market-status-row">
+    <span class="market-pill market-pill-hot">Coming Soon</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Amazon gift cards"
+    title="discounted Amazon gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Amazon — $$50.00</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Coming soon — get notified first</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Alert Available</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K80290">Notify Me When Live</a>
+  </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-P97782">
   <div class="market-status-row">
     <span class="market-pill market-pill-hot">Coming Soon</span>
@@ -2919,7 +3081,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Save-On-Foods gift cards"
     title="discounted Save-On-Foods gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08d31f44bbd83ea85a.png');">
   </div>
 
   <div class="market-card-body">
@@ -3069,168 +3231,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R29049">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-D10025">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Amazon — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-D10025">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-X23801">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Apple Store gift cards"
-    title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Apple Store — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X23801">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="La Vie en Rose" data-category="retail" data-ref="GCFC-U54289">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted La Vie en Rose gift cards"
-    title="discounted La Vie en Rose gift cards"
-    style="background-image:url('');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">La Vie en Rose — $$18.00</div>
-    <div class="market-price">$$15.30</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U54289">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-G38613">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Amazon — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-G38613">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-E55086">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Winners gift cards"
-    title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Winners — $$30.00</div>
-    <div class="market-price">$$24.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-E55086">Notify Me When Live</a>
-  </div>
-</article><article class="market-card" data-brand="Sephora" data-category="retail" data-ref="GCFC-H29810">
-  <div class="market-status-row">
-    <span class="market-pill market-pill-hot">Coming Soon</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Sephora gift cards"
-    title="discounted Sephora gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Sephora — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Coming soon — get notified first</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Alert Available</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-H29810">Notify Me When Live</a>
   </div>
 </article>`
 };
