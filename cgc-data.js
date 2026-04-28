@@ -33,7 +33,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e2911b8696a78b8db62355.jfif" alt="discounted Banana Republic gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f018f90d66f2a665c4dfda.jfif" alt="discounted Banana Republic gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Banana Republic — $50.00</div>
