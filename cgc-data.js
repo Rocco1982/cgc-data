@@ -532,7 +532,142 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-Q19909">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="LCBO" data-category="retail" data-ref="GCFC-X04864">
+  marketHtml: `<article class="market-card" data-brand="Dollarama" data-category="retail" data-ref="GCFC-L58966">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Dollarama gift cards"
+    title="discounted Dollarama gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01269d31f44bbd83f4028.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Dollarama — $$200.00</div>
+    <div class="market-price">$$170.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Dollarama&ref=GCFC-L58966">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-H02102">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Bass Pro Shop gift cards"
+    title="discounted Bass Pro Shop gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Bass Pro Shop — $$30.00</div>
+    <div class="market-price">$$24.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Bass%20Pro%20Shop&ref=GCFC-H02102">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Google Play" data-category="retail" data-ref="GCFC-B96214">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Google Play gift cards"
+    title="discounted Google Play gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f0126905d419900128f20b.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Google Play — $$150.00</div>
+    <div class="market-price">$$127.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Google%20Play&ref=GCFC-B96214">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Sephora" data-category="retail" data-ref="GCFC-B55574">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Sephora gift cards"
+    title="discounted Sephora gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Sephora — $$100.00</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sephora&ref=GCFC-B55574">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-U62394">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Amazon gift cards"
+    title="discounted Amazon gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Amazon — $$50.00</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-U62394">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="LCBO" data-category="retail" data-ref="GCFC-X04864">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -557,7 +692,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X04864">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=LCBO&ref=GCFC-X04864">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Foot Locker" data-category="retail" data-ref="GCFC-K92257">
   <div class="market-status-row">
@@ -584,7 +719,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K92257">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Foot%20Locker&ref=GCFC-K92257">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="One4all" data-category="retail" data-ref="GCFC-G37564">
   <div class="market-status-row">
@@ -611,7 +746,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-G37564">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=One4all&ref=GCFC-G37564">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Tim Hortons" data-category="retail" data-ref="GCFC-B91711">
   <div class="market-status-row">
@@ -638,7 +773,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-B91711">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Tim%20Hortons&ref=GCFC-B91711">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-U93198">
   <div class="market-status-row">
@@ -665,7 +800,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U93198">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-U93198">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-B21468">
   <div class="market-status-row">
@@ -692,7 +827,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-B21468">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-B21468">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-Q00431">
   <div class="market-status-row">
@@ -719,7 +854,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q00431">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-Q00431">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="No Frills" data-category="retail" data-ref="GCFC-K12124">
   <div class="market-status-row">
@@ -746,7 +881,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K12124">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=No%20Frills&ref=GCFC-K12124">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Carter Osh Kosh" data-category="retail" data-ref="GCFC-Q81071">
   <div class="market-status-row">
@@ -773,7 +908,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q81071">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Carter%20Osh%20Kosh&ref=GCFC-Q81071">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-G48375">
   <div class="market-status-row">
@@ -800,7 +935,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-G48375">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-G48375">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Tim Hortons" data-category="retail" data-ref="GCFC-J98959">
   <div class="market-status-row">
@@ -827,7 +962,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-J98959">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Tim%20Hortons&ref=GCFC-J98959">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-D65084">
   <div class="market-status-row">
@@ -854,7 +989,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-D65084">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-D65084">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-X87702">
   <div class="market-status-row">
@@ -881,7 +1016,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X87702">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-X87702">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-X28488">
   <div class="market-status-row">
@@ -908,7 +1043,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X28488">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-X28488">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Golf Town" data-category="retail" data-ref="GCFC-J78337">
   <div class="market-status-row">
@@ -935,7 +1070,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-J78337">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Golf%20Town&ref=GCFC-J78337">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Dollarama" data-category="retail" data-ref="GCFC-K88384">
   <div class="market-status-row">
@@ -962,7 +1097,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K88384">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Dollarama&ref=GCFC-K88384">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-S96868">
   <div class="market-status-row">
@@ -989,7 +1124,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-S96868">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Mark%27s%20Work%20Wearhouse&ref=GCFC-S96868">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-X13053">
   <div class="market-status-row">
@@ -1016,7 +1151,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X13053">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Loblaws&ref=GCFC-X13053">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-E95133">
   <div class="market-status-row">
@@ -1043,7 +1178,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-E95133">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-E95133">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-A21803">
   <div class="market-status-row">
@@ -1070,7 +1205,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-A21803">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-A21803">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Home Depot" data-category="retail" data-ref="GCFC-L97892">
   <div class="market-status-row">
@@ -1097,7 +1232,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-L97892">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Home%20Depot&ref=GCFC-L97892">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Princess Auto" data-category="retail" data-ref="GCFC-F08323">
   <div class="market-status-row">
@@ -1124,7 +1259,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-F08323">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Princess%20Auto&ref=GCFC-F08323">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Starbucks" data-category="retail" data-ref="GCFC-C64241">
   <div class="market-status-row">
@@ -1151,7 +1286,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-C64241">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Starbucks&ref=GCFC-C64241">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="LCBO" data-category="retail" data-ref="GCFC-G64079">
   <div class="market-status-row">
@@ -1178,7 +1313,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-G64079">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=LCBO&ref=GCFC-G64079">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-N97715">
   <div class="market-status-row">
@@ -1205,7 +1340,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N97715">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-N97715">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-U57060">
   <div class="market-status-row">
@@ -1232,7 +1367,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U57060">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-U57060">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-T32137">
   <div class="market-status-row">
@@ -1259,7 +1394,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-T32137">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-T32137">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-G41960">
   <div class="market-status-row">
@@ -1286,7 +1421,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-G41960">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-G41960">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="FreshCo" data-category="retail" data-ref="GCFC-Q94077">
   <div class="market-status-row">
@@ -1313,7 +1448,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q94077">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=FreshCo&ref=GCFC-Q94077">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-L38012">
   <div class="market-status-row">
@@ -1340,7 +1475,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-L38012">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-L38012">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Ardene" data-category="retail" data-ref="GCFC-C77347">
   <div class="market-status-row">
@@ -1367,7 +1502,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-C77347">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Ardene&ref=GCFC-C77347">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-N84375">
   <div class="market-status-row">
@@ -1394,7 +1529,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N84375">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-N84375">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-Q67397">
   <div class="market-status-row">
@@ -1421,7 +1556,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q67397">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-Q67397">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Michaels" data-category="retail" data-ref="GCFC-T98440">
   <div class="market-status-row">
@@ -1448,7 +1583,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-T98440">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Michaels&ref=GCFC-T98440">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Home Hardware" data-category="retail" data-ref="GCFC-V03653">
   <div class="market-status-row">
@@ -1475,7 +1610,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-V03653">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Home%20Hardware&ref=GCFC-V03653">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Swiss Chalet" data-category="retail" data-ref="GCFC-P07671">
   <div class="market-status-row">
@@ -1502,7 +1637,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P07671">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Swiss%20Chalet&ref=GCFC-P07671">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-N99118">
   <div class="market-status-row">
@@ -1529,7 +1664,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N99118">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Mark%27s%20Work%20Wearhouse&ref=GCFC-N99118">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-Y61708">
   <div class="market-status-row">
@@ -1556,7 +1691,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y61708">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-Y61708">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Google Play" data-category="retail" data-ref="GCFC-X51148">
   <div class="market-status-row">
@@ -1583,7 +1718,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X51148">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Google%20Play&ref=GCFC-X51148">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Air Canada" data-category="retail" data-ref="GCFC-Y27796">
   <div class="market-status-row">
@@ -1610,7 +1745,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y27796">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Air%20Canada&ref=GCFC-Y27796">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-U53491">
   <div class="market-status-row">
@@ -1637,7 +1772,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U53491">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-U53491">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-K09241">
   <div class="market-status-row">
@@ -1664,7 +1799,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K09241">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-K09241">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Starbucks" data-category="retail" data-ref="GCFC-L80731">
   <div class="market-status-row">
@@ -1691,7 +1826,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-L80731">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Starbucks&ref=GCFC-L80731">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Endy" data-category="retail" data-ref="GCFC-X27703">
   <div class="market-status-row">
@@ -1718,7 +1853,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X27703">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Endy&ref=GCFC-X27703">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-Y75184">
   <div class="market-status-row">
@@ -1745,7 +1880,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y75184">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-Y75184">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Golf Town" data-category="retail" data-ref="GCFC-P50026">
   <div class="market-status-row">
@@ -1772,7 +1907,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P50026">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Golf%20Town&ref=GCFC-P50026">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-U69156">
   <div class="market-status-row">
@@ -1799,7 +1934,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U69156">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-U69156">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="A&W" data-category="retail" data-ref="GCFC-Q55081">
   <div class="market-status-row">
@@ -1826,7 +1961,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q55081">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=A%26W&ref=GCFC-Q55081">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Lululemon" data-category="retail" data-ref="GCFC-Q35214">
   <div class="market-status-row">
@@ -1853,7 +1988,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q35214">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Lululemon&ref=GCFC-Q35214">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-B14227">
   <div class="market-status-row">
@@ -1880,7 +2015,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-B14227">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-B14227">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-Y77490">
   <div class="market-status-row">
@@ -1907,7 +2042,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y77490">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-Y77490">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-M62168">
   <div class="market-status-row">
@@ -1934,7 +2069,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-M62168">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-M62168">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-W51147">
   <div class="market-status-row">
@@ -1961,7 +2096,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-W51147">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-W51147">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-N08128">
   <div class="market-status-row">
@@ -1988,7 +2123,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N08128">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-N08128">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Sobeys" data-category="retail" data-ref="GCFC-Z84035">
   <div class="market-status-row">
@@ -2015,7 +2150,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Z84035">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sobeys&ref=GCFC-Z84035">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-Y52161">
   <div class="market-status-row">
@@ -2042,7 +2177,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y52161">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-Y52161">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="McDonald’s" data-category="retail" data-ref="GCFC-F77964">
   <div class="market-status-row">
@@ -2069,7 +2204,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-F77964">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=McDonald%E2%80%99s&ref=GCFC-F77964">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-P40268">
   <div class="market-status-row">
@@ -2096,7 +2231,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P40268">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-P40268">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-G87492">
   <div class="market-status-row">
@@ -2123,7 +2258,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-G87492">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Mark%27s%20Work%20Wearhouse&ref=GCFC-G87492">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-X13743">
   <div class="market-status-row">
@@ -2150,7 +2285,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X13743">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-X13743">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Starbucks" data-category="retail" data-ref="GCFC-X49480">
   <div class="market-status-row">
@@ -2177,7 +2312,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X49480">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Starbucks&ref=GCFC-X49480">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-U04231">
   <div class="market-status-row">
@@ -2204,7 +2339,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U04231">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-U04231">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-D47564">
   <div class="market-status-row">
@@ -2231,7 +2366,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-D47564">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-D47564">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-C20900">
   <div class="market-status-row">
@@ -2258,7 +2393,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-C20900">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Canadian%20Tire&ref=GCFC-C20900">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Google Play" data-category="retail" data-ref="GCFC-S36019">
   <div class="market-status-row">
@@ -2285,7 +2420,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-S36019">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Google%20Play&ref=GCFC-S36019">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-X80393">
   <div class="market-status-row">
@@ -2312,7 +2447,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-X80393">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-X80393">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-P73653">
   <div class="market-status-row">
@@ -2339,7 +2474,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P73653">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Mark%27s%20Work%20Wearhouse&ref=GCFC-P73653">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-K87963">
   <div class="market-status-row">
@@ -2366,7 +2501,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K87963">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Bass%20Pro%20Shop&ref=GCFC-K87963">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-B73785">
   <div class="market-status-row">
@@ -2393,7 +2528,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-B73785">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-B73785">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-Y44608">
   <div class="market-status-row">
@@ -2420,7 +2555,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y44608">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-Y44608">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Joker" data-category="retail" data-ref="GCFC-W84681">
   <div class="market-status-row">
@@ -2447,7 +2582,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-W84681">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Joker&ref=GCFC-W84681">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Air Canada" data-category="retail" data-ref="GCFC-Y37681">
   <div class="market-status-row">
@@ -2474,7 +2609,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y37681">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Air%20Canada&ref=GCFC-Y37681">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-Q93454">
   <div class="market-status-row">
@@ -2501,7 +2636,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Q93454">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-Q93454">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-N06130">
   <div class="market-status-row">
@@ -2528,7 +2663,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-N06130">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-N06130">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Lululemon" data-category="retail" data-ref="GCFC-B93248">
   <div class="market-status-row">
@@ -2555,7 +2690,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-B93248">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Lululemon&ref=GCFC-B93248">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-V24172">
   <div class="market-status-row">
@@ -2582,7 +2717,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-V24172">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-V24172">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-F21720">
   <div class="market-status-row">
@@ -2609,7 +2744,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-F21720">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-F21720">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="IGA" data-category="retail" data-ref="GCFC-Y83716">
   <div class="market-status-row">
@@ -2636,7 +2771,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y83716">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=IGA&ref=GCFC-Y83716">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-P02518">
   <div class="market-status-row">
@@ -2663,7 +2798,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P02518">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-P02518">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Google Play" data-category="retail" data-ref="GCFC-R66696">
   <div class="market-status-row">
@@ -2690,7 +2825,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R66696">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Google%20Play&ref=GCFC-R66696">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="JD Sports" data-category="retail" data-ref="GCFC-R73921">
   <div class="market-status-row">
@@ -2717,7 +2852,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R73921">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=JD%20Sports&ref=GCFC-R73921">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-A97916">
   <div class="market-status-row">
@@ -2744,7 +2879,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-A97916">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Loblaws&ref=GCFC-A97916">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-P73140">
   <div class="market-status-row">
@@ -2771,7 +2906,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P73140">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-P73140">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-R73970">
   <div class="market-status-row">
@@ -2798,7 +2933,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R73970">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-R73970">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-K60697">
   <div class="market-status-row">
@@ -2825,7 +2960,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K60697">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Mark%27s%20Work%20Wearhouse&ref=GCFC-K60697">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-K80290">
   <div class="market-status-row">
@@ -2852,7 +2987,61 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K80290">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-K80290">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-R24571">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Keg Steakhouse gift cards"
+    title="discounted Keg Steakhouse gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Keg Steakhouse — $$50.00</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-R24571">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-B19635">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Best Buy gift cards"
+    title="discounted Best Buy gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Best Buy — $$54.00</div>
+    <div class="market-price">$$45.90</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-B19635">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-P97782">
   <div class="market-status-row">
@@ -2879,7 +3068,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-P97782">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-P97782">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-V91843">
   <div class="market-status-row">
@@ -2906,7 +3095,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-V91843">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-V91843">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Petro Canada" data-category="retail" data-ref="GCFC-H71784">
   <div class="market-status-row">
@@ -2933,7 +3122,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-H71784">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Petro%20Canada&ref=GCFC-H71784">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="LCBO" data-category="retail" data-ref="GCFC-U74865">
   <div class="market-status-row">
@@ -2960,7 +3149,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-U74865">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=LCBO&ref=GCFC-U74865">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-S72742">
   <div class="market-status-row">
@@ -2987,7 +3176,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-S72742">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-S72742">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Petro Canada" data-category="retail" data-ref="GCFC-F76374">
   <div class="market-status-row">
@@ -3014,7 +3203,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-F76374">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Petro%20Canada&ref=GCFC-F76374">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Lululemon" data-category="retail" data-ref="GCFC-R00741">
   <div class="market-status-row">
@@ -3041,196 +3230,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R00741">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-B52031">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Keg Steakhouse gift cards"
-    title="discounted Keg Steakhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Keg Steakhouse — $$200.00</div>
-    <div class="market-price">$$170.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-B52031">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Save-On-Foods" data-category="retail" data-ref="GCFC-A90049">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Save-On-Foods gift cards"
-    title="discounted Save-On-Foods gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08d31f44bbd83ea85a.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Save-On-Foods — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-A90049">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-E71280">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Walmart gift cards"
-    title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Walmart — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-E71280">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-Y93273">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Best Buy gift cards"
-    title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Best Buy — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-Y93273">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-K26818">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Cineplex gift cards"
-    title="discounted Cineplex gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a758eb73a2029d89e58fc2.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Cineplex — $$30.00</div>
-    <div class="market-price">$$25.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-K26818">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-T66646">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Apple Store gift cards"
-    title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Apple Store — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-T66646">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Booster Juice" data-category="retail" data-ref="GCFC-R29049">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Booster Juice gift cards"
-    title="discounted Booster Juice gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Booster Juice — $$30.00</div>
-    <div class="market-price">$$25.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?ref=GCFC-R29049">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Lululemon&ref=GCFC-R00741">Reserve Card</a>
   </div>
 </article>`
 };
