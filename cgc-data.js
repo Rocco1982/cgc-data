@@ -586,6 +586,141 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-C42433">Reserve Card</a>
   </div>
+</article><article class="market-card" data-brand="Sephora" data-category="retail" data-ref="GCFC-N31878">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Sephora gift cards"
+    title="discounted Sephora gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Sephora — $$28.00</div>
+    <div class="market-price">$$23.80</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sephora&ref=GCFC-N31878">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-K60899">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Cineplex gift cards"
+    title="discounted Cineplex gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a758eb73a2029d89e58fc2.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Cineplex — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-K60899">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Sephora" data-category="retail" data-ref="GCFC-N79658">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Sephora gift cards"
+    title="discounted Sephora gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Sephora — $$25.00</div>
+    <div class="market-price">$$20.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sephora&ref=GCFC-N79658">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Sport Chek" data-category="retail" data-ref="GCFC-S75574">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Sport Chek gift cards"
+    title="discounted Sport Chek gift cards"
+    style="background-image:url('');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Sport Chek — $$30.00</div>
+    <div class="market-price">$$25.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sport%20Chek&ref=GCFC-S75574">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-V11665">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Winners gift cards"
+    title="discounted Winners gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Winners — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-V11665">Reserve Card</a>
+  </div>
 </article><article class="market-card" data-brand="Dollarama" data-category="retail" data-ref="GCFC-L58966">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
@@ -3096,141 +3231,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=JD%20Sports&ref=GCFC-R73921">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Loblaws" data-category="retail" data-ref="GCFC-A97916">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Loblaws gift cards"
-    title="discounted Loblaws gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Loblaws — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Loblaws&ref=GCFC-A97916">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-P73140">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Cineplex gift cards"
-    title="discounted Cineplex gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a758eb73a2029d89e58fc2.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Cineplex — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-P73140">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-R73970">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Amazon — $$7.00</div>
-    <div class="market-price">$$5.60</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-R73970">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-K60697">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Mark's Work Wearhouse gift cards"
-    title="discounted Mark's Work Wearhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9259501157e64b3c6c78b.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Mark's Work Wearhouse — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Mark%27s%20Work%20Wearhouse&ref=GCFC-K60697">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-K80290">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Amazon — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-K80290">Reserve Card</a>
   </div>
 </article>`
 };
