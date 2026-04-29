@@ -117,10 +117,10 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="" alt="discounted Indigo gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png" alt="discounted Indigo Chapters gift cards">
   </div>
   <div class="hero-deal-body">
-    <div class="hero-deal-price">Indigo — $20.00</div>
+    <div class="hero-deal-price">Indigo Chapters — $20.00</div>
     <div class="hero-deal-save">Pay $17.00</div>
     <div class="hero-deal-stock">Instant delivery</div>
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-A00922">Buy Now</a>
@@ -2395,7 +2395,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-B14227">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-Y77490">
+</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-Y77490">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -2404,13 +2404,13 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('');">
+    aria-label="discounted Indigo Chapters gift cards"
+    title="discounted Indigo Chapters gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Indigo — $$15.00</div>
+    <div class="market-brand">Indigo Chapters — $$15.00</div>
     <div class="market-price">$$12.00</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
@@ -2420,7 +2420,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-Y77490">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-Y77490">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-M62168">
   <div class="market-status-row">
@@ -2476,7 +2476,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-W51147">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-N08128">
+</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-N08128">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -2485,13 +2485,13 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('');">
+    aria-label="discounted Indigo Chapters gift cards"
+    title="discounted Indigo Chapters gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Indigo — $$15.00</div>
+    <div class="market-brand">Indigo Chapters — $$15.00</div>
     <div class="market-price">$$12.00</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
@@ -2501,7 +2501,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-N08128">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-N08128">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Sobeys" data-category="retail" data-ref="GCFC-Z84035">
   <div class="market-status-row">
@@ -2530,7 +2530,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sobeys&ref=GCFC-Z84035">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-Y52161">
+</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-Y52161">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -2539,13 +2539,13 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('');">
+    aria-label="discounted Indigo Chapters gift cards"
+    title="discounted Indigo Chapters gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Indigo — $$25.00</div>
+    <div class="market-brand">Indigo Chapters — $$25.00</div>
     <div class="market-price">$$21.25</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
@@ -2555,7 +2555,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-Y52161">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-Y52161">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="McDonald’s" data-category="retail" data-ref="GCFC-F77964">
   <div class="market-status-row">
@@ -2719,7 +2719,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-U04231">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-D47564">
+</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-D47564">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -2728,13 +2728,13 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('');">
+    aria-label="discounted Indigo Chapters gift cards"
+    title="discounted Indigo Chapters gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Indigo — $$25.00</div>
+    <div class="market-brand">Indigo Chapters — $$25.00</div>
     <div class="market-price">$$20.00</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
@@ -2744,7 +2744,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-D47564">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-D47564">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-C20900">
   <div class="market-status-row">
@@ -3070,7 +3070,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Lululemon&ref=GCFC-B93248">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-V24172">
+</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-V24172">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -3079,13 +3079,13 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('');">
+    aria-label="discounted Indigo Chapters gift cards"
+    title="discounted Indigo Chapters gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Indigo — $$25.00</div>
+    <div class="market-brand">Indigo Chapters — $$25.00</div>
     <div class="market-price">$$21.25</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
@@ -3095,7 +3095,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo&ref=GCFC-V24172">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-V24172">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-F21720">
   <div class="market-status-row">
