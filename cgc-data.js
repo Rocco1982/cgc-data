@@ -117,7 +117,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png" alt="discounted Indigo gift cards">
+    <img loading="lazy" decoding="async" src="" alt="discounted Indigo gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Indigo — $20.00</div>
@@ -2406,7 +2406,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Indigo gift cards"
     title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
+    style="background-image:url('');">
   </div>
 
   <div class="market-card-body">
@@ -2487,7 +2487,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Indigo gift cards"
     title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
+    style="background-image:url('');">
   </div>
 
   <div class="market-card-body">
@@ -2541,7 +2541,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Indigo gift cards"
     title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
+    style="background-image:url('');">
   </div>
 
   <div class="market-card-body">
@@ -2730,7 +2730,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Indigo gift cards"
     title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
+    style="background-image:url('');">
   </div>
 
   <div class="market-card-body">
@@ -3081,7 +3081,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Indigo gift cards"
     title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
+    style="background-image:url('');">
   </div>
 
   <div class="market-card-body">
