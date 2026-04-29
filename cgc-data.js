@@ -5,7 +5,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9269bd7871cddf7155bb5.jfif" alt="discounted Foodland gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2560049d7293cbd600595.png" alt="discounted Foodland gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Foodland — $50.00</div>
@@ -19,7 +19,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif" alt="discounted Loblaws gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png" alt="discounted Loblaws gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Loblaws — $42.00</div>
@@ -47,7 +47,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e28f99c87cb8c8017b0488.png" alt="discounted Ultimate Dining gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f256d2032865e20a983b77.png" alt="discounted Ultimate Dining gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Ultimate Dining — $20.00</div>
@@ -61,7 +61,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif" alt="discounted Loblaws gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png" alt="discounted Loblaws gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Loblaws — $10.00</div>
@@ -89,7 +89,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png" alt="discounted Roots Canada gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Roots Canada — $28.00</div>
@@ -103,7 +103,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $50.00</div>
@@ -131,7 +131,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png" alt="discounted Lululemon gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png" alt="discounted Lululemon gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Lululemon — $50.00</div>
@@ -145,7 +145,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png" alt="discounted Winners gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png" alt="discounted Winners gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Winners — $50.00</div>
@@ -173,7 +173,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $52.00</div>
@@ -201,7 +201,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
@@ -215,7 +215,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png" alt="discounted Lululemon gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png" alt="discounted Lululemon gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Lululemon — $75.97</div>
@@ -271,7 +271,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg" alt="discounted Best Buy gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png" alt="discounted Best Buy gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Best Buy — $50.00</div>
@@ -285,7 +285,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png" alt="discounted Canadian Tire gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Canadian Tire — $29.00</div>
@@ -313,7 +313,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92400b671e6c284c89b81.png" alt="discounted Staples gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png" alt="discounted Staples gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Staples — $68.23</div>
@@ -327,7 +327,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $50.00</div>
@@ -341,7 +341,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $100.00</div>
@@ -383,7 +383,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png" alt="discounted Roots Canada gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Roots Canada — $28.00</div>
@@ -397,7 +397,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92370049c883cac122547.png" alt="discounted Roots Canada gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png" alt="discounted Roots Canada gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Roots Canada — $25.00</div>
@@ -425,7 +425,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png" alt="discounted Winners gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png" alt="discounted Winners gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Winners — $25.00</div>
@@ -439,7 +439,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
@@ -453,7 +453,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png" alt="discounted Canadian Tire gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Canadian Tire — $40.00</div>
@@ -467,7 +467,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png" alt="discounted Canadian Tire gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Canadian Tire — $53.95</div>
@@ -481,7 +481,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png" alt="discounted Canadian Tire gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png" alt="discounted Canadian Tire gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Canadian Tire — $40.00</div>
@@ -495,7 +495,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png" alt="discounted Keg Steakhouse gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $50</div>
@@ -509,7 +509,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif" alt="discounted Loblaws gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png" alt="discounted Loblaws gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Loblaws — $22.09</div>
@@ -543,7 +543,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Steam gift cards"
     title="discounted Steam gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f252c8663e5f92fff7c731.png');">
   </div>
 
   <div class="market-card-body">
@@ -570,7 +570,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Best Buy gift cards"
     title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
   </div>
 
   <div class="market-card-body">
@@ -597,7 +597,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Sephora gift cards"
     title="discounted Sephora gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png');">
   </div>
 
   <div class="market-card-body">
@@ -651,7 +651,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Sephora gift cards"
     title="discounted Sephora gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png');">
   </div>
 
   <div class="market-card-body">
@@ -705,7 +705,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Winners gift cards"
     title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
   </div>
 
   <div class="market-card-body">
@@ -813,7 +813,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Sephora gift cards"
     title="discounted Sephora gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9272b23917331fbc8fbcc.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png');">
   </div>
 
   <div class="market-card-body">
@@ -840,7 +840,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Amazon gift cards"
     title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
   </div>
 
   <div class="market-card-body">
@@ -867,7 +867,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Staples gift cards"
     title="discounted Staples gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92400b671e6c284c89b81.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png');">
   </div>
 
   <div class="market-card-body">
@@ -894,7 +894,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -921,7 +921,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -975,7 +975,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -1002,7 +1002,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Telus Visa gift cards"
     title="discounted Telus Visa gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24b4f663e5f92fff5ac70.png');">
   </div>
 
   <div class="market-card-body">
@@ -1029,7 +1029,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple gift cards"
     title="discounted Apple gift cards"
-    style="background-image:url('');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -1137,7 +1137,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Tim Hortons gift cards"
     title="discounted Tim Hortons gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480419d29d276a.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png');">
   </div>
 
   <div class="market-card-body">
@@ -1164,7 +1164,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -1191,7 +1191,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Winners gift cards"
     title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
   </div>
 
   <div class="market-card-body">
@@ -1218,7 +1218,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -1326,7 +1326,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Tim Hortons gift cards"
     title="discounted Tim Hortons gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480419d29d276a.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png');">
   </div>
 
   <div class="market-card-body">
@@ -1353,7 +1353,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -1515,7 +1515,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Loblaws gift cards"
     title="discounted Loblaws gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d922c201157e64b3c62bf0.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png');">
   </div>
 
   <div class="market-card-body">
@@ -1542,7 +1542,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Winners gift cards"
     title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
   </div>
 
   <div class="market-card-body">
@@ -1569,7 +1569,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -1650,7 +1650,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Starbucks gift cards"
     title="discounted Starbucks gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab4804fb3b9d2764.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png');">
   </div>
 
   <div class="market-card-body">
@@ -1731,7 +1731,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -1758,7 +1758,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -1785,7 +1785,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Amazon gift cards"
     title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
   </div>
 
   <div class="market-card-body">
@@ -1839,7 +1839,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Keg Steakhouse gift cards"
     title="discounted Keg Steakhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png');">
   </div>
 
   <div class="market-card-body">
@@ -1893,7 +1893,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Best Buy gift cards"
     title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
   </div>
 
   <div class="market-card-body">
@@ -1920,7 +1920,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Amazon gift cards"
     title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
   </div>
 
   <div class="market-card-body">
@@ -2055,7 +2055,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -2136,7 +2136,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Amazon gift cards"
     title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
   </div>
 
   <div class="market-card-body">
@@ -2163,7 +2163,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -2190,7 +2190,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Starbucks gift cards"
     title="discounted Starbucks gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab4804fb3b9d2764.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png');">
   </div>
 
   <div class="market-card-body">
@@ -2298,7 +2298,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -2352,7 +2352,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Lululemon gift cards"
     title="discounted Lululemon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png');">
   </div>
 
   <div class="market-card-body">
@@ -2379,7 +2379,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
@@ -2433,7 +2433,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Winners gift cards"
     title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
   </div>
 
   <div class="market-card-body">
@@ -2460,7 +2460,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Best Buy gift cards"
     title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
   </div>
 
   <div class="market-card-body">
@@ -2595,7 +2595,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Winners gift cards"
     title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a75ae7b701fee3466dcb99.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
   </div>
 
   <div class="market-card-body">
@@ -2676,7 +2676,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Starbucks gift cards"
     title="discounted Starbucks gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab4804fb3b9d2764.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png');">
   </div>
 
   <div class="market-card-body">
@@ -2703,7 +2703,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Amazon gift cards"
     title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a5d178edeb297733693121.webp');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
   </div>
 
   <div class="market-card-body">
@@ -2757,7 +2757,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Canadian Tire gift cards"
     title="discounted Canadian Tire gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f753728f066.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png');">
   </div>
 
   <div class="market-card-body">
@@ -2811,7 +2811,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Best Buy gift cards"
     title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
   </div>
 
   <div class="market-card-body">
@@ -2892,7 +2892,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Best Buy gift cards"
     title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
   </div>
 
   <div class="market-card-body">
@@ -3027,7 +3027,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Walmart gift cards"
     title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ed957f57050c9fd7.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
@@ -3054,7 +3054,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Lululemon gift cards"
     title="discounted Lululemon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924fd9a68c417bdf68132.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png');">
   </div>
 
   <div class="market-card-body">
@@ -3108,7 +3108,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Keg Steakhouse gift cards"
     title="discounted Keg Steakhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png');">
   </div>
 
   <div class="market-card-body">
@@ -3162,7 +3162,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Apple Store gift cards"
     title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a87ae90a640a.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
   </div>
 
   <div class="market-card-body">
