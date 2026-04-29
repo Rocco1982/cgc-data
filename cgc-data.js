@@ -532,7 +532,61 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-Q19909">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Dollarama" data-category="retail" data-ref="GCFC-L58966">
+  marketHtml: `<article class="market-card" data-brand="Steam" data-category="retail" data-ref="GCFC-Q91377">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Steam gift cards"
+    title="discounted Steam gift cards"
+    style="background-image:url('');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Steam — $$100.00</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Steam&ref=GCFC-Q91377">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-C42433">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Best Buy gift cards"
+    title="discounted Best Buy gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Best Buy — $$75.00</div>
+    <div class="market-price">$$60.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-C42433">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Dollarama" data-category="retail" data-ref="GCFC-L58966">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -3177,60 +3231,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Amazon&ref=GCFC-K80290">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-R24571">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Keg Steakhouse gift cards"
-    title="discounted Keg Steakhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d430d6d7f9d.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Keg Steakhouse — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-R24571">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-B19635">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Best Buy gift cards"
-    title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305eac0a8dc3c0a63ce.jpg');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Best Buy — $$54.00</div>
-    <div class="market-price">$$45.90</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-B19635">Reserve Card</a>
   </div>
 </article>`
 };
