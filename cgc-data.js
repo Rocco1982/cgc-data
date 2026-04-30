@@ -490,7 +490,88 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-Q19909">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Steam" data-category="retail" data-ref="GCFC-Q91377">
+  marketHtml: `<article class="market-card" data-brand="Tim Hortons" data-category="retail" data-ref="GCFC-W36021">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Tim Hortons gift cards"
+    title="discounted Tim Hortons gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Tim Hortons — $$100.00</div>
+    <div class="market-price">$$80.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Tim%20Hortons&ref=GCFC-W36021">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Petro Canada" data-category="retail" data-ref="GCFC-E75552">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Petro Canada gift cards"
+    title="discounted Petro Canada gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfe23fbe147d8b346fe1.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Petro Canada — $$10.00</div>
+    <div class="market-price">$$8.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Petro%20Canada&ref=GCFC-E75552">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="LCBO" data-category="retail" data-ref="GCFC-S39893">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted LCBO gift cards"
+    title="discounted LCBO gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">LCBO — $$60.00</div>
+    <div class="market-price">$$51.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=LCBO&ref=GCFC-S39893">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Steam" data-category="retail" data-ref="GCFC-Q91377">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -3108,87 +3189,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Lululemon&ref=GCFC-B93248">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-V24172">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Indigo Chapters gift cards"
-    title="discounted Indigo Chapters gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Indigo Chapters — $$25.00</div>
-    <div class="market-price">$$20.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-V24172">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-F21720">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Keg Steakhouse gift cards"
-    title="discounted Keg Steakhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Keg Steakhouse — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-F21720">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="IGA" data-category="retail" data-ref="GCFC-Y83716">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted IGA gift cards"
-    title="discounted IGA gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01269fa0a66d4caa8745c.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">IGA — $$11.00</div>
-    <div class="market-price">$$9.35</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=IGA&ref=GCFC-Y83716">Reserve Card</a>
   </div>
 </article>`
 };
