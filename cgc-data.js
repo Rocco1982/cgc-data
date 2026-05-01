@@ -489,6 +489,33 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-T75269">Reserve Card</a>
   </div>
+</article><article class="market-card" data-brand="Boston Pizza" data-category="retail" data-ref="GCFC-L86520">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Boston Pizza gift cards"
+    title="discounted Boston Pizza gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Boston Pizza — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Boston%20Pizza&ref=GCFC-L86520">Reserve Card</a>
+  </div>
 </article><article class="market-card" data-brand="Tim Hortons" data-category="retail" data-ref="GCFC-W36021">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
@@ -1190,33 +1217,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Staples&ref=GCFC-Q33535">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-X83598">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Walmart gift cards"
-    title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Walmart — $$400.00</div>
-    <div class="market-price">$$340.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-X83598">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-K59463">
   <div class="market-status-row">
