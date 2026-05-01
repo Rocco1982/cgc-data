@@ -195,20 +195,6 @@ window.CGC_DATA = {
     <div class="hero-deal-stock">Instant delivery</div>
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-L20478">Buy Now</a>
   </div>
-</div><div class="hero-deal-card" data-ref="GCFC-B09101">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill live">Available Now</span>
-  </div>
-  <div class="hero-sale-badge">15.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png" alt="discounted Walmart gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Walmart — $100.00</div>
-    <div class="hero-deal-save">Pay $85.00</div>
-    <div class="hero-deal-stock">Instant delivery</div>
-    <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-B09101">Buy Now</a>
-  </div>
 </div><div class="hero-deal-card" data-ref="GCFC-B59842">
   <div class="hero-deal-status">
     <span class="hero-deal-pill live">Available Now</span>
@@ -362,20 +348,6 @@ window.CGC_DATA = {
     <div class="hero-deal-save">Pay $42.50</div>
     <div class="hero-deal-stock">Instant delivery</div>
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-Q79239">Buy Now</a>
-  </div>
-</div><div class="hero-deal-card" data-ref="GCFC-L07573">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill live">Available Now</span>
-  </div>
-  <div class="hero-sale-badge">15.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg" alt="discounted Booster Juice gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Booster Juice — $10.52</div>
-    <div class="hero-deal-save">Pay $8.94</div>
-    <div class="hero-deal-stock">Instant delivery</div>
-    <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-L07573">Buy Now</a>
   </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A85796">
   <div class="hero-deal-status">
@@ -651,6 +623,87 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-A27734">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Golf Town" data-category="retail" data-ref="GCFC-U05258">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Golf Town gift cards"
+    title="discounted Golf Town gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Golf Town — $$50.00</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Golf%20Town&ref=GCFC-U05258">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="American Eagle" data-category="retail" data-ref="GCFC-X95191">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted American Eagle gift cards"
+    title="discounted American Eagle gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2c1023fbe147d8b34b04e.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">American Eagle — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=American%20Eagle&ref=GCFC-X95191">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-R38154">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Bass Pro Shop gift cards"
+    title="discounted Bass Pro Shop gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Bass Pro Shop — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Bass%20Pro%20Shop&ref=GCFC-R38154">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Steam" data-category="retail" data-ref="GCFC-Q91377">
   <div class="market-status-row">
@@ -3108,87 +3161,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-B73785">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-Y44608">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Cineplex gift cards"
-    title="discounted Cineplex gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Cineplex — $$11.00</div>
-    <div class="market-price">$$8.80</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Cineplex&ref=GCFC-Y44608">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Joker" data-category="retail" data-ref="GCFC-W84681">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Joker gift cards"
-    title="discounted Joker gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bd45590487fe57ea2cac.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Joker — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Joker&ref=GCFC-W84681">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Air Canada" data-category="retail" data-ref="GCFC-Y37681">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Air Canada gift cards"
-    title="discounted Air Canada gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Air Canada — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Air%20Canada&ref=GCFC-Y37681">Reserve Card</a>
   </div>
 </article>`
 };
