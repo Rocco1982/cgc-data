@@ -173,7 +173,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">20.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif" alt="discounted Bass Pro Shop gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png" alt="discounted Bass Pro Shop gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Bass Pro Shop — $16.00</div>
@@ -215,7 +215,7 @@ window.CGC_DATA = {
   </div>
   <div class="hero-sale-badge">15.00% OFF</div>
   <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69a74b4c63e5061c5a5bd3a8.png" alt="discounted Cactus Club gift cards">
+    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png" alt="discounted Cactus Club gift cards">
   </div>
   <div class="hero-deal-body">
     <div class="hero-deal-price">Cactus Club — $79.67</div>
@@ -581,7 +581,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Bass Pro Shop gift cards"
     title="discounted Bass Pro Shop gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png');">
   </div>
 
   <div class="market-card-body">
@@ -716,7 +716,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Bass Pro Shop gift cards"
     title="discounted Bass Pro Shop gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png');">
   </div>
 
   <div class="market-card-body">
@@ -1067,7 +1067,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Bass Pro Shop gift cards"
     title="discounted Bass Pro Shop gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png');">
   </div>
 
   <div class="market-card-body">
@@ -3146,7 +3146,7 @@ window.CGC_DATA = {
     role="img"
     aria-label="discounted Bass Pro Shop gift cards"
     title="discounted Bass Pro Shop gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9256115a505b6792666bf.jfif');">
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png');">
   </div>
 
   <div class="market-card-body">
