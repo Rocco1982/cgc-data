@@ -434,7 +434,169 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="#REF!">#REF!</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-T75269">
+  marketHtml: `<article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-D53887">
+  <div class="market-status-row">
+    <span class="market-pill "></span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Mark's Work Wearhouse gift cards"
+    title="discounted Mark's Work Wearhouse gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Mark's Work Wearhouse — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta"></span>
+    </div>
+
+    <a class="market-buy" href=""></a>
+  </div>
+</article><article class="market-card" data-brand="Home Depot" data-category="retail" data-ref="GCFC-H42244">
+  <div class="market-status-row">
+    <span class="market-pill "></span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Home Depot gift cards"
+    title="discounted Home Depot gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Home Depot — $$13.00</div>
+    <div class="market-price">$$10.40</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta"></span>
+    </div>
+
+    <a class="market-buy" href=""></a>
+  </div>
+</article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-F11525">
+  <div class="market-status-row">
+    <span class="market-pill "></span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Canadian Tire gift cards"
+    title="discounted Canadian Tire gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Canadian Tire — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta"></span>
+    </div>
+
+    <a class="market-buy" href=""></a>
+  </div>
+</article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-U47947">
+  <div class="market-status-row">
+    <span class="market-pill "></span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Bass Pro Shop gift cards"
+    title="discounted Bass Pro Shop gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Bass Pro Shop — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta"></span>
+    </div>
+
+    <a class="market-buy" href=""></a>
+  </div>
+</article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-E92083">
+  <div class="market-status-row">
+    <span class="market-pill "></span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Apple Store gift cards"
+    title="discounted Apple Store gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Apple Store — $$100.00</div>
+    <div class="market-price">$$80.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta"></span>
+    </div>
+
+    <a class="market-buy" href=""></a>
+  </div>
+</article><article class="market-card" data-brand="Subway" data-category="retail" data-ref="GCFC-R47384">
+  <div class="market-status-row">
+    <span class="market-pill "></span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Subway gift cards"
+    title="discounted Subway gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Subway — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta"></span>
+    </div>
+
+    <a class="market-buy" href=""></a>
+  </div>
+</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-T75269">
   <div class="market-status-row">
     <span class="market-pill "></span>
   </div>
@@ -493,7 +655,7 @@ window.CGC_DATA = {
     <span class="market-pill "></span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -504,8 +666,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Walmart — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -520,7 +682,7 @@ window.CGC_DATA = {
     <span class="market-pill "></span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -531,8 +693,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$150.00</div>
-    <div class="market-price">$$127.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$120.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1262,33 +1424,6 @@ window.CGC_DATA = {
     <div class="market-brand">Walmart — $$66.00</div>
     <div class="market-price">$$56.10</div>
     <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
-    </div>
-
-    <a class="market-buy" href=""></a>
-  </div>
-</article><article class="market-card" data-brand="Joker" data-category="retail" data-ref="GCFC-R16568">
-  <div class="market-status-row">
-    <span class="market-pill "></span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Joker gift cards"
-    title="discounted Joker gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bd45590487fe57ea2cac.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Joker — $$500.00</div>
-    <div class="market-price">$$400.00</div>
-    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2990,141 +3125,6 @@ window.CGC_DATA = {
     <div class="market-brand">Starbucks — $$73.00</div>
     <div class="market-price">$$58.40</div>
     <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
-    </div>
-
-    <a class="market-buy" href=""></a>
-  </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-U04231">
-  <div class="market-status-row">
-    <span class="market-pill "></span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Amazon — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
-    </div>
-
-    <a class="market-buy" href=""></a>
-  </div>
-</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-D47564">
-  <div class="market-status-row">
-    <span class="market-pill "></span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Indigo Chapters gift cards"
-    title="discounted Indigo Chapters gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Indigo Chapters — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
-    </div>
-
-    <a class="market-buy" href=""></a>
-  </div>
-</article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-C20900">
-  <div class="market-status-row">
-    <span class="market-pill "></span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Canadian Tire gift cards"
-    title="discounted Canadian Tire gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Canadian Tire — $$40.00</div>
-    <div class="market-price">$$32.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
-    </div>
-
-    <a class="market-buy" href=""></a>
-  </div>
-</article><article class="market-card" data-brand="Google Play" data-category="retail" data-ref="GCFC-S36019">
-  <div class="market-status-row">
-    <span class="market-pill "></span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Google Play gift cards"
-    title="discounted Google Play gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f293b2fc17decc450784da.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Google Play — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta"></span>
-    </div>
-
-    <a class="market-buy" href=""></a>
-  </div>
-</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-X80393">
-  <div class="market-status-row">
-    <span class="market-pill "></span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Best Buy gift cards"
-    title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Best Buy — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
