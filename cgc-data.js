@@ -434,7 +434,61 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="https://canadiangiftcardnetwork.ca/checkout?ref=GCFC-Q19909">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Apple" data-category="retail" data-ref="GCFC-H62298">
+  marketHtml: `<article class="market-card" data-brand="Save-On-Foods" data-category="retail" data-ref="GCFC-C17832">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Save-On-Foods gift cards"
+    title="discounted Save-On-Foods gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08d31f44bbd83ea85a.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Save-On-Foods — $$100.00</div>
+    <div class="market-price">$$80.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Save-On-Foods&ref=GCFC-C17832">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-N14589">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Winners gift cards"
+    title="discounted Winners gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Winners — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-N14589">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Apple" data-category="retail" data-ref="GCFC-H62298">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -487,6 +541,141 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Apple%20Store&ref=GCFC-Z81948">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Steam" data-category="retail" data-ref="GCFC-X70509">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Steam gift cards"
+    title="discounted Steam gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f252c8663e5f92fff7c731.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Steam — $$100.00</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Steam&ref=GCFC-X70509">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-L57892">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Keg Steakhouse gift cards"
+    title="discounted Keg Steakhouse gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Keg Steakhouse — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Keg%20Steakhouse&ref=GCFC-L57892">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-C46506">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Canadian Tire gift cards"
+    title="discounted Canadian Tire gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Canadian Tire — $$500.00</div>
+    <div class="market-price">$$400.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Canadian%20Tire&ref=GCFC-C46506">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Petro Canada" data-category="retail" data-ref="GCFC-G45643">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Petro Canada gift cards"
+    title="discounted Petro Canada gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfe23fbe147d8b346fe1.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Petro Canada — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Petro%20Canada&ref=GCFC-G45643">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Starbucks" data-category="retail" data-ref="GCFC-W21783">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Starbucks gift cards"
+    title="discounted Starbucks gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Starbucks — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Starbucks&ref=GCFC-W21783">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-D53887">
   <div class="market-status-row">
@@ -1730,7 +1919,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Tim%20Hortons&ref=GCFC-B91711">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-U93198">
+</article><article class="market-card" data-brand="Golf Town" data-category="retail" data-ref="GCFC-U93198">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -1739,13 +1928,13 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Walmart gift cards"
-    title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
+    aria-label="discounted Golf Town gift cards"
+    title="discounted Golf Town gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Walmart — $$100.00</div>
+    <div class="market-brand">Golf Town — $$100.00</div>
     <div class="market-price">$$85.00</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
@@ -1755,7 +1944,7 @@ window.CGC_DATA = {
       <span class="market-meta">Availability confirmed before checkout</span>
     </div>
 
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Walmart&ref=GCFC-U93198">Reserve Card</a>
+    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Golf%20Town&ref=GCFC-U93198">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-B21468">
   <div class="market-status-row">
@@ -2944,195 +3133,6 @@ window.CGC_DATA = {
     </div>
 
     <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-Y77490">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-M62168">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Winners gift cards"
-    title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Winners — $$25.00</div>
-    <div class="market-price">$$20.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-M62168">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Best Buy" data-category="retail" data-ref="GCFC-W51147">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Best Buy gift cards"
-    title="discounted Best Buy gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Best Buy — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Best%20Buy&ref=GCFC-W51147">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-N08128">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Indigo Chapters gift cards"
-    title="discounted Indigo Chapters gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Indigo Chapters — $$15.00</div>
-    <div class="market-price">$$12.75</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-N08128">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Sobeys" data-category="retail" data-ref="GCFC-Z84035">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Sobeys gift cards"
-    title="discounted Sobeys gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Sobeys — $$5.00</div>
-    <div class="market-price">$$4.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Sobeys&ref=GCFC-Z84035">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Indigo Chapters" data-category="retail" data-ref="GCFC-Y52161">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Indigo Chapters gift cards"
-    title="discounted Indigo Chapters gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab480434739d2766.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Indigo Chapters — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Indigo%20Chapters&ref=GCFC-Y52161">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="McDonald’s" data-category="retail" data-ref="GCFC-F77964">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted McDonald’s gift cards"
-    title="discounted McDonald’s gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292d1be76d7f9b.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">McDonald’s — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=McDonald%E2%80%99s&ref=GCFC-F77964">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Winners" data-category="retail" data-ref="GCFC-P40268">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Winners gift cards"
-    title="discounted Winners gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Winners — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="https://canadiangiftcardnetwork.ca/reserve?brand=Winners&ref=GCFC-P40268">Reserve Card</a>
   </div>
 </article>`
 };
