@@ -55,20 +55,6 @@ window.CGC_DATA = {
     <div class="hero-deal-stock">Instant delivery</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
-</div><div class="hero-deal-card" data-ref="GCFC-U95624">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill live">Available Now</span>
-  </div>
-  <div class="hero-sale-badge">20.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png" alt="discounted Keg Steakhouse gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Keg Steakhouse — $50.00</div>
-    <div class="hero-deal-save">Pay $40.00</div>
-    <div class="hero-deal-stock">Instant delivery</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
-  </div>
 </div><div class="hero-deal-card" data-ref="GCFC-A00922">
   <div class="hero-deal-status">
     <span class="hero-deal-pill live">Available Now</span>
@@ -164,20 +150,6 @@ window.CGC_DATA = {
   <div class="hero-deal-body">
     <div class="hero-deal-price">Keg Steakhouse — $25.00</div>
     <div class="hero-deal-save">Pay $21.25</div>
-    <div class="hero-deal-stock">Instant delivery</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
-  </div>
-</div><div class="hero-deal-card" data-ref="GCFC-B59842">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill live">Available Now</span>
-  </div>
-  <div class="hero-sale-badge">20.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png" alt="discounted Lululemon gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Lululemon — $75.97</div>
-    <div class="hero-deal-save">Pay $60.78</div>
     <div class="hero-deal-stock">Instant delivery</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
@@ -542,33 +514,6 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Joker" data-category="retail" data-ref="GCFC-M51528">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Joker gift cards"
-    title="discounted Joker gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bd45590487fe57ea2cac.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Joker — $$60.00</div>
-    <div class="market-price">$$51.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
 </article><article class="market-card" data-brand="Subway" data-category="retail" data-ref="GCFC-Q20612">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
@@ -587,6 +532,87 @@ window.CGC_DATA = {
     <div class="market-brand">Subway — $$10.00</div>
     <div class="market-price">$$8.00</div>
     <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-Q44653">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Bass Pro Shop gift cards"
+    title="discounted Bass Pro Shop gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Bass Pro Shop — $$66.00</div>
+    <div class="market-price">$$56.10</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Other / Not listed" data-category="retail" data-ref="GCFC-Z62644">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Other / Not listed gift cards"
+    title="discounted Other / Not listed gift cards"
+    style="background-image:url('');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Other / Not listed — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Other / Not listed" data-category="retail" data-ref="GCFC-H38501">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Other / Not listed gift cards"
+    title="discounted Other / Not listed gift cards"
+    style="background-image:url('');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Other / Not listed — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -3071,60 +3097,6 @@ window.CGC_DATA = {
     <div class="market-brand">Boston Pizza — $$50.00</div>
     <div class="market-price">$$40.00</div>
     <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-T73422">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Walmart gift cards"
-    title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Walmart — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Canadian Tire" data-category="retail" data-ref="GCFC-Z76497">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Canadian Tire gift cards"
-    title="discounted Canadian Tire gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Canadian Tire — $$150.00</div>
-    <div class="market-price">$$127.50</div>
-    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
