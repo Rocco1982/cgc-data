@@ -405,7 +405,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-B27504">
+</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-D89608">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -414,14 +414,14 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
+    aria-label="discounted Walmart gift cards"
+    title="discounted Walmart gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Amazon — $$50.00</div>
-    <div class="market-price">$$42.50</div>
+    <div class="market-brand">Walmart — $$67.00</div>
+    <div class="market-price">$$56.95</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
