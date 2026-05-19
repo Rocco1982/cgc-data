@@ -383,7 +383,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -394,34 +394,7 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Best Buy — $$200.00</div>
-    <div class="market-price">$$160.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Cineplex" data-category="retail" data-ref="GCFC-V35696">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Cineplex gift cards"
-    title="discounted Cineplex gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Cineplex — $$50.00</div>
-    <div class="market-price">$$42.50</div>
+    <div class="market-price">$$170.00</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
@@ -464,7 +437,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -475,8 +448,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sport Chek — $$60.00</div>
-    <div class="market-price">$$48.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$51.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -491,7 +464,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -502,8 +475,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Esso — $$44.00</div>
-    <div class="market-price">$$35.20</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$37.40</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -518,7 +491,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -529,8 +502,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">McDonald’s — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -572,7 +545,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -583,8 +556,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Air Canada — $$1,000.00</div>
-    <div class="market-price">$$800.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$850.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -599,7 +572,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -610,8 +583,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Subway — $$20.00</div>
-    <div class="market-price">$$17.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$16.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -653,7 +626,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -664,8 +637,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Harvey's — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -680,7 +653,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -691,8 +664,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sobeys — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -734,7 +707,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -745,8 +718,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$40.00</div>
-    <div class="market-price">$$34.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$32.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -761,7 +734,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -772,8 +745,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sephora — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -788,7 +761,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -799,8 +772,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Home Depot — $$308.00</div>
-    <div class="market-price">$$261.80</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$246.40</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -842,7 +815,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -853,8 +826,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Canadian Tire — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -869,7 +842,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -880,8 +853,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Aritzia — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$80.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -923,7 +896,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -934,8 +907,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">LCBO — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$20.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -950,7 +923,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -961,8 +934,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">LCBO — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -977,7 +950,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -988,8 +961,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">PlayStation Store — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1004,7 +977,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1015,8 +988,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">NFL Shop — $$250.00</div>
-    <div class="market-price">$$212.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$200.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1058,7 +1031,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1069,8 +1042,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Home Depot — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1081,33 +1054,6 @@ window.CGC_DATA = {
     <a class="market-buy" href="">Reserve Card</a>
   </div>
 </article><article class="market-card" data-brand="Subway" data-category="retail" data-ref="GCFC-N25764">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Subway gift cards"
-    title="discounted Subway gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Subway — $$10.00</div>
-    <div class="market-price">$$8.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Subway" data-category="retail" data-ref="GCFC-Q20612">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -1134,12 +1080,39 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-Q44653">
+</article><article class="market-card" data-brand="Subway" data-category="retail" data-ref="GCFC-Q20612">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
   <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Subway gift cards"
+    title="discounted Subway gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Subway — $$10.00</div>
+    <div class="market-price">$$8.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Bass Pro Shop" data-category="retail" data-ref="GCFC-Q44653">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1150,8 +1123,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Bass Pro Shop — $$66.00</div>
-    <div class="market-price">$$56.10</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$52.80</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1193,7 +1166,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1204,8 +1177,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">LCBO — $$500.00</div>
-    <div class="market-price">$$400.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$425.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1220,7 +1193,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1231,8 +1204,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Starbucks — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1274,7 +1247,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1285,8 +1258,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Mark's Work Wearhouse — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1301,7 +1274,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1312,8 +1285,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Mark's Work Wearhouse — $$150.00</div>
-    <div class="market-price">$$127.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$120.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1328,7 +1301,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1339,8 +1312,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Walmart — $$250.00</div>
-    <div class="market-price">$$200.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$212.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1355,7 +1328,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1366,8 +1339,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Best Buy — $$125.00</div>
-    <div class="market-price">$$106.25</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$100.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1382,7 +1355,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1393,8 +1366,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Fairmont — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1409,7 +1382,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1420,8 +1393,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Loblaws — $$21.00</div>
-    <div class="market-price">$$17.85</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$16.80</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1463,7 +1436,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1474,8 +1447,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Lululemon — $$355.00</div>
-    <div class="market-price">$$284.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$301.75</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1490,7 +1463,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1501,8 +1474,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Lululemon — $$20.00</div>
-    <div class="market-price">$$17.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$16.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1517,7 +1490,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1528,8 +1501,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sport Chek — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1571,7 +1544,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1582,8 +1555,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Dollarama — $$200.00</div>
-    <div class="market-price">$$160.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$170.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1598,7 +1571,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1609,8 +1582,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Foot Locker — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1652,7 +1625,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1663,8 +1636,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">FreshCo — $$60.00</div>
-    <div class="market-price">$$48.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$51.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1679,7 +1652,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1690,8 +1663,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Indigo — $$71.00</div>
-    <div class="market-price">$$60.35</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$56.80</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1733,7 +1706,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1744,8 +1717,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1787,7 +1760,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1798,8 +1771,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Walmart — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1814,7 +1787,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1825,8 +1798,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Disney — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1863,7 +1836,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-K92400">
+</article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-R09957">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -1881,33 +1854,6 @@ window.CGC_DATA = {
     <div class="market-brand">Apple Store — $$100.00</div>
     <div class="market-price">$$80.00</div>
     <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Apple Store" data-category="retail" data-ref="GCFC-R09957">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Apple Store gift cards"
-    title="discounted Apple Store gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Apple Store — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1949,7 +1895,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1960,8 +1906,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Mark's Work Wearhouse — $$75.00</div>
-    <div class="market-price">$$60.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$63.75</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -1976,7 +1922,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -1987,8 +1933,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Best Buy — $$46.00</div>
-    <div class="market-price">$$39.10</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$36.80</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2030,7 +1976,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2041,8 +1987,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Harvey's — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$20.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2084,7 +2030,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2095,8 +2041,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Tim Hortons — $$5.00</div>
-    <div class="market-price">$$4.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$4.25</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2111,7 +2057,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2122,8 +2068,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Way Spa — $$100.00</div>
-    <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$80.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2165,7 +2111,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2176,8 +2122,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Google Play — $$100.00</div>
-    <div class="market-price">$$80.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2192,7 +2138,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2203,8 +2149,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Roots Canada — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$20.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2246,7 +2192,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2257,8 +2203,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sephora — $$53.00</div>
-    <div class="market-price">$$42.40</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$45.05</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2273,7 +2219,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2284,8 +2230,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sephora — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2300,7 +2246,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2311,8 +2257,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Amazon — $$20.00</div>
-    <div class="market-price">$$17.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$16.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2354,7 +2300,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2365,8 +2311,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Winners — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2381,7 +2327,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2392,8 +2338,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Tim Hortons — $$5.00</div>
-    <div class="market-price">$$4.25</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$4.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2435,7 +2381,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2446,8 +2392,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Indigo — $$37.00</div>
-    <div class="market-price">$$29.60</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$31.45</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2565,39 +2511,12 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-F20139">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Amazon gift cards"
-    title="discounted Amazon gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Amazon — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
 </article><article class="market-card" data-brand="Hotels.com" data-category="retail" data-ref="GCFC-R69592">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2608,8 +2527,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Hotels.com — $$120.00</div>
-    <div class="market-price">$$102.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$96.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2651,7 +2570,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2662,8 +2581,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">LCBO — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2678,7 +2597,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2689,8 +2608,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Swiss Chalet — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2732,7 +2651,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2743,8 +2662,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Tim Hortons — $$5.00</div>
-    <div class="market-price">$$4.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$4.25</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2759,7 +2678,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2770,8 +2689,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Google Play — $$200.00</div>
-    <div class="market-price">$$170.00</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$160.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2813,7 +2732,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2824,8 +2743,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">American Eagle — $$250.00</div>
-    <div class="market-price">$$200.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$212.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2840,7 +2759,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2851,8 +2770,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Nintendo eShop — $$85.00</div>
-    <div class="market-price">$$72.25</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$68.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2894,7 +2813,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2905,8 +2824,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sephora — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2921,7 +2840,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2932,8 +2851,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Sport Chek — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -2975,7 +2894,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -2986,8 +2905,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Mark's Work Wearhouse — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -3068,6 +2987,87 @@ window.CGC_DATA = {
   <div class="market-card-body">
     <div class="market-brand">Old Navy — $$50.00</div>
     <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-Y34883">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Amazon gift cards"
+    title="discounted Amazon gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Amazon — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="American Eagle" data-category="retail" data-ref="GCFC-B47870">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted American Eagle gift cards"
+    title="discounted American Eagle gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2c1023fbe147d8b34b04e.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">American Eagle — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="NFL Shop" data-category="retail" data-ref="GCFC-C93539">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted NFL Shop gift cards"
+    title="discounted NFL Shop gift cards"
+    style="background-image:url('');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">NFL Shop — $$100.00</div>
+    <div class="market-price">$$80.00</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
