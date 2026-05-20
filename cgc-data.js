@@ -363,20 +363,6 @@ window.CGC_DATA = {
     <div class="hero-deal-stock">Instant delivery</div>
     <a class="hero-deal-buy" href="">Buy Now</a>
   </div>
-</div><div class="hero-deal-card" data-ref="GCFC-F26386">
-  <div class="hero-deal-status">
-    <span class="hero-deal-pill live">Available Now</span>
-  </div>
-  <div class="hero-sale-badge">20.00% OFF</div>
-  <div class="hero-card-media" style="background:#ffffff;">
-    <img loading="lazy" decoding="async" src="https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png" alt="discounted Loblaws gift cards">
-  </div>
-  <div class="hero-deal-body">
-    <div class="hero-deal-price">Loblaws — $2.00</div>
-    <div class="hero-deal-save">Pay $1.60</div>
-    <div class="hero-deal-stock">Instant delivery</div>
-    <a class="hero-deal-buy" href="">Buy Now</a>
-  </div>
 </div><div class="hero-deal-card" data-ref="GCFC-Q19909">
   <div class="hero-deal-status">
     <span class="hero-deal-pill live">Available Now</span>
