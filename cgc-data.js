@@ -378,7 +378,7 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="#REF!">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Other / Not listed" data-category="retail" data-ref="GCFC-541973">
+  marketHtml: `<article class="market-card" data-brand="Metro" data-category="retail" data-ref="GCFC-921681">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -387,14 +387,14 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted Other / Not listed gift cards"
-    title="discounted Other / Not listed gift cards"
-    style="background-image:url('');">
+    aria-label="discounted Metro gift cards"
+    title="discounted Metro gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbd.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">Other / Not listed — $$25.00</div>
-    <div class="market-price">$$21.25</div>
+    <div class="market-brand">Metro — $$250.00</div>
+    <div class="market-price">$$212.50</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
@@ -405,34 +405,7 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
-</article><article class="market-card" data-brand="Other / Not listed" data-category="retail" data-ref="GCFC-685499">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Other / Not listed gift cards"
-    title="discounted Other / Not listed gift cards"
-    style="background-image:url('');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Other / Not listed — $$25.00</div>
-    <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="A&W" data-category="retail" data-ref="GCFC-826049">
+</article><article class="market-card" data-brand="Tim Hortons" data-category="retail" data-ref="GCFC-846485">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -441,15 +414,42 @@ window.CGC_DATA = {
 
   <div class="market-card-top"
     role="img"
-    aria-label="discounted A&W gift cards"
-    title="discounted A&W gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb3.png');">
+    aria-label="discounted Tim Hortons gift cards"
+    title="discounted Tim Hortons gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png');">
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">A&W — $$56.00</div>
-    <div class="market-price">$$44.80</div>
+    <div class="market-brand">Tim Hortons — $$25.00</div>
+    <div class="market-price">$$20.00</div>
     <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Roots Canada" data-category="retail" data-ref="GCFC-513549">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Roots Canada gift cards"
+    title="discounted Roots Canada gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Roots Canada — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
