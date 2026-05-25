@@ -596,8 +596,8 @@ window.CGC_DATA = {
   </div>
 
   <div class="market-card-body">
-    <div class="market-brand">BC Ferries — $$100.00</div>
-    <div class="market-price">$$85.00</div>
+    <div class="market-brand">BC Ferries — $$85.00</div>
+    <div class="market-price">$$72.25</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
