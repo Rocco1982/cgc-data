@@ -397,7 +397,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">15.00% OFF</div>
+  <div class="market-sale-badge">20.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -408,8 +408,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Cineplex — $$141.00</div>
-    <div class="market-price">$$119.85</div>
-    <div class="market-save">Save 15.00%</div>
+    <div class="market-price">$$112.80</div>
+    <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -424,7 +424,7 @@ window.CGC_DATA = {
     <span class="market-pill reserve">Reserve Card</span>
   </div>
 
-  <div class="market-sale-badge">20.00% OFF</div>
+  <div class="market-sale-badge">15.00% OFF</div>
 
   <div class="market-card-top"
     role="img"
@@ -435,8 +435,8 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Home Depot — $$83.00</div>
-    <div class="market-price">$$66.40</div>
-    <div class="market-save">Save 20.00%</div>
+    <div class="market-price">$$70.55</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
@@ -598,33 +598,6 @@ window.CGC_DATA = {
   <div class="market-card-body">
     <div class="market-brand">Xbox — $$500.00</div>
     <div class="market-price">$$425.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="BC Ferries" data-category="retail" data-ref="GCFC-856521">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted BC Ferries gift cards"
-    title="discounted BC Ferries gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad4f.jfif');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">BC Ferries — $$85.00</div>
-    <div class="market-price">$$72.25</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
@@ -3083,6 +3056,33 @@ window.CGC_DATA = {
     <div class="market-brand">Indigo — $$71.00</div>
     <div class="market-price">$$56.80</div>
     <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-P51320">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Amazon gift cards"
+    title="discounted Amazon gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Amazon — $$25.00</div>
+    <div class="market-price">$$21.25</div>
+    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
