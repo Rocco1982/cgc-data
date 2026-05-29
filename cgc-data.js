@@ -662,6 +662,33 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
+</article><article class="market-card" data-brand="Air Canada" data-category="retail" data-ref="GCFC-872432">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Air Canada gift cards"
+    title="discounted Air Canada gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Air Canada — $$100.00</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
 </article><article class="market-card" data-brand="Amazon" data-category="retail" data-ref="GCFC-136190">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
@@ -3055,33 +3082,6 @@ window.CGC_DATA = {
   <div class="market-card-body">
     <div class="market-brand">Sephora — $$100.00</div>
     <div class="market-price">$$85.00</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Home Depot" data-category="retail" data-ref="GCFC-U72305">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Home Depot gift cards"
-    title="discounted Home Depot gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Home Depot — $$308.00</div>
-    <div class="market-price">$$261.80</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
