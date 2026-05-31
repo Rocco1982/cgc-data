@@ -392,7 +392,88 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="#REF!">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-982504">
+  marketHtml: `<article class="market-card" data-brand="Home Depot" data-category="retail" data-ref="GCFC-055981">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Home Depot gift cards"
+    title="discounted Home Depot gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Home Depot — $$18.00</div>
+    <div class="market-price">$$15.30</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-713506">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Walmart gift cards"
+    title="discounted Walmart gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Walmart — $$40.00</div>
+    <div class="market-price">$$34.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Petro-Canada" data-category="retail" data-ref="GCFC-070028">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Petro-Canada gift cards"
+    title="discounted Petro-Canada gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfe23fbe147d8b346fe1.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Petro-Canada — $$50.00</div>
+    <div class="market-price">$$40.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-982504">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -3000,87 +3081,6 @@ window.CGC_DATA = {
 
   <div class="market-card-body">
     <div class="market-brand">Roots Canada — $$50.00</div>
-    <div class="market-price">$$40.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-141557">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Indigo — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Indigo" data-category="retail" data-ref="GCFC-546752">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Indigo gift cards"
-    title="discounted Indigo gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Indigo — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Garage" data-category="retail" data-ref="GCFC-746930">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Garage gift cards"
-    title="discounted Garage gift cards"
-    style="background-image:url('');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Garage — $$50.00</div>
     <div class="market-price">$$40.00</div>
     <div class="market-save">Save 20.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
