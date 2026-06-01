@@ -500,6 +500,60 @@ window.CGC_DATA = {
 
     <a class="market-buy" href="">Reserve Card</a>
   </div>
+</article><article class="market-card" data-brand="Way Spa" data-category="retail" data-ref="GCFC-883578">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Way Spa gift cards"
+    title="discounted Way Spa gift cards"
+    style="background-image:url('');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Way Spa — $$100.00</div>
+    <div class="market-price">$$85.00</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-156366">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Keg Steakhouse gift cards"
+    title="discounted Keg Steakhouse gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Keg Steakhouse — $$50.00</div>
+    <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
 </article><article class="market-card" data-brand="Home Depot" data-category="retail" data-ref="GCFC-055981">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
@@ -3028,60 +3082,6 @@ window.CGC_DATA = {
   <div class="market-card-body">
     <div class="market-brand">Walmart — $$25.00</div>
     <div class="market-price">$$21.25</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Walmart" data-category="retail" data-ref="GCFC-961818">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">20.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Walmart gift cards"
-    title="discounted Walmart gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Walmart — $$25.00</div>
-    <div class="market-price">$$20.00</div>
-    <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Keg Steakhouse" data-category="retail" data-ref="GCFC-399756">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Keg Steakhouse gift cards"
-    title="discounted Keg Steakhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Keg Steakhouse — $$50.00</div>
-    <div class="market-price">$$42.50</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
