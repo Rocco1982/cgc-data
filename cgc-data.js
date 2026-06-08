@@ -392,7 +392,34 @@ window.CGC_DATA = {
     <a class="hero-deal-buy" href="#REF!">Buy Now</a>
   </div>
 </div>`,
-  marketHtml: `<article class="market-card" data-brand="Staples" data-category="retail" data-ref="GCFC-338831">
+  marketHtml: `<article class="market-card" data-brand="Sport Chek" data-category="retail" data-ref="GCFC-398615">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">20.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Sport Chek gift cards"
+    title="discounted Sport Chek gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Sport Chek — $$100.00</div>
+    <div class="market-price">$$80.00</div>
+    <div class="market-save">Save 20.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Staples" data-category="retail" data-ref="GCFC-338831">
   <div class="market-status-row">
     <span class="market-pill reserve">Reserve Card</span>
   </div>
@@ -760,6 +787,33 @@ window.CGC_DATA = {
   <div class="market-card-body">
     <div class="market-brand">Keg Steakhouse — $$50.00</div>
     <div class="market-price">$$42.50</div>
+    <div class="market-save">Save 15.00%</div>
+    <div class="market-stock">Reserve request — no payment required</div>
+
+    <div class="market-meta-row">
+      <span class="market-meta">Digital</span>
+      <span class="market-meta">Availability confirmed before checkout</span>
+    </div>
+
+    <a class="market-buy" href="">Reserve Card</a>
+  </div>
+</article><article class="market-card" data-brand="Foot Locker" data-category="retail" data-ref="GCFC-420643">
+  <div class="market-status-row">
+    <span class="market-pill reserve">Reserve Card</span>
+  </div>
+
+  <div class="market-sale-badge">15.00% OFF</div>
+
+  <div class="market-card-top"
+    role="img"
+    aria-label="discounted Foot Locker gift cards"
+    title="discounted Foot Locker gift cards"
+    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbc.png');">
+  </div>
+
+  <div class="market-card-body">
+    <div class="market-brand">Foot Locker — $$120.00</div>
+    <div class="market-price">$$102.00</div>
     <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
@@ -3029,60 +3083,6 @@ window.CGC_DATA = {
     <div class="market-brand">Petro-Canada — $$50.00</div>
     <div class="market-price">$$40.00</div>
     <div class="market-save">Save 20.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Mark's Work Wearhouse" data-category="retail" data-ref="GCFC-687283">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Mark's Work Wearhouse gift cards"
-    title="discounted Mark's Work Wearhouse gift cards"
-    style="background-image:url('https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Mark's Work Wearhouse — $$150.00</div>
-    <div class="market-price">$$127.50</div>
-    <div class="market-save">Save 15.00%</div>
-    <div class="market-stock">Reserve request — no payment required</div>
-
-    <div class="market-meta-row">
-      <span class="market-meta">Digital</span>
-      <span class="market-meta">Availability confirmed before checkout</span>
-    </div>
-
-    <a class="market-buy" href="">Reserve Card</a>
-  </div>
-</article><article class="market-card" data-brand="Other / Not listed" data-category="retail" data-ref="GCFC-354548">
-  <div class="market-status-row">
-    <span class="market-pill reserve">Reserve Card</span>
-  </div>
-
-  <div class="market-sale-badge">15.00% OFF</div>
-
-  <div class="market-card-top"
-    role="img"
-    aria-label="discounted Other / Not listed gift cards"
-    title="discounted Other / Not listed gift cards"
-    style="background-image:url('');">
-  </div>
-
-  <div class="market-card-body">
-    <div class="market-brand">Other / Not listed — $$50.00</div>
-    <div class="market-price">$$42.50</div>
-    <div class="market-save">Save 15.00%</div>
     <div class="market-stock">Reserve request — no payment required</div>
 
     <div class="market-meta-row">
