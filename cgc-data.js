@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-05T15:45:37-07:00",
+  generatedAt: "2026-07-05T16:15:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$34.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 965,
+    "createdAt": "2026-07-05T04:00:00.000Z",
+    "brand": "Xbox",
+    "ref": "GCFC-029679",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292dff306d7f9c.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
