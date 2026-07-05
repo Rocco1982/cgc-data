@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-05T13:41:16-07:00",
+  generatedAt: "2026-07-05T13:46:29-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -291,19 +291,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 940,
-    "createdAt": "2026-07-03T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-958926",
-    "faceValue": "$33.00",
-    "saleValue": "$28.05",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
     "sheetRow": 941,
     "createdAt": "2026-07-03T04:00:00.000Z",
     "brand": "Uber / Uber Eats",
@@ -390,19 +377,6 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 926,
-    "createdAt": "2026-07-02T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-152855",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -564,19 +538,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-07-15 00:00:00"
   }
 ,  {
-    "sheetRow": 915,
-    "createdAt": "2026-07-01T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-858182",
-    "faceValue": "$524.00",
-    "saleValue": "$419.20",
-    "discount": "20.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-07-01 00:00:00",
-    "expiresAt": "2026-07-15 00:00:00"
-  }
-,  {
     "sheetRow": 916,
     "createdAt": "2026-07-01T04:00:00.000Z",
     "brand": "Swiss Chalet",
@@ -668,58 +629,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 923,
-    "createdAt": "2026-07-01T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-797848",
-    "faceValue": "$200.00",
-    "saleValue": "$170.00",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 924,
-    "createdAt": "2026-07-01T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-950464",
-    "faceValue": "$200.00",
-    "saleValue": "$160.00",
-    "discount": "20.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 925,
-    "createdAt": "2026-07-01T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-075993",
-    "faceValue": "$10.00",
-    "saleValue": "$8.50",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 901,
-    "createdAt": "2026-06-30T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-762162",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-30 00:00:00",
-    "expiresAt": "2026-07-14 00:00:00"
-  }
-,  {
     "sheetRow": 902,
     "createdAt": "2026-06-30T04:00:00.000Z",
     "brand": "WestJet",
@@ -780,19 +689,6 @@ window.CGC_DATA = {
     "saleValue": "$80.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-30 00:00:00",
-    "expiresAt": "2026-07-14 00:00:00"
-  }
-,  {
-    "sheetRow": 907,
-    "createdAt": "2026-06-30T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-657754",
-    "faceValue": "$40.00",
-    "saleValue": "$34.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-30 00:00:00",
     "expiresAt": "2026-07-14 00:00:00"
@@ -928,19 +824,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-07-13 00:00:00"
   }
 ,  {
-    "sheetRow": 894,
-    "createdAt": "2026-06-29T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-560911",
-    "faceValue": "$25.00",
-    "saleValue": "$20.00",
-    "discount": "20.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-29 00:00:00",
-    "expiresAt": "2026-07-13 00:00:00"
-  }
-,  {
     "sheetRow": 895,
     "createdAt": "2026-06-29T04:00:00.000Z",
     "brand": "Amazon",
@@ -949,19 +832,6 @@ window.CGC_DATA = {
     "saleValue": "$17.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-29 00:00:00",
-    "expiresAt": "2026-07-13 00:00:00"
-  }
-,  {
-    "sheetRow": 896,
-    "createdAt": "2026-06-29T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-499154",
-    "faceValue": "$120.00",
-    "saleValue": "$102.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-29 00:00:00",
     "expiresAt": "2026-07-13 00:00:00"
@@ -1079,19 +949,6 @@ window.CGC_DATA = {
     "saleValue": "$1,247.80",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-28 00:00:00",
-    "expiresAt": "2026-07-12 00:00:00"
-  }
-,  {
-    "sheetRow": 884,
-    "createdAt": "2026-06-28T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-646876",
-    "faceValue": "$200.00",
-    "saleValue": "$170.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-28 00:00:00",
     "expiresAt": "2026-07-12 00:00:00"
@@ -1274,19 +1131,6 @@ window.CGC_DATA = {
     "saleValue": "$40.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-26 00:00:00",
-    "expiresAt": "2026-07-10 00:00:00"
-  }
-,  {
-    "sheetRow": 859,
-    "createdAt": "2026-06-26T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-367950",
-    "faceValue": "$380.00",
-    "saleValue": "$323.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-26 00:00:00",
     "expiresAt": "2026-07-10 00:00:00"
@@ -1482,32 +1326,6 @@ window.CGC_DATA = {
     "saleValue": "$32.80",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-25 00:00:00",
-    "expiresAt": "2026-07-09 00:00:00"
-  }
-,  {
-    "sheetRow": 847,
-    "createdAt": "2026-06-25T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-951349",
-    "faceValue": "$150.00",
-    "saleValue": "$127.50",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-25 00:00:00",
-    "expiresAt": "2026-07-09 00:00:00"
-  }
-,  {
-    "sheetRow": 848,
-    "createdAt": "2026-06-25T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-874705",
-    "faceValue": "$125.00",
-    "saleValue": "$106.25",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-25 00:00:00",
     "expiresAt": "2026-07-09 00:00:00"
@@ -1760,19 +1578,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-07-08 00:00:00"
   }
 ,  {
-    "sheetRow": 841,
-    "createdAt": "2026-06-24T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-314143",
-    "faceValue": "$380.00",
-    "saleValue": "$323.00",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-24 00:00:00",
-    "expiresAt": "2026-07-08 00:00:00"
-  }
-,  {
     "sheetRow": 821,
     "createdAt": "2026-06-23T04:00:00.000Z",
     "brand": "Fairmont",
@@ -1794,19 +1599,6 @@ window.CGC_DATA = {
     "saleValue": "$120.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
-  }
-,  {
-    "sheetRow": 823,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-997917",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-23 00:00:00",
     "expiresAt": "2026-07-07 00:00:00"
@@ -1929,19 +1721,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-07-06 00:00:00"
   }
 ,  {
-    "sheetRow": 809,
-    "createdAt": "2026-06-22T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-130941",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-22 00:00:00",
-    "expiresAt": "2026-07-06 00:00:00"
-  }
-,  {
     "sheetRow": 810,
     "createdAt": "2026-06-22T04:00:00.000Z",
     "brand": "Apple Store",
@@ -2028,19 +1807,6 @@ window.CGC_DATA = {
     "saleValue": "$39.10",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-22 00:00:00",
-    "expiresAt": "2026-07-06 00:00:00"
-  }
-,  {
-    "sheetRow": 818,
-    "createdAt": "2026-06-22T04:00:00.000Z",
-    "brand": "Other / Not listed",
-    "ref": "GCFC-486949",
-    "faceValue": "$20.00",
-    "saleValue": "$17.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-22 00:00:00",
     "expiresAt": "2026-07-06 00:00:00"
