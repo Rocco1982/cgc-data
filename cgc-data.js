@@ -1,10 +1,23 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-05T14:45:35-07:00",
+  generatedAt: "2026-07-05T15:15:36-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
   deals: [
   {
+    "sheetRow": 964,
+    "createdAt": "2026-07-05T04:00:00.000Z",
+    "brand": "Starbucks",
+    "ref": "GCFC-767785",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
     "sheetRow": 948,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Best Buy",
