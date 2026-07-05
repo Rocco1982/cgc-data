@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-05T13:46:29-07:00",
+  generatedAt: "2026-07-05T14:42:27-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -59,19 +59,6 @@ window.CGC_DATA = {
 ,  {
     "sheetRow": 952,
     "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Under Armour",
-    "ref": "GCFC-574738",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 953,
-    "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Ticketmaster",
     "ref": "GCFC-961418",
     "faceValue": "$200.00",
@@ -83,14 +70,27 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 954,
+    "sheetRow": 953,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-550139",
     "faceValue": "$25.00",
-    "saleValue": "$20.00",
-    "discount": "20.00%",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 954,
+    "createdAt": "2026-07-04T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-027977",
+    "faceValue": "$50.00",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -98,12 +98,12 @@ window.CGC_DATA = {
 ,  {
     "sheetRow": 955,
     "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "NFL Shop",
-    "ref": "GCFC-027977",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "brand": "Walmart",
+    "ref": "GCFC-046846",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -124,70 +124,18 @@ window.CGC_DATA = {
 ,  {
     "sheetRow": 957,
     "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-046846",
-    "faceValue": "$25.00",
-    "saleValue": "$20.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 958,
-    "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Under Armour",
-    "ref": "GCFC-574738",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 959,
-    "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Under Armour",
-    "ref": "GCFC-574738",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 960,
-    "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Under Armour",
-    "ref": "GCFC-574738",
-    "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 961,
-    "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-843930",
     "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
+    "saleValue": "$80.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 962,
+    "sheetRow": 958,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Google Play",
     "ref": "GCFC-934356",
@@ -200,33 +148,33 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 963,
+    "sheetRow": 959,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Hotels.com",
     "ref": "GCFC-950295",
     "faceValue": "$250.00",
-    "saleValue": "$200.00",
-    "discount": "20.00%",
+    "saleValue": "$212.50",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad4b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 964,
+    "sheetRow": 960,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Value Village",
     "ref": "GCFC-061387",
     "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
+    "saleValue": "$80.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924b123917331fbc8637a.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 965,
+    "sheetRow": 961,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Booster Juice",
     "ref": "GCFC-632639",
@@ -239,26 +187,26 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 966,
+    "sheetRow": 962,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-656074",
     "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 967,
+    "sheetRow": 963,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-974556",
     "faceValue": "$10.00",
-    "saleValue": "$8.50",
-    "discount": "15.00%",
+    "saleValue": "$8.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
