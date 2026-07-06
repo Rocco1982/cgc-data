@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-06T14:33:28-07:00",
+  generatedAt: "2026-07-06T16:21:43-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -65,6 +65,32 @@ window.CGC_DATA = {
     "saleValue": "$80.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 973,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "Carter’s / OshKosh",
+    "ref": "GCFC-930764",
+    "faceValue": "$58.00",
+    "saleValue": "$49.30",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfa3d6968461205719b7.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 974,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "Sport Chek",
+    "ref": "GCFC-737617",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
