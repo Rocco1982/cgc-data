@@ -1,10 +1,23 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-06T08:19:40-07:00",
+  generatedAt: "2026-07-06T08:21:30-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
   deals: [
   {
+    "sheetRow": 970,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "One4all",
+    "ref": "GCFC-471328",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2938df50d9ecd2e3348d5.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
     "sheetRow": 964,
     "createdAt": "2026-07-05T04:00:00.000Z",
     "brand": "Starbucks",
