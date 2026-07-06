@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-05T17:45:36-07:00",
+  generatedAt: "2026-07-05T18:15:34-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -26,6 +26,19 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292dff306d7f9c.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 966,
+    "createdAt": "2026-07-05T04:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-725749",
+    "faceValue": "$10.00",
+    "saleValue": "$8.00",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1794,19 +1807,6 @@ window.CGC_DATA = {
     "saleValue": "$12.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-22 00:00:00",
-    "expiresAt": "2026-07-06 00:00:00"
-  }
-,  {
-    "sheetRow": 820,
-    "createdAt": "2026-06-22T04:00:00.000Z",
-    "brand": "LCBO",
-    "ref": "GCFC-617699",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-22 00:00:00",
     "expiresAt": "2026-07-06 00:00:00"
