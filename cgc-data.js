@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-05T18:15:34-07:00",
+  generatedAt: "2026-07-05T18:45:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$8.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 967,
+    "createdAt": "2026-07-05T04:00:00.000Z",
+    "brand": "Sephora",
+    "ref": "GCFC-577682",
+    "faceValue": "$125.00",
+    "saleValue": "$106.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
