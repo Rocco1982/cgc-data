@@ -1,37 +1,50 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-06T08:21:43-07:00",
+  generatedAt: "2026-07-06T10:21:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 970,
+    "sheetRow": 966,
     "createdAt": "2026-07-06T04:00:00.000Z",
     "brand": "One4all",
     "ref": "GCFC-471328",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2938df50d9ecd2e3348d5.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 964,
+    "sheetRow": 968,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-840713",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 960,
     "createdAt": "2026-07-05T04:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-767785",
     "faceValue": "$40.00",
-    "saleValue": "$34.00",
-    "discount": "15.00%",
+    "saleValue": "$32.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 965,
+    "sheetRow": 961,
     "createdAt": "2026-07-05T04:00:00.000Z",
     "brand": "Xbox",
     "ref": "GCFC-029679",
@@ -44,46 +57,46 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 966,
+    "sheetRow": 962,
     "createdAt": "2026-07-05T04:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-725749",
     "faceValue": "$10.00",
-    "saleValue": "$8.00",
-    "discount": "20.00%",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 967,
+    "sheetRow": 963,
     "createdAt": "2026-07-05T04:00:00.000Z",
     "brand": "Sephora",
     "ref": "GCFC-577682",
     "faceValue": "$125.00",
-    "saleValue": "$106.25",
-    "discount": "15.00%",
+    "saleValue": "$100.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 948,
+    "sheetRow": 946,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-693591",
     "faceValue": "$39.51",
-    "saleValue": "$31.61",
-    "discount": "20.00%",
+    "saleValue": "$33.58",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 949,
+    "sheetRow": 947,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Banana Republic",
     "ref": "GCFC-324566",
@@ -96,33 +109,33 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 950,
+    "sheetRow": 948,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "H&M",
     "ref": "GCFC-155793",
     "faceValue": "$96.00",
-    "saleValue": "$81.60",
-    "discount": "15.00%",
+    "saleValue": "$76.80",
+    "discount": "20.00%",
     "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 951,
+    "sheetRow": 949,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Lululemon",
     "ref": "GCFC-370909",
     "faceValue": "$168.00",
-    "saleValue": "$134.40",
-    "discount": "20.00%",
+    "saleValue": "$142.80",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 952,
+    "sheetRow": 950,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Ticketmaster",
     "ref": "GCFC-961418",
@@ -135,33 +148,33 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 953,
+    "sheetRow": 951,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-550139",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
+    "saleValue": "$20.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 954,
+    "sheetRow": 952,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "NFL Shop",
     "ref": "GCFC-027977",
     "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
     "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 955,
+    "sheetRow": 953,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-046846",
@@ -174,20 +187,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 956,
-    "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Under Armour",
-    "ref": "GCFC-574738",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9246f7b97342b49098e4e.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 957,
+    "sheetRow": 954,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-843930",
@@ -200,7 +200,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 958,
+    "sheetRow": 955,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Google Play",
     "ref": "GCFC-934356",
@@ -213,7 +213,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 959,
+    "sheetRow": 956,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Hotels.com",
     "ref": "GCFC-950295",
@@ -226,33 +226,20 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 960,
-    "createdAt": "2026-07-04T04:00:00.000Z",
-    "brand": "Value Village",
-    "ref": "GCFC-061387",
-    "faceValue": "$100.00",
-    "saleValue": "$80.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924b123917331fbc8637a.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 961,
+    "sheetRow": 957,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Booster Juice",
     "ref": "GCFC-632639",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 962,
+    "sheetRow": 958,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-656074",
@@ -265,13 +252,13 @@ window.CGC_DATA = {
     "expiresAt": ""
   }
 ,  {
-    "sheetRow": 963,
+    "sheetRow": 959,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-974556",
     "faceValue": "$10.00",
-    "saleValue": "$8.00",
-    "discount": "20.00%",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
@@ -358,37 +345,11 @@ window.CGC_DATA = {
 ,  {
     "sheetRow": 945,
     "createdAt": "2026-07-03T04:00:00.000Z",
-    "brand": "Bass Pro Shop",
-    "ref": "GCFC-365845",
-    "faceValue": "$100.00",
-    "saleValue": "$80.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 946,
-    "createdAt": "2026-07-03T04:00:00.000Z",
-    "brand": "Bass Pro Shop",
-    "ref": "GCFC-575228",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 947,
-    "createdAt": "2026-07-03T04:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-559333",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
+    "saleValue": "$20.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
