@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-06T10:21:40-07:00",
+  generatedAt: "2026-07-06T12:21:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -26,6 +26,97 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 969,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-730435",
+    "faceValue": "$50.00",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 970,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-499185",
+    "faceValue": "$36.00",
+    "saleValue": "$30.60",
+    "discount": "15.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 971,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "Indigo",
+    "ref": "GCFC-982493",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 972,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-730435",
+    "faceValue": "$50.00",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 973,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-256758",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 974,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-562705",
+    "faceValue": "$20.00",
+    "saleValue": "$17.00",
+    "discount": "15.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 976,
+    "createdAt": "2026-07-06T04:00:00.000Z",
+    "brand": "Apple Store",
+    "ref": "GCFC-821123",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
