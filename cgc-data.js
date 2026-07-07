@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-06T20:21:40-07:00",
+  generatedAt: "2026-07-06T22:21:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -1615,84 +1615,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-24 00:00:00",
     "expiresAt": "2026-07-08 00:00:00"
-  }
-,  {
-    "sheetRow": 821,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Fairmont",
-    "ref": "GCFC-251626",
-    "faceValue": "$250.00",
-    "saleValue": "$212.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
-  }
-,  {
-    "sheetRow": 822,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Roots Canada",
-    "ref": "GCFC-619511",
-    "faceValue": "$150.00",
-    "saleValue": "$120.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
-  }
-,  {
-    "sheetRow": 824,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Way Spa",
-    "ref": "GCFC-182492",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
-  }
-,  {
-    "sheetRow": 825,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Mark's Work Wearhouse",
-    "ref": "GCFC-381603",
-    "faceValue": "$30.00",
-    "saleValue": "$24.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
-  }
-,  {
-    "sheetRow": 826,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-981454",
-    "faceValue": "$106.00",
-    "saleValue": "$90.10",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
-  }
-,  {
-    "sheetRow": 828,
-    "createdAt": "2026-06-23T04:00:00.000Z",
-    "brand": "Winners",
-    "ref": "GCFC-950693",
-    "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-23 00:00:00",
-    "expiresAt": "2026-07-07 00:00:00"
   }
   ]
 };
