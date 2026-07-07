@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-07T00:21:40-07:00",
+  generatedAt: "2026-07-07T08:42:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
@@ -13,6 +13,32 @@ window.CGC_DATA = {
     "saleValue": "$20.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 976,
+    "createdAt": "2026-07-07T04:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-878907",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
+    "sheetRow": 977,
+    "createdAt": "2026-07-07T04:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-799389",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
