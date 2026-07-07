@@ -1,10 +1,23 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-06T22:21:40-07:00",
+  generatedAt: "2026-07-07T00:21:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (rolling last 14 days)",
   expiryDays: 14,
   deals: [
   {
+    "sheetRow": 975,
+    "createdAt": "2026-07-07T04:00:00.000Z",
+    "brand": "Amazon",
+    "ref": "GCFC-016799",
+    "faceValue": "$25.00",
+    "saleValue": "$20.00",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  }
+,  {
     "sheetRow": 966,
     "createdAt": "2026-07-06T04:00:00.000Z",
     "brand": "One4all",
@@ -545,19 +558,6 @@ window.CGC_DATA = {
     "faceValue": "$50.00",
     "saleValue": "$40.00",
     "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  }
-,  {
-    "sheetRow": 937,
-    "createdAt": "2026-07-02T04:00:00.000Z",
-    "brand": "Sport Chek",
-    "ref": "GCFC-137034",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
