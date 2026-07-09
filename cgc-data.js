@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-09T06:22:21-07:00",
+  generatedAt: "2026-07-09T11:22:22-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -1807,19 +1807,6 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e29026a136e5e5066d0760.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-06-22 00:00:00",
-    "expiresAt": "2026-07-06 00:00:00"
-  },
-  {
-    "sheetRow": 812,
-    "createdAt": "2026-06-22T04:00:00.000Z",
-    "brand": "The Children’s Place",
-    "ref": "GCFC-641221",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-22 00:00:00",
     "expiresAt": "2026-07-06 00:00:00"
