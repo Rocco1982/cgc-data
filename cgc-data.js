@@ -1,9 +1,48 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-09T11:22:22-07:00",
+  generatedAt: "2026-07-09T16:22:22-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 973,
+    "createdAt": "2026-07-09T04:00:00.000Z",
+    "brand": "Sephora",
+    "ref": "GCFC-251751",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 974,
+    "createdAt": "2026-07-09T04:00:00.000Z",
+    "brand": "Booster Juice",
+    "ref": "GCFC-127447",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 975,
+    "createdAt": "2026-07-09T04:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-977561",
+    "faceValue": "$20.00",
+    "saleValue": "$16.00",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 969,
     "createdAt": "2026-07-07T04:00:00.000Z",
