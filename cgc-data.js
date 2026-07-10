@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-10T02:22:22-07:00",
+  generatedAt: "2026-07-10T07:22:21-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -429,19 +429,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f293b2fc17decc450784da.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 935,
-    "createdAt": "2026-07-03T04:00:00.000Z",
-    "brand": "Golf Town",
-    "ref": "GCFC-238757",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -7582,19 +7569,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-05-09 00:00:00",
     "expiresAt": "2026-05-23 00:00:00"
-  },
-  {
-    "sheetRow": 256,
-    "createdAt": "2026-05-08T04:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-G36656",
-    "faceValue": "$250.00",
-    "saleValue": "$212.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-05-08 00:00:00",
-    "expiresAt": "2026-05-22 00:00:00"
   },
   {
     "sheetRow": 257,
