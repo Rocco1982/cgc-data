@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-10T17:22:23-07:00",
+  generatedAt: "2026-07-10T22:22:20-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 997,
+    "createdAt": "2026-07-11T04:00:00.000Z",
+    "brand": "Booster Juice",
+    "ref": "GCFC-891780",
+    "faceValue": "$125.00",
+    "saleValue": "$106.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 978,
     "createdAt": "2026-07-10T04:00:00.000Z",
@@ -234,6 +247,19 @@ window.CGC_DATA = {
     "saleValue": "$17.60",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012690d66f2a665c36320.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 998,
+    "createdAt": "2026-07-10T04:00:00.000Z",
+    "brand": "Booster Juice",
+    "ref": "GCFC-891780",
+    "faceValue": "$125.00",
+    "saleValue": "$106.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -923,19 +949,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 918,
-    "createdAt": "2026-07-01T04:00:00.000Z",
-    "brand": "LCBO",
-    "ref": "GCFC-464908",
-    "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
