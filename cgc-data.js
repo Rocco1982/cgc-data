@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-11T13:22:26-07:00",
+  generatedAt: "2026-07-11T13:37:33-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,32 +13,6 @@ window.CGC_DATA = {
     "saleValue": "$212.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 988,
-    "createdAt": "2026-07-11T04:00:00.000Z",
-    "brand": "Booster Juice",
-    "ref": "GCFC-295082",
-    "faceValue": "$56.00",
-    "saleValue": "$47.60",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 989,
-    "createdAt": "2026-07-11T04:00:00.000Z",
-    "brand": "Booster Juice",
-    "ref": "GCFC-295082",
-    "faceValue": "$56.00",
-    "saleValue": "$47.60",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92399019dc508d308effc.jpg",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
