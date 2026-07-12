@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-11T18:22:23-07:00",
+  generatedAt: "2026-07-11T23:22:21-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 990,
+    "createdAt": "2026-07-12T04:00:00.000Z",
+    "brand": "Golf Town",
+    "ref": "GCFC-838598",
+    "faceValue": "$50.00",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 987,
     "createdAt": "2026-07-11T04:00:00.000Z",
@@ -13,6 +26,19 @@ window.CGC_DATA = {
     "saleValue": "$212.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 989,
+    "createdAt": "2026-07-11T04:00:00.000Z",
+    "brand": "Ticket Master",
+    "ref": "GCFC-371924",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -286,19 +312,6 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 956,
-    "createdAt": "2026-07-05T04:00:00.000Z",
-    "brand": "Starbucks",
-    "ref": "GCFC-767785",
-    "faceValue": "$40.00",
-    "saleValue": "$34.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -806,19 +819,6 @@ window.CGC_DATA = {
     "saleValue": "$29.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 917,
-    "createdAt": "2026-07-01T04:00:00.000Z",
-    "brand": "Indigo",
-    "ref": "GCFC-756312",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
