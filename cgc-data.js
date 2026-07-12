@@ -1,24 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-12T09:22:21-07:00",
+  generatedAt: "2026-07-12T12:14:56-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 990,
+    "sheetRow": 988,
     "createdAt": "2026-07-12T04:00:00.000Z",
     "brand": "Golf Town",
     "ref": "GCFC-838598",
     "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
   },
   {
-    "sheetRow": 991,
+    "sheetRow": 989,
     "createdAt": "2026-07-12T04:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-346180",
@@ -26,6 +26,32 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 990,
+    "createdAt": "2026-07-12T04:00:00.000Z",
+    "brand": "Old Navy",
+    "ref": "GCFC-759828",
+    "faceValue": "$25.00",
+    "saleValue": "$20.00",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 991,
+    "createdAt": "2026-07-12T04:00:00.000Z",
+    "brand": "LCBO",
+    "ref": "GCFC-046757",
+    "faceValue": "$30.00",
+    "saleValue": "$25.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -39,19 +65,6 @@ window.CGC_DATA = {
     "saleValue": "$212.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 989,
-    "createdAt": "2026-07-11T04:00:00.000Z",
-    "brand": "Ticket Master",
-    "ref": "GCFC-371924",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
