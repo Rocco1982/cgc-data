@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-13T14:59:55-07:00",
+  generatedAt: "2026-07-13T16:41:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -143,6 +143,19 @@ window.CGC_DATA = {
     "saleValue": "$425.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 122,
+    "createdAt": "2026-07-13T04:00:00.000Z",
+    "brand": "IKEA",
+    "ref": "GCFC-930186",
+    "faceValue": "$86.00",
+    "saleValue": "$73.10",
+    "discount": "15.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
