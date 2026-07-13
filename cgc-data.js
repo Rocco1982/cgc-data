@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-13T11:36:04-07:00",
+  generatedAt: "2026-07-13T11:56:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -91,6 +91,32 @@ window.CGC_DATA = {
     "saleValue": "$76.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f0126905d419900128f207.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 118,
+    "createdAt": "2026-07-13T04:00:00.000Z",
+    "brand": "Mark's Work Wearhouse",
+    "ref": "GCFC-241614",
+    "faceValue": "$439.00",
+    "saleValue": "$373.15",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 119,
+    "createdAt": "2026-07-13T04:00:00.000Z",
+    "brand": "Banana Republic",
+    "ref": "GCFC-661506",
+    "faceValue": "$45.00",
+    "saleValue": "38.25",
+    "discount": "15%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f018f90d66f2a665c4dfda.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
