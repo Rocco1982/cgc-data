@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-13T12:28:06-07:00",
+  generatedAt: "2026-07-13T12:29:08-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 112,
+    "createdAt": "2026-07-13T04:00:00.000Z",
+    "brand": "Bath & Body Works",
+    "ref": "GCFC-573766",
+    "faceValue": "$30.00",
+    "saleValue": "$25.50",
+    "discount": "15.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -39,6 +52,19 @@ window.CGC_DATA = {
     "saleValue": "$29.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 115,
+    "createdAt": "2026-07-13T04:00:00.000Z",
+    "brand": "IKEA",
+    "ref": "GCFC-944261",
+    "faceValue": "$45.00",
+    "saleValue": "$38.25",
+    "discount": "15.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -538,6 +564,19 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
+    "sheetRow": 60,
+    "createdAt": "2026-07-04T04:00:00.000Z",
+    "brand": "H&M",
+    "ref": "GCFC-155793",
+    "faceValue": "$96.00",
+    "saleValue": "$81.60",
+    "discount": "15.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
     "sheetRow": 61,
     "createdAt": "2026-07-04T04:00:00.000Z",
     "brand": "Lululemon",
@@ -572,6 +611,19 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 64,
+    "createdAt": "2026-07-04T04:00:00.000Z",
+    "brand": "NFL Shop",
+    "ref": "GCFC-027977",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1157,6 +1209,19 @@ window.CGC_DATA = {
     "saleValue": "$17.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-06-29 00:00:00",
+    "expiresAt": "2026-07-13 00:00:00"
+  },
+  {
+    "sheetRow": 9,
+    "createdAt": "2026-06-29T04:00:00.000Z",
+    "brand": "Bath & Body Works",
+    "ref": "GCFC-239817",
+    "faceValue": "$75.00",
+    "saleValue": "$63.75",
+    "discount": "15.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-29 00:00:00",
     "expiresAt": "2026-07-13 00:00:00"
