@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-13T14:12:45-07:00",
+  generatedAt: "2026-07-13T14:59:55-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -126,10 +126,23 @@ window.CGC_DATA = {
     "createdAt": "2026-07-13T04:00:00.000Z",
     "brand": "Ticket Master",
     "ref": "GCFC-930384",
-    "faceValue": "$150.00",
+    "faceValue": "$140.56",
     "saleValue": "$127.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 121,
+    "createdAt": "2026-07-13T04:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-061819",
+    "faceValue": "$500.00",
+    "saleValue": "$425.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
