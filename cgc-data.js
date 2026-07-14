@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-13T23:58:09-07:00",
+  generatedAt: "2026-07-14T15:22:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 123,
+    "sheetRow": 122,
     "createdAt": "2026-07-14T04:00:00.000Z",
     "brand": "Bass Pro Shop",
     "ref": "GCFC-811778",
@@ -18,7 +18,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 124,
+    "sheetRow": 123,
     "createdAt": "2026-07-14T04:00:00.000Z",
     "brand": "Esso",
     "ref": "GCFC-069911",
@@ -31,7 +31,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 125,
+    "sheetRow": 124,
     "createdAt": "2026-07-14T04:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-353433",
@@ -39,6 +39,58 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 125,
+    "createdAt": "2026-07-14T04:00:00.000Z",
+    "brand": "LCBO",
+    "ref": "GCFC-355109",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 126,
+    "createdAt": "2026-07-14T04:00:00.000Z",
+    "brand": "Starbucks",
+    "ref": "GCFC-394685",
+    "faceValue": "$35.00",
+    "saleValue": "$29.75",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 127,
+    "createdAt": "2026-07-14T04:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-947534",
+    "faceValue": "$120.00",
+    "saleValue": "$102.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 128,
+    "createdAt": "2026-07-14T04:00:00.000Z",
+    "brand": "Ticket Master",
+    "ref": "GCFC-115927",
+    "faceValue": "$140.00",
+    "saleValue": "$127.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -163,19 +215,6 @@ window.CGC_DATA = {
   {
     "sheetRow": 120,
     "createdAt": "2026-07-13T04:00:00.000Z",
-    "brand": "Ticket Master",
-    "ref": "GCFC-930384",
-    "faceValue": "$140.56",
-    "saleValue": "$127.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 121,
-    "createdAt": "2026-07-13T04:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-061819",
     "faceValue": "$500.00",
@@ -187,7 +226,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 122,
+    "sheetRow": 121,
     "createdAt": "2026-07-13T04:00:00.000Z",
     "brand": "IKEA",
     "ref": "GCFC-930186",
