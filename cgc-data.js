@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-13T16:41:25-07:00",
+  generatedAt: "2026-07-13T23:05:08-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 123,
+    "createdAt": "2026-07-14T04:00:00.000Z",
+    "brand": "Bass Pro Shop",
+    "ref": "GCFC-811778",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 111,
     "createdAt": "2026-07-13T04:00:00.000Z",
@@ -871,19 +884,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 42,
-    "createdAt": "2026-07-02T04:00:00.000Z",
-    "brand": "Canadian Tire",
-    "ref": "GCFC-434419",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
