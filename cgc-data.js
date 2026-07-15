@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-15T12:48:00-07:00",
+  generatedAt: "2026-07-15T13:39:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,32 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 131,
+    "createdAt": "2026-07-15T04:00:00.000Z",
+    "brand": "Mark's Work Wearhouse",
+    "ref": "GCFC-644144",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 132,
+    "createdAt": "2026-07-15T04:00:00.000Z",
+    "brand": "Mark's Work Wearhouse",
+    "ref": "GCFC-998899",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
