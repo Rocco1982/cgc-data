@@ -1,9 +1,35 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-14T15:24:29-07:00",
+  generatedAt: "2026-07-15T10:10:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 128,
+    "createdAt": "2026-07-15T04:00:00.000Z",
+    "brand": "Golf Town",
+    "ref": "GCFC-319821",
+    "faceValue": "$150.00",
+    "saleValue": "$127.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 129,
+    "createdAt": "2026-07-15T04:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-925000",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 122,
     "createdAt": "2026-07-14T04:00:00.000Z",
@@ -78,19 +104,6 @@ window.CGC_DATA = {
     "saleValue": "$102.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 128,
-    "createdAt": "2026-07-14T04:00:00.000Z",
-    "brand": "Ticket Master",
-    "ref": "GCFC-115927",
-    "faceValue": "$140.00",
-    "saleValue": "$127.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
