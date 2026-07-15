@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-15T13:39:41-07:00",
+  generatedAt: "2026-07-15T14:39:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -65,6 +65,19 @@ window.CGC_DATA = {
     "saleValue": "$34.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 133,
+    "createdAt": "2026-07-15T04:00:00.000Z",
+    "brand": "Ticket Master",
+    "ref": "GCFC-236015",
+    "faceValue": "$20.00",
+    "saleValue": "$17.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e087a52d611f4a035b8.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
