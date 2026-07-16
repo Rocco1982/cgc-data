@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-16T12:39:44-07:00",
+  generatedAt: "2026-07-16T13:39:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,6 +26,32 @@ window.CGC_DATA = {
     "saleValue": "$370.60",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 142,
+    "createdAt": "2026-07-16T04:00:00.000Z",
+    "brand": "Staples",
+    "ref": "GCFC-718366",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 143,
+    "createdAt": "2026-07-16T04:00:00.000Z",
+    "brand": "Nintendo eShop",
+    "ref": "GCFC-873025",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
