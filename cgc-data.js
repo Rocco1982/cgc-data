@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-18T13:39:39-07:00",
+  generatedAt: "2026-07-18T14:39:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,19 @@ window.CGC_DATA = {
     "saleValue": "$25.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 151,
+    "createdAt": "2026-07-18T04:00:00.000Z",
+    "brand": "Canadian Tire",
+    "ref": "GCFC-V38896",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
