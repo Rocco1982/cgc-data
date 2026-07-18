@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-18T11:39:39-07:00",
+  generatedAt: "2026-07-18T12:39:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 148,
+    "createdAt": "2026-07-18T04:00:00.000Z",
+    "brand": "Spotify Premium",
+    "ref": "GCFC-J76211",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
