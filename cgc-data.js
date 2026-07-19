@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-19T14:39:40-07:00",
+  generatedAt: "2026-07-19T15:39:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -65,6 +65,19 @@ window.CGC_DATA = {
     "saleValue": "$12.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25532fc17decc45f935f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 160,
+    "createdAt": "2026-07-19T07:00:00.000Z",
+    "brand": "Air Canada",
+    "ref": "GCFC-T76817",
+    "faceValue": "$530.00",
+    "saleValue": "$450.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
