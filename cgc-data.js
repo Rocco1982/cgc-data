@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-19T05:39:42-07:00",
+  generatedAt: "2026-07-19T06:39:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 158,
+    "createdAt": "2026-07-19T07:00:00.000Z",
+    "brand": "PlayStation Store",
+    "ref": "GCFC-F24354",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be99e84e52bef4db90dc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
