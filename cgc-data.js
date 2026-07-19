@@ -1,9 +1,35 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-19T00:39:44-07:00",
+  generatedAt: "2026-07-19T01:39:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 155,
+    "createdAt": "2026-07-19T07:00:00.000Z",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-V91738",
+    "faceValue": "$75.00",
+    "saleValue": "$63.75",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 156,
+    "createdAt": "2026-07-19T07:00:00.000Z",
+    "brand": "Sport Chek",
+    "ref": "GCFC-M40466",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 147,
     "createdAt": "2026-07-18T07:00:00.000Z",
