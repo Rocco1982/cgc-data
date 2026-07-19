@@ -1,12 +1,12 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-18T16:39:40-07:00",
+  generatedAt: "2026-07-18T17:39:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
     "sheetRow": 147,
-    "createdAt": "2026-07-18T04:00:00.000Z",
+    "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-X57642",
     "faceValue": "$100.00",
@@ -19,7 +19,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 148,
-    "createdAt": "2026-07-18T04:00:00.000Z",
+    "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Spotify Premium",
     "ref": "GCFC-J76211",
     "faceValue": "$50.00",
@@ -32,7 +32,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 149,
-    "createdAt": "2026-07-18T04:00:00.000Z",
+    "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-B47574",
     "faceValue": "$28.00",
@@ -45,7 +45,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 150,
-    "createdAt": "2026-07-18T04:00:00.000Z",
+    "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Spotify Premium",
     "ref": "GCFC-N21085",
     "faceValue": "$30.00",
@@ -58,7 +58,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 151,
-    "createdAt": "2026-07-18T04:00:00.000Z",
+    "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Canadian Tire",
     "ref": "GCFC-V38896",
     "faceValue": "$25.00",
@@ -71,7 +71,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 140,
-    "createdAt": "2026-07-16T04:00:00.000Z",
+    "createdAt": "2026-07-16T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-938973",
     "faceValue": "$100.00",
@@ -84,7 +84,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 141,
-    "createdAt": "2026-07-16T04:00:00.000Z",
+    "createdAt": "2026-07-16T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-687666",
     "faceValue": "$436.00",
@@ -97,7 +97,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 142,
-    "createdAt": "2026-07-16T04:00:00.000Z",
+    "createdAt": "2026-07-16T07:00:00.000Z",
     "brand": "Staples",
     "ref": "GCFC-718366",
     "faceValue": "$50.00",
@@ -110,7 +110,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 143,
-    "createdAt": "2026-07-16T04:00:00.000Z",
+    "createdAt": "2026-07-16T07:00:00.000Z",
     "brand": "Nintendo eShop",
     "ref": "GCFC-873025",
     "faceValue": "$50.00",
@@ -123,7 +123,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 144,
-    "createdAt": "2026-07-16T04:00:00.000Z",
+    "createdAt": "2026-07-16T07:00:00.000Z",
     "brand": "Petro-Canada",
     "ref": "GCFC-761247",
     "faceValue": "$25.00",
@@ -136,7 +136,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 145,
-    "createdAt": "2026-07-16T04:00:00.000Z",
+    "createdAt": "2026-07-16T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-292676",
     "faceValue": "$300.00",
@@ -149,7 +149,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 128,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Golf Town",
     "ref": "GCFC-319821",
     "faceValue": "$150.00",
@@ -162,7 +162,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 129,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-925000",
     "faceValue": "$50.00",
@@ -175,7 +175,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 130,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-887446",
     "faceValue": "$25.00",
@@ -188,7 +188,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 131,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-644144",
     "faceValue": "$40.00",
@@ -201,7 +201,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 132,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-998899",
     "faceValue": "$40.00",
@@ -214,7 +214,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 133,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Golf Town",
     "ref": "GCFC-114022",
     "faceValue": "$25.00",
@@ -227,7 +227,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 134,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Home Depot",
     "ref": "GCFC-122904",
     "faceValue": "$167.00",
@@ -240,7 +240,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 135,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-316681",
     "faceValue": "$50.00",
@@ -253,7 +253,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 136,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-842690",
     "faceValue": "$100.00",
@@ -266,7 +266,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 137,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-663920",
     "faceValue": "$50.00",
@@ -279,7 +279,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 138,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "Lululemon",
     "ref": "GCFC-962161",
     "faceValue": "$50.00",
@@ -292,7 +292,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 139,
-    "createdAt": "2026-07-15T04:00:00.000Z",
+    "createdAt": "2026-07-15T07:00:00.000Z",
     "brand": "TELUS Visa",
     "ref": "GCFC-341693",
     "faceValue": "$25.00",
@@ -305,7 +305,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 122,
-    "createdAt": "2026-07-14T04:00:00.000Z",
+    "createdAt": "2026-07-14T07:00:00.000Z",
     "brand": "Bass Pro Shop",
     "ref": "GCFC-811778",
     "faceValue": "$50.00",
@@ -318,7 +318,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 123,
-    "createdAt": "2026-07-14T04:00:00.000Z",
+    "createdAt": "2026-07-14T07:00:00.000Z",
     "brand": "Esso",
     "ref": "GCFC-069911",
     "faceValue": "$10.00",
@@ -331,7 +331,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 124,
-    "createdAt": "2026-07-14T04:00:00.000Z",
+    "createdAt": "2026-07-14T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-353433",
     "faceValue": "$100.00",
@@ -344,7 +344,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 125,
-    "createdAt": "2026-07-14T04:00:00.000Z",
+    "createdAt": "2026-07-14T07:00:00.000Z",
     "brand": "LCBO",
     "ref": "GCFC-355109",
     "faceValue": "$50.00",
@@ -357,7 +357,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 126,
-    "createdAt": "2026-07-14T04:00:00.000Z",
+    "createdAt": "2026-07-14T07:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-394685",
     "faceValue": "$35.00",
@@ -370,7 +370,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 127,
-    "createdAt": "2026-07-14T04:00:00.000Z",
+    "createdAt": "2026-07-14T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-947534",
     "faceValue": "$120.00",
@@ -383,7 +383,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 111,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-364915",
     "faceValue": "$50.00",
@@ -396,7 +396,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 112,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Bath & Body Works",
     "ref": "GCFC-573766",
     "faceValue": "$30.00",
@@ -409,7 +409,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 113,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Foot Locker",
     "ref": "GCFC-770607",
     "faceValue": "$40.00",
@@ -422,7 +422,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 114,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-140116",
     "faceValue": "$35.00",
@@ -435,7 +435,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 115,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "IKEA",
     "ref": "GCFC-944261",
     "faceValue": "$45.00",
@@ -448,7 +448,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 116,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-134378",
     "faceValue": "$50.00",
@@ -461,7 +461,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 117,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Zara",
     "ref": "GCFC-553496",
     "faceValue": "$90.00",
@@ -474,7 +474,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 118,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-241614",
     "faceValue": "$439.00",
@@ -487,7 +487,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 119,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Banana Republic",
     "ref": "GCFC-661506",
     "faceValue": "$45.00",
@@ -500,7 +500,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 120,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-061819",
     "faceValue": "$500.00",
@@ -513,7 +513,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 121,
-    "createdAt": "2026-07-13T04:00:00.000Z",
+    "createdAt": "2026-07-13T07:00:00.000Z",
     "brand": "IKEA",
     "ref": "GCFC-930186",
     "faceValue": "$86.00",
@@ -526,7 +526,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 104,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "Golf Town",
     "ref": "GCFC-838598",
     "faceValue": "$50.00",
@@ -539,7 +539,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 105,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-346180",
     "faceValue": "$25.00",
@@ -552,7 +552,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 106,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "Old Navy",
     "ref": "GCFC-759828",
     "faceValue": "$25.00",
@@ -565,7 +565,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 107,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "LCBO",
     "ref": "GCFC-046757",
     "faceValue": "$30.00",
@@ -578,7 +578,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 108,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-617956",
     "faceValue": "$25.00",
@@ -591,7 +591,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 109,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-439479",
     "faceValue": "$25.00",
@@ -604,7 +604,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 110,
-    "createdAt": "2026-07-12T04:00:00.000Z",
+    "createdAt": "2026-07-12T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-240613",
     "faceValue": "$10.00",
@@ -617,7 +617,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 103,
-    "createdAt": "2026-07-11T04:00:00.000Z",
+    "createdAt": "2026-07-11T07:00:00.000Z",
     "brand": "Cactus Club",
     "ref": "GCFC-379099",
     "faceValue": "$250.00",
@@ -630,7 +630,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 94,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "LCBO",
     "ref": "GCFC-824240",
     "faceValue": "$100.00",
@@ -643,7 +643,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 95,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-M57837",
     "faceValue": "$20.00",
@@ -656,7 +656,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 96,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-393087",
     "faceValue": "$25.00",
@@ -669,7 +669,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 97,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-742494",
     "faceValue": "$1,900.00",
@@ -682,7 +682,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 98,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-580773",
     "faceValue": "$25.00",
@@ -695,7 +695,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 99,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "One4all",
     "ref": "GCFC-299424",
     "faceValue": "$50.00",
@@ -708,7 +708,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 100,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "Old Navy",
     "ref": "GCFC-353269",
     "faceValue": "$40.00",
@@ -721,7 +721,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 101,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-691646",
     "faceValue": "$50.00",
@@ -734,7 +734,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 102,
-    "createdAt": "2026-07-10T04:00:00.000Z",
+    "createdAt": "2026-07-10T07:00:00.000Z",
     "brand": "No Frills",
     "ref": "GCFC-465420",
     "faceValue": "$22.00",
@@ -747,7 +747,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 89,
-    "createdAt": "2026-07-09T04:00:00.000Z",
+    "createdAt": "2026-07-09T07:00:00.000Z",
     "brand": "Sephora",
     "ref": "GCFC-251751",
     "faceValue": "$200.00",
@@ -760,7 +760,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 90,
-    "createdAt": "2026-07-09T04:00:00.000Z",
+    "createdAt": "2026-07-09T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-977561",
     "faceValue": "$20.00",
@@ -773,7 +773,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 92,
-    "createdAt": "2026-07-09T04:00:00.000Z",
+    "createdAt": "2026-07-09T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-232294",
     "faceValue": "$100.00",
@@ -786,7 +786,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 93,
-    "createdAt": "2026-07-09T04:00:00.000Z",
+    "createdAt": "2026-07-09T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-661777",
     "faceValue": "$100.00",
@@ -799,7 +799,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 85,
-    "createdAt": "2026-07-07T04:00:00.000Z",
+    "createdAt": "2026-07-07T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-016799",
     "faceValue": "$25.00",
@@ -812,7 +812,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 86,
-    "createdAt": "2026-07-07T04:00:00.000Z",
+    "createdAt": "2026-07-07T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-878907",
     "faceValue": "$50.00",
@@ -825,7 +825,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 87,
-    "createdAt": "2026-07-07T04:00:00.000Z",
+    "createdAt": "2026-07-07T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-799389",
     "faceValue": "$25.00",
@@ -838,7 +838,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 78,
-    "createdAt": "2026-07-06T04:00:00.000Z",
+    "createdAt": "2026-07-06T07:00:00.000Z",
     "brand": "One4all",
     "ref": "GCFC-471328",
     "faceValue": "$50.00",
@@ -851,7 +851,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 80,
-    "createdAt": "2026-07-06T04:00:00.000Z",
+    "createdAt": "2026-07-06T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-982493",
     "faceValue": "$50.00",
@@ -864,7 +864,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 82,
-    "createdAt": "2026-07-06T04:00:00.000Z",
+    "createdAt": "2026-07-06T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-821123",
     "faceValue": "$25.00",
@@ -877,7 +877,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 83,
-    "createdAt": "2026-07-06T04:00:00.000Z",
+    "createdAt": "2026-07-06T07:00:00.000Z",
     "brand": "Carter’s / OshKosh",
     "ref": "GCFC-930764",
     "faceValue": "$58.00",
@@ -890,7 +890,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 84,
-    "createdAt": "2026-07-06T04:00:00.000Z",
+    "createdAt": "2026-07-06T07:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-737617",
     "faceValue": "$25.00",
@@ -903,7 +903,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 73,
-    "createdAt": "2026-07-05T04:00:00.000Z",
+    "createdAt": "2026-07-05T07:00:00.000Z",
     "brand": "Xbox",
     "ref": "GCFC-029679",
     "faceValue": "$100.00",
@@ -916,7 +916,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 74,
-    "createdAt": "2026-07-05T04:00:00.000Z",
+    "createdAt": "2026-07-05T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-725749",
     "faceValue": "$10.00",
@@ -929,7 +929,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 75,
-    "createdAt": "2026-07-05T04:00:00.000Z",
+    "createdAt": "2026-07-05T07:00:00.000Z",
     "brand": "Sephora",
     "ref": "GCFC-577682",
     "faceValue": "$125.00",
@@ -942,7 +942,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 58,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-693591",
     "faceValue": "$39.51",
@@ -955,7 +955,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 59,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Banana Republic",
     "ref": "GCFC-324566",
     "faceValue": "$112.00",
@@ -968,7 +968,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 60,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "H&M",
     "ref": "GCFC-155793",
     "faceValue": "$96.00",
@@ -981,7 +981,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 61,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Lululemon",
     "ref": "GCFC-370909",
     "faceValue": "$168.00",
@@ -994,7 +994,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 62,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Ticketmaster",
     "ref": "GCFC-961418",
     "faceValue": "$200.00",
@@ -1007,7 +1007,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 63,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-550139",
     "faceValue": "$25.00",
@@ -1020,7 +1020,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 64,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "NFL Shop",
     "ref": "GCFC-027977",
     "faceValue": "$50.00",
@@ -1033,7 +1033,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 65,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-046846",
     "faceValue": "$25.00",
@@ -1046,7 +1046,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 66,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-843930",
     "faceValue": "$100.00",
@@ -1059,7 +1059,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 67,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Google Play",
     "ref": "GCFC-934356",
     "faceValue": "$50.00",
@@ -1072,7 +1072,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 68,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Hotels.com",
     "ref": "GCFC-950295",
     "faceValue": "$250.00",
@@ -1085,7 +1085,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 69,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Booster Juice",
     "ref": "GCFC-632639",
     "faceValue": "$50.00",
@@ -1098,7 +1098,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 70,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-656074",
     "faceValue": "$50.00",
@@ -1111,7 +1111,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 71,
-    "createdAt": "2026-07-04T04:00:00.000Z",
+    "createdAt": "2026-07-04T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-974556",
     "faceValue": "$10.00",
@@ -1124,7 +1124,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 50,
-    "createdAt": "2026-07-03T04:00:00.000Z",
+    "createdAt": "2026-07-03T07:00:00.000Z",
     "brand": "Google Play",
     "ref": "GCFC-993762",
     "faceValue": "$100.00",
@@ -1137,7 +1137,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 53,
-    "createdAt": "2026-07-03T04:00:00.000Z",
+    "createdAt": "2026-07-03T07:00:00.000Z",
     "brand": "Uber / Uber Eats",
     "ref": "GCFC-274947",
     "faceValue": "$50.00",
@@ -1150,7 +1150,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 54,
-    "createdAt": "2026-07-03T04:00:00.000Z",
+    "createdAt": "2026-07-03T07:00:00.000Z",
     "brand": "Sephora",
     "ref": "GCFC-938545",
     "faceValue": "$25.00",
@@ -1163,7 +1163,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 55,
-    "createdAt": "2026-07-03T04:00:00.000Z",
+    "createdAt": "2026-07-03T07:00:00.000Z",
     "brand": "Fairmont",
     "ref": "GCFC-310916",
     "faceValue": "$800.00",
@@ -1176,7 +1176,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 56,
-    "createdAt": "2026-07-03T04:00:00.000Z",
+    "createdAt": "2026-07-03T07:00:00.000Z",
     "brand": "Netflix",
     "ref": "GCFC-140585",
     "faceValue": "$150.00",
@@ -1189,7 +1189,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 57,
-    "createdAt": "2026-07-03T04:00:00.000Z",
+    "createdAt": "2026-07-03T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-559333",
     "faceValue": "$25.00",
@@ -1202,7 +1202,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 39,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-019041",
     "faceValue": "$100.00",
@@ -1215,7 +1215,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 40,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-529014",
     "faceValue": "$29.00",
@@ -1228,7 +1228,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 41,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Bass Pro Shop",
     "ref": "GCFC-047710",
     "faceValue": "$100.00",
@@ -1241,7 +1241,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 43,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "McDonald’s",
     "ref": "GCFC-431510",
     "faceValue": "$25.00",
@@ -1254,7 +1254,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 44,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-183753",
     "faceValue": "$50.00",
@@ -1267,7 +1267,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 45,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "A&W",
     "ref": "GCFC-840877",
     "faceValue": "$100.00",
@@ -1280,7 +1280,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 46,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-356053",
     "faceValue": "$62.00",
@@ -1293,7 +1293,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 47,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-921504",
     "faceValue": "$50.00",
@@ -1306,7 +1306,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 48,
-    "createdAt": "2026-07-02T04:00:00.000Z",
+    "createdAt": "2026-07-02T07:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-210383",
     "faceValue": "$50.00",
@@ -1319,7 +1319,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 26,
-    "createdAt": "2026-07-01T04:00:00.000Z",
+    "createdAt": "2026-07-01T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-294464",
     "faceValue": "$143.00",
@@ -1332,7 +1332,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 28,
-    "createdAt": "2026-07-01T04:00:00.000Z",
+    "createdAt": "2026-07-01T07:00:00.000Z",
     "brand": "Swiss Chalet",
     "ref": "GCFC-216373",
     "faceValue": "$50.00",
@@ -1345,7 +1345,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 29,
-    "createdAt": "2026-07-01T04:00:00.000Z",
+    "createdAt": "2026-07-01T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-134819",
     "faceValue": "$40.00",
@@ -1358,7 +1358,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 30,
-    "createdAt": "2026-07-01T04:00:00.000Z",
+    "createdAt": "2026-07-01T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-880943",
     "faceValue": "$100.00",
@@ -1371,7 +1371,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 31,
-    "createdAt": "2026-07-01T04:00:00.000Z",
+    "createdAt": "2026-07-01T07:00:00.000Z",
     "brand": "Aritzia",
     "ref": "GCFC-950755",
     "faceValue": "$100.00",
@@ -1384,7 +1384,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 32,
-    "createdAt": "2026-07-01T04:00:00.000Z",
+    "createdAt": "2026-07-01T07:00:00.000Z",
     "brand": "Subway",
     "ref": "GCFC-532562",
     "faceValue": "$35.00",
@@ -1397,7 +1397,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 14,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-259823",
     "faceValue": "$500.00",
@@ -1410,7 +1410,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 15,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-515951",
     "faceValue": "$50.00",
@@ -1423,7 +1423,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 16,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "FreshCo",
     "ref": "GCFC-792097",
     "faceValue": "$35.00",
@@ -1436,7 +1436,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 17,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-414579",
     "faceValue": "$74.00",
@@ -1449,7 +1449,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 18,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-748253",
     "faceValue": "$100.00",
@@ -1462,7 +1462,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 20,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Home Hardware",
     "ref": "GCFC-929283",
     "faceValue": "$47.00",
@@ -1475,7 +1475,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 21,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Old Navy",
     "ref": "GCFC-420266",
     "faceValue": "$100.00",
@@ -1488,7 +1488,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 22,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Save-On-Foods",
     "ref": "GCFC-223130",
     "faceValue": "$47.00",
@@ -1501,7 +1501,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 23,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-997862",
     "faceValue": "$100.00",
@@ -1514,7 +1514,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 24,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Uber / Uber Eats",
     "ref": "GCFC-140745",
     "faceValue": "$45.00",
@@ -1527,7 +1527,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 25,
-    "createdAt": "2026-06-30T04:00:00.000Z",
+    "createdAt": "2026-06-30T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-833512",
     "faceValue": "$10.00",
@@ -1540,7 +1540,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 2,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Sephora",
     "ref": "GCFC-142784",
     "faceValue": "$25.00",
@@ -1553,7 +1553,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 3,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-975714",
     "faceValue": "$100.00",
@@ -1566,7 +1566,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 4,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-778859",
     "faceValue": "$100.00",
@@ -1579,7 +1579,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 5,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-653164",
     "faceValue": "$200.00",
@@ -1592,7 +1592,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 7,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-949699",
     "faceValue": "$20.00",
@@ -1605,7 +1605,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 9,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Bath & Body Works",
     "ref": "GCFC-239817",
     "faceValue": "$75.00",
@@ -1618,7 +1618,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 10,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-271895",
     "faceValue": "$70.00",
@@ -1631,7 +1631,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 11,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-393680",
     "faceValue": "$100.00",
@@ -1644,7 +1644,7 @@ window.CGC_DATA = {
   },
   {
     "sheetRow": 12,
-    "createdAt": "2026-06-29T04:00:00.000Z",
+    "createdAt": "2026-06-29T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-236163",
     "faceValue": "$50.00",
