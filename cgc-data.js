@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-19T21:41:03-07:00",
+  generatedAt: "2026-07-20T11:07:00-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -130,6 +130,19 @@ window.CGC_DATA = {
     "saleValue": "$6.85",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 165,
+    "createdAt": "2026-07-19T07:00:00.000Z",
+    "brand": "Steam",
+    "ref": "GCFC-S98717",
+    "faceValue": "$20.00",
+    "saleValue": "$17.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f252c8663e5f92fff7c731.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
