@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-20T17:06:56-07:00",
+  generatedAt: "2026-07-20T18:06:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -130,6 +130,32 @@ window.CGC_DATA = {
     "saleValue": "$67.91",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 177,
+    "createdAt": "2026-07-20T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-V73029",
+    "faceValue": "$225.00",
+    "saleValue": "$191.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 178,
+    "createdAt": "2026-07-20T07:00:00.000Z",
+    "brand": "Roots Canada",
+    "ref": "GCFC-K13641",
+    "faceValue": "$20.00",
+    "saleValue": "$17.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
