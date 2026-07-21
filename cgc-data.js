@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-20T19:06:57-07:00",
+  generatedAt: "2026-07-20T20:06:59-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -169,6 +169,19 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 180,
+    "createdAt": "2026-07-20T07:00:00.000Z",
+    "brand": "Loblaws",
+    "ref": "GCFC-F52472",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
