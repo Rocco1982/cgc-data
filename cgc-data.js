@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-22T14:06:54-07:00",
+  generatedAt: "2026-07-22T15:06:59-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -202,19 +202,6 @@ window.CGC_DATA = {
   {
     "sheetRow": 196,
     "createdAt": "2026-07-22T07:00:00.000Z",
-    "brand": "Build a Bear",
-    "ref": "GCFC-Z99397",
-    "faceValue": "$34.00",
-    "saleValue": "$28.90",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 197,
-    "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-A36785",
     "faceValue": "$200.00",
@@ -226,7 +213,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 198,
+    "sheetRow": 197,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-X80992",
