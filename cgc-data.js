@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-23T00:07:04-07:00",
+  generatedAt: "2026-07-23T01:06:57-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 202,
+    "createdAt": "2026-07-23T07:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-R31963",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 181,
     "createdAt": "2026-07-22T07:00:00.000Z",
