@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-24T04:06:56-07:00",
+  generatedAt: "2026-07-24T05:06:56-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 209,
+    "createdAt": "2026-07-24T07:00:00.000Z",
+    "brand": "Esso",
+    "ref": "GCFC-V68067",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bc8dfc17decc450df51f.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 202,
     "createdAt": "2026-07-23T07:00:00.000Z",
