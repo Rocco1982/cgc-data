@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-24T15:48:46-07:00",
+  generatedAt: "2026-07-24T16:46:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,32 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 213,
+    "createdAt": "2026-07-24T07:00:00.000Z",
+    "brand": "BC Ferries",
+    "ref": "GCFC-A33347",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad4f.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 214,
+    "createdAt": "2026-07-24T07:00:00.000Z",
+    "brand": "Starbucks",
+    "ref": "GCFC-J35179",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
