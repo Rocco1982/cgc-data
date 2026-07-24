@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-24T06:06:56-07:00",
+  generatedAt: "2026-07-24T07:06:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,6 +13,32 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bc8dfc17decc450df51f.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 210,
+    "createdAt": "2026-07-24T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-N19781",
+    "faceValue": "$44.92",
+    "saleValue": "$38.18",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 211,
+    "createdAt": "2026-07-24T07:00:00.000Z",
+    "brand": "Amazon",
+    "ref": "GCFC-G39218",
+    "faceValue": "$195.00",
+    "saleValue": "$165.75",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
