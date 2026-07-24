@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-23T20:06:56-07:00",
+  generatedAt: "2026-07-23T21:06:55-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,32 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 207,
+    "createdAt": "2026-07-23T07:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-L47105",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 208,
+    "createdAt": "2026-07-23T07:00:00.000Z",
+    "brand": "Starbucks",
+    "ref": "GCFC-E65501",
+    "faceValue": "$20.00",
+    "saleValue": "$17.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
