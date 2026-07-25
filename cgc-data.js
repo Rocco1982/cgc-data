@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-25T09:46:39-07:00",
+  generatedAt: "2026-07-25T10:46:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,32 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 221,
+    "createdAt": "2026-07-25T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-T45586",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 222,
+    "createdAt": "2026-07-25T07:00:00.000Z",
+    "brand": "LCBO",
+    "ref": "GCFC-T59776",
+    "faceValue": "$33.10",
+    "saleValue": "$28.14",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
