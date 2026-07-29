@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-28T18:46:39-07:00",
+  generatedAt: "2026-07-28T19:46:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -402,7 +402,7 @@ window.CGC_DATA = {
     "faceValue": "$150.00",
     "saleValue": "$127.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -415,7 +415,7 @@ window.CGC_DATA = {
     "faceValue": "$150.00",
     "saleValue": "$127.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -428,7 +428,7 @@ window.CGC_DATA = {
     "faceValue": "$150.00",
     "saleValue": "$127.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -623,7 +623,7 @@ window.CGC_DATA = {
     "faceValue": "$10.00",
     "saleValue": "$8.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69646f687db4bb53ac4678.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1013,7 +1013,7 @@ window.CGC_DATA = {
     "faceValue": "$50.00",
     "saleValue": "$42.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696965b7fe5a8e317770b6.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
