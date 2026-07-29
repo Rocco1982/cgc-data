@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-28T19:46:42-07:00",
+  generatedAt: "2026-07-28T20:46:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -480,7 +480,7 @@ window.CGC_DATA = {
     "faceValue": "$100.00",
     "saleValue": "$85.00",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69646118a264df532b562c.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -831,7 +831,7 @@ window.CGC_DATA = {
     "faceValue": "$50.00",
     "saleValue": "$42.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696451687db4bb53abaec3.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1299,7 +1299,7 @@ window.CGC_DATA = {
     "faceValue": "$30.00",
     "saleValue": "$25.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696473b4176d3727c9a40b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1338,7 +1338,7 @@ window.CGC_DATA = {
     "faceValue": "$45.00",
     "saleValue": "$38.25",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644618a264df532b5194.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1416,7 +1416,7 @@ window.CGC_DATA = {
     "faceValue": "$86.00",
     "saleValue": "$73.10",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644618a264df532b5194.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1871,7 +1871,7 @@ window.CGC_DATA = {
     "faceValue": "$96.00",
     "saleValue": "$81.60",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644db4176d3727c9944d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -1923,7 +1923,7 @@ window.CGC_DATA = {
     "faceValue": "$50.00",
     "saleValue": "$42.50",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69641d18a264df532b1127.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -2508,7 +2508,7 @@ window.CGC_DATA = {
     "faceValue": "$75.00",
     "saleValue": "$63.75",
     "discount": "15.00%",
-    "image": "",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696473b4176d3727c9a40b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-29 00:00:00",
     "expiresAt": "2026-07-13 00:00:00"
