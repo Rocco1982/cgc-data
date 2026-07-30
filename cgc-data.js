@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-30T14:46:41-07:00",
+  generatedAt: "2026-07-30T15:46:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 235,
+    "createdAt": "2026-07-30T07:00:00.000Z",
+    "brand": "BC Ferries",
+    "ref": "GCFC-F94494",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad4f.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 228,
     "createdAt": "2026-07-29T07:00:00.000Z",
