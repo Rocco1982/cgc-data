@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-07-31T03:46:40-07:00",
+  generatedAt: "2026-07-31T04:46:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 239,
+    "createdAt": "2026-07-31T07:00:00.000Z",
+    "brand": "Costco",
+    "ref": "GCFC-B77244",
+    "faceValue": "$19.03",
+    "saleValue": "$16.18",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f250dc590487fe57d43bd2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 235,
     "createdAt": "2026-07-30T07:00:00.000Z",
