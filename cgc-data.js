@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-01T11:46:43-07:00",
+  generatedAt: "2026-08-01T12:46:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -753,7 +753,7 @@ window.CGC_DATA = {
     "faceValue": "$100.00",
     "saleValue": "$85.00",
     "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292dff306d7f9c.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a3bdd68b3c8655da29abb0e.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -2014,7 +2014,7 @@ window.CGC_DATA = {
     "faceValue": "$100.00",
     "saleValue": "$85.00",
     "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130527292dff306d7f9c.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a3bdd68b3c8655da29abb0e.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
