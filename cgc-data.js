@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-01T12:46:38-07:00",
+  generatedAt: "2026-08-01T13:46:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,45 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 247,
+    "createdAt": "2026-08-01T07:00:00.000Z",
+    "brand": "IKEA",
+    "ref": "GCFC-B04801",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644618a264df532b5194.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 249,
+    "createdAt": "2026-08-01T07:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-N05400",
+    "faceValue": "$135.59",
+    "saleValue": "$115.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 250,
+    "createdAt": "2026-08-01T07:00:00.000Z",
+    "brand": "FreshCo",
+    "ref": "GCFC-R49865",
+    "faceValue": "$500.00",
+    "saleValue": "$425.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad49.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
