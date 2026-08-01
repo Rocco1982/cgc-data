@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-01T07:46:41-07:00",
+  generatedAt: "2026-08-01T08:46:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 245,
+    "createdAt": "2026-08-01T07:00:00.000Z",
+    "brand": "Indigo",
+    "ref": "GCFC-P19442",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
