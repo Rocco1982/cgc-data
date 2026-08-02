@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-02T00:46:40-07:00",
+  generatedAt: "2026-08-02T01:46:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 254,
+    "createdAt": "2026-08-02T07:00:00.000Z",
+    "brand": "Nintendo eShop",
+    "ref": "GCFC-V16046",
+    "faceValue": "$99.00",
+    "saleValue": "$84.15",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696965b7fe5a8e317770b6.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 243,
     "createdAt": "2026-08-01T07:00:00.000Z",
