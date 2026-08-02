@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-01T18:46:39-07:00",
+  generatedAt: "2026-08-01T19:46:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -91,6 +91,32 @@ window.CGC_DATA = {
     "saleValue": "$25.81",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24b4f663e5f92fff5ac70.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 252,
+    "createdAt": "2026-08-01T07:00:00.000Z",
+    "brand": "Home Hardware",
+    "ref": "GCFC-E38060",
+    "faceValue": "$125.00",
+    "saleValue": "$106.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b1305ab48042f619d2768.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 253,
+    "createdAt": "2026-08-01T07:00:00.000Z",
+    "brand": "Sobeys",
+    "ref": "GCFC-D80038",
+    "faceValue": "$500.00",
+    "saleValue": "$425.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
