@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-02T06:46:40-07:00",
+  generatedAt: "2026-08-02T07:46:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,6 +26,32 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d92602a4e6aa34cb8fd348.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 256,
+    "createdAt": "2026-08-02T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-V04034",
+    "faceValue": "$150.00",
+    "saleValue": "$127.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 257,
+    "createdAt": "2026-08-02T07:00:00.000Z",
+    "brand": "FreshCo",
+    "ref": "GCFC-L18260",
+    "faceValue": "$500.00",
+    "saleValue": "$425.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad49.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
