@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-02T13:46:39-07:00",
+  generatedAt: "2026-08-02T14:46:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,32 @@ window.CGC_DATA = {
     "saleValue": "$425.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad49.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 258,
+    "createdAt": "2026-08-02T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-N26218",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 259,
+    "createdAt": "2026-08-02T07:00:00.000Z",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-N41514",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
