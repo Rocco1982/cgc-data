@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-02T14:46:40-07:00",
+  generatedAt: "2026-08-02T15:46:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 254,
+    "sheetRow": 253,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Nintendo eShop",
     "ref": "GCFC-V16046",
@@ -18,7 +18,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 255,
+    "sheetRow": 254,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Dairy Queen",
     "ref": "GCFC-Z50227",
@@ -31,7 +31,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 256,
+    "sheetRow": 255,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-V04034",
@@ -44,7 +44,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 257,
+    "sheetRow": 256,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "FreshCo",
     "ref": "GCFC-L18260",
@@ -57,7 +57,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 258,
+    "sheetRow": 257,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-N26218",
@@ -70,7 +70,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 259,
+    "sheetRow": 258,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-N41514",
@@ -83,7 +83,20 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 243,
+    "sheetRow": 259,
+    "createdAt": "2026-08-02T07:00:00.000Z",
+    "brand": "Loblaws",
+    "ref": "GCFC-W45937",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 242,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-M87262",
@@ -96,7 +109,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 245,
+    "sheetRow": 244,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-P19442",
@@ -109,7 +122,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 246,
+    "sheetRow": 245,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-C21834",
@@ -122,7 +135,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 247,
+    "sheetRow": 246,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "IKEA",
     "ref": "GCFC-B04801",
@@ -135,7 +148,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 249,
+    "sheetRow": 248,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-N05400",
@@ -148,7 +161,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 250,
+    "sheetRow": 249,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "FreshCo",
     "ref": "GCFC-R49865",
@@ -161,7 +174,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 251,
+    "sheetRow": 250,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "TELUS Visa",
     "ref": "GCFC-H94941",
@@ -174,7 +187,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 252,
+    "sheetRow": 251,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Home Hardware",
     "ref": "GCFC-E38060",
@@ -187,7 +200,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 253,
+    "sheetRow": 252,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Sobeys",
     "ref": "GCFC-D80038",
@@ -200,7 +213,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 239,
+    "sheetRow": 238,
     "createdAt": "2026-07-31T07:00:00.000Z",
     "brand": "Costco",
     "ref": "GCFC-B77244",
@@ -213,7 +226,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 240,
+    "sheetRow": 239,
     "createdAt": "2026-07-31T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-Y61346",
@@ -226,7 +239,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 242,
+    "sheetRow": 241,
     "createdAt": "2026-07-31T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-S76844",
@@ -241,19 +254,6 @@ window.CGC_DATA = {
   {
     "sheetRow": 235,
     "createdAt": "2026-07-30T07:00:00.000Z",
-    "brand": "BC Ferries",
-    "ref": "GCFC-F94494",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad4f.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 236,
-    "createdAt": "2026-07-30T07:00:00.000Z",
     "brand": "Zara",
     "ref": "GCFC-K39966",
     "faceValue": "$100.00",
@@ -265,7 +265,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 237,
+    "sheetRow": 236,
     "createdAt": "2026-07-30T07:00:00.000Z",
     "brand": "Zara",
     "ref": "GCFC-M83191",
@@ -278,7 +278,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 238,
+    "sheetRow": 237,
     "createdAt": "2026-07-30T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-H39282",
@@ -2664,7 +2664,7 @@ window.CGC_DATA = {
     "faceValue": "$500.00",
     "saleValue": "$425.00",
     "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e29026a136e5e5066d0760.jfif",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a3b74f8659bec99fcccd0a7.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-30 00:00:00",
     "expiresAt": "2026-07-14 00:00:00"
@@ -2703,7 +2703,7 @@ window.CGC_DATA = {
     "faceValue": "$74.00",
     "saleValue": "$62.90",
     "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69e29026a136e5e5066d0760.jfif",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a3b74f8659bec99fcccd0a7.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-06-30 00:00:00",
     "expiresAt": "2026-07-14 00:00:00"
