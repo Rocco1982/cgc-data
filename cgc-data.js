@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-04T15:46:40-07:00",
+  generatedAt: "2026-08-04T16:46:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,32 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 271,
+    "createdAt": "2026-08-04T07:00:00.000Z",
+    "brand": "LCBO",
+    "ref": "GCFC-Z62478",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 272,
+    "createdAt": "2026-08-04T07:00:00.000Z",
+    "brand": "Golf Town",
+    "ref": "GCFC-P48842",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
