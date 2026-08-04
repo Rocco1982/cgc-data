@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-04T03:46:39-07:00",
+  generatedAt: "2026-08-04T04:46:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 267,
+    "createdAt": "2026-08-04T07:00:00.000Z",
+    "brand": "La Vie en Rose",
+    "ref": "GCFC-G03946",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01420481c62deba074b2b.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 262,
     "createdAt": "2026-08-03T07:00:00.000Z",
