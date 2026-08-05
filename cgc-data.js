@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-05T00:46:47-07:00",
+  generatedAt: "2026-08-05T01:46:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
