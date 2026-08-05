@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-05T14:01:44-07:00",
+  generatedAt: "2026-08-05T15:01:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -41,19 +41,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 274,
-    "createdAt": "2026-08-05T05:01:00.000Z",
-    "brand": "Amazon",
-    "ref": "GCFC-PAYTEST01",
-    "faceValue": "5",
-    "saleValue": "$1.11",
-    "discount": "77.80%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-04T22:01:00-07:00",
     "expiresAt": ""
   },
   {
