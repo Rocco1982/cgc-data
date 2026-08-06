@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-05T17:01:40-07:00",
+  generatedAt: "2026-08-05T18:01:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -41,6 +41,32 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 282,
+    "createdAt": "2026-08-05T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-N39855",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 274,
+    "createdAt": "2026-08-05T05:01:00.000Z",
+    "brand": "Amazon",
+    "ref": "GCFC-PAYTEST01",
+    "faceValue": "5",
+    "saleValue": "$1.11",
+    "discount": "77.80%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-04T22:01:00-07:00",
     "expiresAt": ""
   },
   {
@@ -130,19 +156,6 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 262,
-    "createdAt": "2026-08-03T07:00:00.000Z",
-    "brand": "Indigo",
-    "ref": "GCFC-P86111",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
