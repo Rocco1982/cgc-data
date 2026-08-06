@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-06T15:01:40-07:00",
+  generatedAt: "2026-08-06T16:01:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 297,
+    "sheetRow": 296,
     "createdAt": "2026-08-06T07:00:00.000Z",
     "brand": "FreshCo",
     "ref": "GCFC-A73156",
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$78.23",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6fccd1cf81b06f05ceda9c.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 297,
+    "createdAt": "2026-08-06T07:00:00.000Z",
+    "brand": "DoorDash",
+    "ref": "GCFC-X62225",
+    "faceValue": "$15.00",
+    "saleValue": "$12.75",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f29a49590487fe57e4adf3.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
