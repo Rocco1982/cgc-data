@@ -1,16 +1,16 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-06T13:01:37-07:00",
+  generatedAt: "2026-08-06T14:01:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 295,
+    "sheetRow": 152,
     "createdAt": "2026-08-06T07:00:00.000Z",
     "brand": "Build a Bear",
-    "ref": "GCFC-U61308",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
+    "ref": "GCFC-N10267",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696470b7fe5a8e316cbb4a.png",
     "marketStatus": "buyer_interest",
@@ -18,7 +18,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 279,
+    "sheetRow": 280,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-X90876",
@@ -31,7 +31,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 280,
+    "sheetRow": 281,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Ultimate Dining",
     "ref": "GCFC-Q23588",
@@ -44,7 +44,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 281,
+    "sheetRow": 282,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-E18244",
@@ -57,7 +57,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 282,
+    "sheetRow": 283,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-N39855",
@@ -70,7 +70,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 283,
+    "sheetRow": 284,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-E45781",
@@ -83,7 +83,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 284,
+    "sheetRow": 285,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-W63987",
@@ -96,7 +96,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 285,
+    "sheetRow": 286,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-M63902",
@@ -109,7 +109,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 286,
+    "sheetRow": 287,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-S77770",
@@ -122,7 +122,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 287,
+    "sheetRow": 288,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-M90611",
@@ -135,7 +135,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 288,
+    "sheetRow": 289,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "WestJet",
     "ref": "GCFC-J36119",
@@ -148,7 +148,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 289,
+    "sheetRow": 290,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-B72934",
@@ -161,7 +161,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 290,
+    "sheetRow": 291,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Fairmont",
     "ref": "GCFC-B72431",
@@ -174,7 +174,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 291,
+    "sheetRow": 292,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Fairmont",
     "ref": "GCFC-X53003",
@@ -187,7 +187,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 292,
+    "sheetRow": 293,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Fairmont",
     "ref": "GCFC-G46626",
@@ -200,7 +200,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 293,
+    "sheetRow": 294,
     "createdAt": "2026-08-05T07:00:00.000Z",
     "brand": "Fairmont",
     "ref": "GCFC-F51178",
@@ -213,20 +213,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 274,
-    "createdAt": "2026-08-05T05:01:00.000Z",
-    "brand": "Amazon",
-    "ref": "GCFC-PAYTEST01",
-    "faceValue": "5",
-    "saleValue": "$1.11",
-    "discount": "77.80%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-04T22:01:00-07:00",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 267,
+    "sheetRow": 268,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "La Vie en Rose",
     "ref": "GCFC-G03946",
@@ -239,7 +226,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 268,
+    "sheetRow": 269,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "Ticketmaster",
     "ref": "GCFC-H80006",
@@ -252,7 +239,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 269,
+    "sheetRow": 270,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-E85460",
@@ -265,7 +252,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 270,
+    "sheetRow": 271,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-J07264",
@@ -278,7 +265,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 271,
+    "sheetRow": 272,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "LCBO",
     "ref": "GCFC-Z62478",
@@ -291,7 +278,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 272,
+    "sheetRow": 273,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "Golf Town",
     "ref": "GCFC-P48842",
@@ -304,7 +291,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 273,
+    "sheetRow": 274,
     "createdAt": "2026-08-04T07:00:00.000Z",
     "brand": "LCBO",
     "ref": "GCFC-U54157",
@@ -317,7 +304,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 264,
+    "sheetRow": 265,
     "createdAt": "2026-08-03T07:00:00.000Z",
     "brand": "Hotels.com",
     "ref": "GCFC-N00964",
@@ -330,7 +317,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 265,
+    "sheetRow": 266,
     "createdAt": "2026-08-03T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-W33801",
@@ -343,7 +330,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 266,
+    "sheetRow": 267,
     "createdAt": "2026-08-03T07:00:00.000Z",
     "brand": "Ultimate Dining",
     "ref": "GCFC-Q65562",
@@ -356,7 +343,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 253,
+    "sheetRow": 254,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Nintendo eShop",
     "ref": "GCFC-V16046",
@@ -369,7 +356,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 254,
+    "sheetRow": 255,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Dairy Queen",
     "ref": "GCFC-Z50227",
@@ -382,7 +369,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 255,
+    "sheetRow": 256,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-V04034",
@@ -395,7 +382,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 256,
+    "sheetRow": 257,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "FreshCo",
     "ref": "GCFC-L18260",
@@ -408,7 +395,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 257,
+    "sheetRow": 258,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-N26218",
@@ -421,7 +408,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 258,
+    "sheetRow": 259,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-N41514",
@@ -434,7 +421,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 259,
+    "sheetRow": 260,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-W45937",
@@ -447,7 +434,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 260,
+    "sheetRow": 261,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-X65062",
@@ -460,7 +447,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 261,
+    "sheetRow": 262,
     "createdAt": "2026-08-02T07:00:00.000Z",
     "brand": "Ultimate Dining",
     "ref": "GCFC-F09450",
@@ -473,7 +460,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 242,
+    "sheetRow": 243,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-M87262",
@@ -486,7 +473,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 244,
+    "sheetRow": 245,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-P19442",
@@ -499,7 +486,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 245,
+    "sheetRow": 246,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-C21834",
@@ -512,7 +499,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 246,
+    "sheetRow": 247,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "IKEA",
     "ref": "GCFC-B04801",
@@ -525,7 +512,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 248,
+    "sheetRow": 249,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-N05400",
@@ -538,7 +525,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 249,
+    "sheetRow": 250,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "FreshCo",
     "ref": "GCFC-R49865",
@@ -551,7 +538,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 250,
+    "sheetRow": 251,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "TELUS Visa",
     "ref": "GCFC-H94941",
@@ -564,7 +551,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 251,
+    "sheetRow": 252,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Home Hardware",
     "ref": "GCFC-E38060",
@@ -577,7 +564,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 252,
+    "sheetRow": 253,
     "createdAt": "2026-08-01T07:00:00.000Z",
     "brand": "Sobeys",
     "ref": "GCFC-D80038",
@@ -590,7 +577,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 238,
+    "sheetRow": 239,
     "createdAt": "2026-07-31T07:00:00.000Z",
     "brand": "Costco",
     "ref": "GCFC-B77244",
@@ -603,7 +590,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 239,
+    "sheetRow": 240,
     "createdAt": "2026-07-31T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-Y61346",
@@ -616,7 +603,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 241,
+    "sheetRow": 242,
     "createdAt": "2026-07-31T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-S76844",
@@ -629,7 +616,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 235,
+    "sheetRow": 236,
     "createdAt": "2026-07-30T07:00:00.000Z",
     "brand": "Zara",
     "ref": "GCFC-K39966",
@@ -642,7 +629,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 236,
+    "sheetRow": 237,
     "createdAt": "2026-07-30T07:00:00.000Z",
     "brand": "Zara",
     "ref": "GCFC-M83191",
@@ -655,7 +642,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 237,
+    "sheetRow": 238,
     "createdAt": "2026-07-30T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-H39282",
@@ -668,7 +655,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 228,
+    "sheetRow": 229,
     "createdAt": "2026-07-29T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-W15221",
@@ -681,7 +668,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 229,
+    "sheetRow": 230,
     "createdAt": "2026-07-29T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-U29363",
@@ -694,7 +681,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 230,
+    "sheetRow": 231,
     "createdAt": "2026-07-29T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-M69425",
@@ -707,7 +694,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 231,
+    "sheetRow": 232,
     "createdAt": "2026-07-29T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-H55647",
@@ -720,7 +707,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 232,
+    "sheetRow": 233,
     "createdAt": "2026-07-29T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-H44965",
@@ -733,7 +720,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 233,
+    "sheetRow": 234,
     "createdAt": "2026-07-29T07:00:00.000Z",
     "brand": "Get Happy",
     "ref": "GCFC-S80439",
@@ -746,7 +733,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 225,
+    "sheetRow": 226,
     "createdAt": "2026-07-28T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-F86503",
@@ -759,7 +746,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 226,
+    "sheetRow": 227,
     "createdAt": "2026-07-28T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-X57310",
@@ -772,7 +759,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 218,
+    "sheetRow": 219,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "Esso",
     "ref": "GCFC-Q31632",
@@ -785,7 +772,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 219,
+    "sheetRow": 220,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-G92203",
@@ -798,7 +785,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 220,
+    "sheetRow": 221,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "Staples",
     "ref": "GCFC-T15400",
@@ -811,7 +798,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 221,
+    "sheetRow": 222,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-T45586",
@@ -824,7 +811,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 222,
+    "sheetRow": 223,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "LCBO",
     "ref": "GCFC-T59776",
@@ -837,7 +824,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 223,
+    "sheetRow": 224,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-W07389",
@@ -850,7 +837,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 224,
+    "sheetRow": 225,
     "createdAt": "2026-07-25T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-H63468",
@@ -863,7 +850,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 209,
+    "sheetRow": 210,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Esso",
     "ref": "GCFC-V68067",
@@ -876,7 +863,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 210,
+    "sheetRow": 211,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-N19781",
@@ -889,7 +876,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 211,
+    "sheetRow": 212,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-G39218",
@@ -902,7 +889,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 212,
+    "sheetRow": 213,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-X35504",
@@ -915,7 +902,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 213,
+    "sheetRow": 214,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "BC Ferries",
     "ref": "GCFC-A33347",
@@ -928,7 +915,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 214,
+    "sheetRow": 215,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-J35179",
@@ -941,7 +928,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 216,
+    "sheetRow": 217,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-X85029",
@@ -954,7 +941,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 202,
+    "sheetRow": 203,
     "createdAt": "2026-07-23T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-R31963",
@@ -967,7 +954,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 204,
+    "sheetRow": 205,
     "createdAt": "2026-07-23T07:00:00.000Z",
     "brand": "Ultimate Dining",
     "ref": "GCFC-Q05510",
@@ -980,7 +967,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 205,
+    "sheetRow": 206,
     "createdAt": "2026-07-23T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-J27811",
@@ -993,7 +980,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 206,
+    "sheetRow": 207,
     "createdAt": "2026-07-23T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-B63388",
@@ -1006,7 +993,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 207,
+    "sheetRow": 208,
     "createdAt": "2026-07-23T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-L47105",
@@ -1019,7 +1006,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 208,
+    "sheetRow": 209,
     "createdAt": "2026-07-23T07:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-E65501",
@@ -1032,7 +1019,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 181,
+    "sheetRow": 182,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-K30135",
@@ -1045,7 +1032,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 182,
+    "sheetRow": 183,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Home Depot",
     "ref": "GCFC-L96410",
@@ -1058,7 +1045,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 183,
+    "sheetRow": 184,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Ticket Master",
     "ref": "GCFC-Z17153",
@@ -1071,7 +1058,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 184,
+    "sheetRow": 185,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-W84922",
@@ -1084,7 +1071,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 185,
+    "sheetRow": 186,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Best Buy",
     "ref": "GCFC-R07242",
@@ -1097,7 +1084,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 186,
+    "sheetRow": 187,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "A&W",
     "ref": "GCFC-D68688",
@@ -1110,7 +1097,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 187,
+    "sheetRow": 188,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-K65932",
@@ -1123,7 +1110,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 188,
+    "sheetRow": 189,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-P32176",
@@ -1136,7 +1123,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 189,
+    "sheetRow": 190,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Yorkdale",
     "ref": "GCFC-Y39711",
@@ -1149,7 +1136,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 190,
+    "sheetRow": 191,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Yorkdale",
     "ref": "GCFC-B54286",
@@ -1162,7 +1149,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 191,
+    "sheetRow": 192,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Yorkdale",
     "ref": "GCFC-H64059",
@@ -1175,7 +1162,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 192,
+    "sheetRow": 193,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Sobeys",
     "ref": "GCFC-Q85287",
@@ -1188,7 +1175,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 193,
+    "sheetRow": 194,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-B56279",
@@ -1201,7 +1188,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 194,
+    "sheetRow": 195,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-A55226",
@@ -1214,7 +1201,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 195,
+    "sheetRow": 196,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Chevron",
     "ref": "GCFC-N28727",
@@ -1227,7 +1214,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 196,
+    "sheetRow": 197,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-A36785",
@@ -1240,7 +1227,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 197,
+    "sheetRow": 198,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-X80992",
@@ -1253,7 +1240,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 198,
+    "sheetRow": 199,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Princess Auto",
     "ref": "GCFC-S07547",
@@ -1266,7 +1253,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 199,
+    "sheetRow": 200,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-V38869",
@@ -1279,7 +1266,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 200,
+    "sheetRow": 201,
     "createdAt": "2026-07-22T07:00:00.000Z",
     "brand": "Xbox",
     "ref": "GCFC-U62776",
@@ -1292,7 +1279,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 166,
+    "sheetRow": 167,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Steam",
     "ref": "GCFC-F21705",
@@ -1305,7 +1292,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 167,
+    "sheetRow": 168,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "American Eagle",
     "ref": "GCFC-R04822",
@@ -1318,7 +1305,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 168,
+    "sheetRow": 169,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-D84473",
@@ -1331,7 +1318,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 169,
+    "sheetRow": 170,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-R31737",
@@ -1344,7 +1331,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 170,
+    "sheetRow": 171,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-F15912",
@@ -1357,7 +1344,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 171,
+    "sheetRow": 172,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Burger King",
     "ref": "GCFC-N36856",
@@ -1370,7 +1357,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 172,
+    "sheetRow": 173,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Amazon",
     "ref": "GCFC-F54250",
@@ -1383,7 +1370,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 173,
+    "sheetRow": 174,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Sephora",
     "ref": "GCFC-T71807",
@@ -1396,7 +1383,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 174,
+    "sheetRow": 175,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Apple Store",
     "ref": "GCFC-Y40687",
@@ -1409,7 +1396,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 175,
+    "sheetRow": 176,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-K66255",
@@ -1422,7 +1409,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 177,
+    "sheetRow": 178,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-V73029",
@@ -1435,7 +1422,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 178,
+    "sheetRow": 179,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Roots Canada",
     "ref": "GCFC-K13641",
@@ -1448,7 +1435,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 179,
+    "sheetRow": 180,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-V70836",
@@ -1461,7 +1448,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 180,
+    "sheetRow": 181,
     "createdAt": "2026-07-20T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-F52472",
@@ -1474,7 +1461,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 155,
+    "sheetRow": 156,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Tim Hortons",
     "ref": "GCFC-V91738",
@@ -1487,7 +1474,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 156,
+    "sheetRow": 157,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Sport Chek",
     "ref": "GCFC-M40466",
@@ -1500,7 +1487,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 157,
+    "sheetRow": 158,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-Y99763",
@@ -1513,7 +1500,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 158,
+    "sheetRow": 159,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "PlayStation Store",
     "ref": "GCFC-F24354",
@@ -1526,7 +1513,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 159,
+    "sheetRow": 160,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Uber / Uber Eats",
     "ref": "GCFC-K02830",
@@ -1539,7 +1526,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 160,
+    "sheetRow": 161,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-T76817",
@@ -1552,7 +1539,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 161,
+    "sheetRow": 162,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-W38526",
@@ -1565,7 +1552,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 162,
+    "sheetRow": 163,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Gap",
     "ref": "GCFC-Z53887",
@@ -1578,7 +1565,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 163,
+    "sheetRow": 164,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Loblaws",
     "ref": "GCFC-L93736",
@@ -1591,7 +1578,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 164,
+    "sheetRow": 165,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Indigo",
     "ref": "GCFC-M64270",
@@ -1604,7 +1591,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 165,
+    "sheetRow": 166,
     "createdAt": "2026-07-19T07:00:00.000Z",
     "brand": "Steam",
     "ref": "GCFC-S98717",
@@ -1682,7 +1669,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 153,
+    "sheetRow": 154,
     "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-A08900",
@@ -1695,7 +1682,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 154,
+    "sheetRow": 155,
     "createdAt": "2026-07-18T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-G55200",
