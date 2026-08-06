@@ -1,18 +1,18 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-06T14:01:37-07:00",
+  generatedAt: "2026-08-06T15:01:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 152,
+    "sheetRow": 297,
     "createdAt": "2026-08-06T07:00:00.000Z",
-    "brand": "Build a Bear",
-    "ref": "GCFC-N10267",
-    "faceValue": "$10.00",
-    "saleValue": "$8.50",
+    "brand": "FreshCo",
+    "ref": "GCFC-A73156",
+    "faceValue": "$92.04",
+    "saleValue": "$78.23",
     "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696470b7fe5a8e316cbb4a.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6fccd1cf81b06f05ceda9c.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -902,19 +902,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 214,
-    "createdAt": "2026-07-24T07:00:00.000Z",
-    "brand": "BC Ferries",
-    "ref": "GCFC-A33347",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012698acd760bf8ecad4f.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 215,
     "createdAt": "2026-07-24T07:00:00.000Z",
     "brand": "Starbucks",
@@ -1612,19 +1599,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 148,
-    "createdAt": "2026-07-18T07:00:00.000Z",
-    "brand": "Spotify Premium",
-    "ref": "GCFC-J76211",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
