@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-06T16:01:40-07:00",
+  generatedAt: "2026-08-06T17:01:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,6 +26,19 @@ window.CGC_DATA = {
     "saleValue": "$12.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f29a49590487fe57e4adf3.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 298,
+    "createdAt": "2026-08-06T07:00:00.000Z",
+    "brand": "Roots Canada",
+    "ref": "GCFC-M63929",
+    "faceValue": "$88.21",
+    "saleValue": "$74.98",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
