@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-06T17:01:38-07:00",
+  generatedAt: "2026-08-06T18:01:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$74.98",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 299,
+    "createdAt": "2026-08-06T07:00:00.000Z",
+    "brand": "Build a Bear",
+    "ref": "GCFC-A92523",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696470b7fe5a8e316cbb4a.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
