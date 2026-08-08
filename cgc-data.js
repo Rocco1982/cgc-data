@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-08T10:01:39-07:00",
+  generatedAt: "2026-08-08T11:01:36-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 300,
+    "sheetRow": 299,
     "createdAt": "2026-08-08T07:00:00.000Z",
     "brand": "Lululemon",
     "ref": "GCFC-M27772",
@@ -18,7 +18,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 301,
+    "sheetRow": 300,
     "createdAt": "2026-08-08T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-P68633",
@@ -26,6 +26,32 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 302,
+    "createdAt": "2026-08-08T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-T27197",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 303,
+    "createdAt": "2026-08-08T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-W73348",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -65,32 +91,6 @@ window.CGC_DATA = {
     "saleValue": "$74.98",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 299,
-    "createdAt": "2026-08-06T07:00:00.000Z",
-    "brand": "Build a Bear",
-    "ref": "GCFC-A92523",
-    "faceValue": "$10.00",
-    "saleValue": "$8.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696470b7fe5a8e316cbb4a.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 280,
-    "createdAt": "2026-08-05T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-X90876",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
