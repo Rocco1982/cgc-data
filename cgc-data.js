@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-09T14:02:40-07:00",
+  generatedAt: "2026-08-09T15:02:11-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,32 @@ window.CGC_DATA = {
     "saleValue": "$25.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644db4176d3727c9944d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 313,
+    "createdAt": "2026-08-09T07:00:00.000Z",
+    "brand": "Apple Store",
+    "ref": "GCFC-B45769",
+    "faceValue": "$500.00",
+    "saleValue": "$425.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 314,
+    "createdAt": "2026-08-09T07:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-U20808",
+    "faceValue": "$895.99",
+    "saleValue": "$761.59",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
