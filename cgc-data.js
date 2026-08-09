@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-08T20:02:25-07:00",
+  generatedAt: "2026-08-08T21:01:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -104,6 +104,32 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 308,
+    "createdAt": "2026-08-08T07:00:00.000Z",
+    "brand": "Sobeys",
+    "ref": "GCFC-G39400",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 309,
+    "createdAt": "2026-08-08T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-F22357",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
