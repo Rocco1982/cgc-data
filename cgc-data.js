@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-12T15:01:45-07:00",
+  generatedAt: "2026-08-12T16:01:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 335,
+    "sheetRow": 334,
     "createdAt": "2026-08-12T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-D16921",
@@ -18,7 +18,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 336,
+    "sheetRow": 335,
     "createdAt": "2026-08-12T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-C09785",
@@ -26,19 +26,6 @@ window.CGC_DATA = {
     "saleValue": "$127.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 337,
-    "createdAt": "2026-08-12T07:00:00.000Z",
-    "brand": "Build a Bear",
-    "ref": "GCFC-C52092",
-    "faceValue": "$6.00",
-    "saleValue": "$8.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696470b7fe5a8e316cbb4a.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -228,19 +215,6 @@ window.CGC_DATA = {
   {
     "sheetRow": 329,
     "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Loblaws",
-    "ref": "GCFC-A94886",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 330,
-    "createdAt": "2026-08-11T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-N76920",
     "faceValue": "$220.00",
@@ -252,7 +226,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 331,
+    "sheetRow": 330,
     "createdAt": "2026-08-11T07:00:00.000Z",
     "brand": "Lululemon",
     "ref": "GCFC-C16225",
@@ -265,7 +239,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 332,
+    "sheetRow": 331,
     "createdAt": "2026-08-11T07:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-D48379",
@@ -278,7 +252,7 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 333,
+    "sheetRow": 332,
     "createdAt": "2026-08-11T07:00:00.000Z",
     "brand": "Joker",
     "ref": "GCFC-A95807",
