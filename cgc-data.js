@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-12T16:01:38-07:00",
+  generatedAt: "2026-08-12T17:01:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -135,19 +135,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 323,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Lululemon",
-    "ref": "GCFC-W77578",
-    "faceValue": "$77.52",
-    "saleValue": "$65.89",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 324,
     "createdAt": "2026-08-11T07:00:00.000Z",
     "brand": "Ultimate Dining",
@@ -221,19 +208,6 @@ window.CGC_DATA = {
     "saleValue": "$187.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 330,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Lululemon",
-    "ref": "GCFC-C16225",
-    "faceValue": "$52.66",
-    "saleValue": "$44.76",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -356,32 +330,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 302,
-    "createdAt": "2026-08-08T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-T27197",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 303,
-    "createdAt": "2026-08-08T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-W73348",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 304,
     "createdAt": "2026-08-08T07:00:00.000Z",
     "brand": "Way Spa",
@@ -390,19 +338,6 @@ window.CGC_DATA = {
     "saleValue": "$140.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963fe4869c3e7fe0bdabb.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 305,
-    "createdAt": "2026-08-08T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-D48809",
-    "faceValue": "$35.00",
-    "saleValue": "$29.75",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
