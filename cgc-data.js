@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-12T23:01:38-07:00",
+  generatedAt: "2026-08-13T00:01:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -286,19 +286,6 @@ window.CGC_DATA = {
     "saleValue": "$187.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 331,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Starbucks",
-    "ref": "GCFC-D48379",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
