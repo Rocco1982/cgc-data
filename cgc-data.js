@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-12T18:01:36-07:00",
+  generatedAt: "2026-08-12T19:01:36-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,32 @@ window.CGC_DATA = {
     "saleValue": "$8.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 338,
+    "createdAt": "2026-08-12T07:00:00.000Z",
+    "brand": "Air Canada",
+    "ref": "GCFC-F08706",
+    "faceValue": "$250.00",
+    "saleValue": "$212.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 339,
+    "createdAt": "2026-08-12T07:00:00.000Z",
+    "brand": "Costco",
+    "ref": "GCFC-Z87182",
+    "faceValue": "$27.92",
+    "saleValue": "$23.73",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f250dc590487fe57d43bd2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
