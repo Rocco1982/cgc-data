@@ -1,9 +1,35 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-14T13:02:00-07:00",
+  generatedAt: "2026-08-14T14:01:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 2204,
+    "createdAt": "2026-08-14T07:00:00.000Z",
+    "brand": "Canadian Tire",
+    "ref": "GCFC-V80647",
+    "faceValue": "$61.01",
+    "saleValue": "51.86",
+    "discount": "15%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 2205,
+    "createdAt": "2026-08-14T07:00:00.000Z",
+    "brand": "Golf Town",
+    "ref": "GCFC-P81261",
+    "faceValue": "$25.00",
+    "saleValue": "21.25",
+    "discount": "15%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 340,
     "createdAt": "2026-08-13T07:00:00.000Z",
