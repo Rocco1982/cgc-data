@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-15T09:01:35-07:00",
+  generatedAt: "2026-08-15T10:01:36-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 2,
+    "sheetRow": 346,
     "createdAt": "2026-08-15T07:00:00.000Z",
     "brand": "Air Canada",
     "ref": "GCFC-A04216",
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$850.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 347,
+    "createdAt": "2026-08-15T07:00:00.000Z",
+    "brand": "Uber / Uber Eats",
+    "ref": "GCFC-W84953",
+    "faceValue": "$30.00",
+    "saleValue": "$25.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25532fc17decc45f935f2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
