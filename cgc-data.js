@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-14T20:01:38-07:00",
+  generatedAt: "2026-08-14T21:01:35-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,19 +13,6 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 343,
-    "createdAt": "2026-08-14T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-F26341",
-    "faceValue": "$200",
-    "saleValue": "$170.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -299,19 +286,6 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 327,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Loblaws",
-    "ref": "GCFC-D52164",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
