@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-15T15:01:36-07:00",
+  generatedAt: "2026-08-15T16:01:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -49,9 +49,22 @@ window.CGC_DATA = {
     "brand": "Walmart",
     "ref": "GCFC-T56826",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
+    "saleValue": "$21.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 350,
+    "createdAt": "2026-08-15T07:00:00.000Z",
+    "brand": "Air Canada",
+    "ref": "GCFC-C19572",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
