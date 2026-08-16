@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-16T09:58:11-07:00",
+  generatedAt: "2026-08-16T10:58:11-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -62,9 +62,35 @@ window.CGC_DATA = {
     "brand": "Apple Store",
     "ref": "GCFC-G53496",
     "faceValue": "$15.00",
-    "saleValue": "$12.75",
+    "saleValue": "$12.75 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 361,
+    "createdAt": "2026-08-16T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-B62620",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 362,
+    "createdAt": "2026-08-16T07:00:00.000Z",
+    "brand": "Sport Chek",
+    "ref": "GCFC-N70737",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
