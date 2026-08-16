@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-16T14:58:09-07:00",
+  generatedAt: "2026-08-16T15:58:12-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -104,6 +104,32 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 365,
+    "createdAt": "2026-08-16T07:00:00.000Z",
+    "brand": "Get Happy",
+    "ref": "GCFC-X25025",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f29ae2e84e52bef4d5aa13.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 366,
+    "createdAt": "2026-08-16T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-C36392",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -455,19 +481,6 @@ window.CGC_DATA = {
     "saleValue": "$187.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 332,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Joker",
-    "ref": "GCFC-A95807",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bd45590487fe57ea2cac.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
