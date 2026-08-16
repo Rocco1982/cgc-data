@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-16T08:58:11-07:00",
+  generatedAt: "2026-08-16T08:58:17-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 353,
+    "createdAt": "2026-08-16T07:00:00.000Z",
+    "brand": "Loblaws",
+    "ref": "GCFC-X20633",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 346,
     "createdAt": "2026-08-15T07:00:00.000Z",
