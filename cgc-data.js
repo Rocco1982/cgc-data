@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-17T13:00:17-07:00",
+  generatedAt: "2026-08-17T14:00:17-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 371,
+    "createdAt": "2026-08-17T07:00:00.000Z",
+    "brand": "Metro",
+    "ref": "GCFC-H68302",
+    "faceValue": "$23.45",
+    "saleValue": "$19.93",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbd.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 353,
     "createdAt": "2026-08-16T07:00:00.000Z",
@@ -130,32 +143,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 367,
-    "createdAt": "2026-08-16T07:00:00.000Z",
-    "brand": "Loblaws",
-    "ref": "GCFC-K98354",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 368,
-    "createdAt": "2026-08-16T07:00:00.000Z",
-    "brand": "Loblaws",
-    "ref": "GCFC-U41538",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
