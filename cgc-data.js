@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-17T07:58:12-07:00",
+  generatedAt: "2026-08-17T08:58:12-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -166,8 +166,8 @@ window.CGC_DATA = {
     "brand": "Sport Chek",
     "ref": "GCFC-F20432",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
+    "saleValue": "$20.00",
+    "discount": "$0.20",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
