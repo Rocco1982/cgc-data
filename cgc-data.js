@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-17T20:59:58-07:00",
+  generatedAt: "2026-08-17T21:59:56-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -78,6 +78,19 @@ window.CGC_DATA = {
     "saleValue": "$61.12",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 378,
+    "createdAt": "2026-08-17T07:00:00.000Z",
+    "brand": "Staples",
+    "ref": "GCFC-P27478",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
