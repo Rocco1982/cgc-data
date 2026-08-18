@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-18T04:59:57-07:00",
+  generatedAt: "2026-08-18T06:00:04-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -179,7 +179,7 @@ window.CGC_DATA = {
     "brand": "Winners",
     "ref": "GCFC-B62620",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
