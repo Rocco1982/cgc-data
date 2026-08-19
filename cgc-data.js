@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-19T10:00:06-07:00",
+  generatedAt: "2026-08-19T11:00:11-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -114,8 +114,8 @@ window.CGC_DATA = {
     "brand": "Princess Auto",
     "ref": "GCFC-C98957",
     "faceValue": "$299.17",
-    "saleValue": "$254.29",
-    "discount": "15.00%",
+    "saleValue": "$239.33",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e0824d066ec62b9caf4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
