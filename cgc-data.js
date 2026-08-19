@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-18T19:00:01-07:00",
+  generatedAt: "2026-08-18T20:00:08-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,19 @@ window.CGC_DATA = {
     "saleValue": "21.25",
     "discount": "15%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 385,
+    "createdAt": "2026-08-18T07:00:00.000Z",
+    "brand": "Value Village",
+    "ref": "GCFC-J03625",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d924b123917331fbc8637a.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
