@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-19T16:00:01-07:00",
+  generatedAt: "2026-08-19T17:00:04-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -286,19 +286,6 @@ window.CGC_DATA = {
     "saleValue": "$20.00",
     "discount": "$0.20",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 370,
-    "createdAt": "2026-08-16T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-Z60570",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -676,19 +663,6 @@ window.CGC_DATA = {
     "saleValue": "$25.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644db4176d3727c9944d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 313,
-    "createdAt": "2026-08-09T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-B45769",
-    "faceValue": "$500.00",
-    "saleValue": "$425.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
