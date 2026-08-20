@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-20T13:00:10-07:00",
+  generatedAt: "2026-08-20T14:00:08-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 394,
+    "createdAt": "2026-08-20T07:00:00.000Z",
+    "brand": "Yorkdale",
+    "ref": "GCFC-K12589",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
