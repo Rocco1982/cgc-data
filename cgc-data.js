@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-21T08:59:58-07:00",
+  generatedAt: "2026-08-21T10:00:51-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -10,11 +10,11 @@ window.CGC_DATA = {
     "brand": "Uber / Uber Eats",
     "ref": "GCFC-Z73849",
     "faceValue": "$100.00",
-    "saleValue": "$85.00",
+    "saleValue": "$85.00 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25532fc17decc45f935f2.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-21 09:51:09",
     "expiresAt": ""
   },
   {
@@ -23,11 +23,11 @@ window.CGC_DATA = {
     "brand": "Winners",
     "ref": "GCFC-F21428",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-21 09:51:09",
     "expiresAt": ""
   },
   {
@@ -44,19 +44,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 398,
-    "createdAt": "2026-08-21T07:00:00.000Z",
-    "brand": "Tim Hortons",
-    "ref": "GCFC-B78810",
-    "faceValue": "$15.00",
-    "saleValue": "$12.75",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 399,
     "createdAt": "2026-08-21T07:00:00.000Z",
     "brand": "Amazon",
@@ -65,6 +52,19 @@ window.CGC_DATA = {
     "saleValue": "$8.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 400,
+    "createdAt": "2026-08-21T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-W76237",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
