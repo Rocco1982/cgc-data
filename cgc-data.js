@@ -1,22 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-21T13:00:05-07:00",
+  generatedAt: "2026-08-21T13:59:59-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
-  {
-    "sheetRow": 396,
-    "createdAt": "2026-08-21T07:00:00.000Z",
-    "brand": "Winners",
-    "ref": "GCFC-F21428",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-21 09:51:09",
-    "expiresAt": ""
-  },
   {
     "sheetRow": 397,
     "createdAt": "2026-08-21T07:00:00.000Z",
@@ -91,6 +78,19 @@ window.CGC_DATA = {
     "saleValue": "$238.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 406,
+    "createdAt": "2026-08-21T07:00:00.000Z",
+    "brand": "Canadian Tire",
+    "ref": "GCFC-J47893",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
