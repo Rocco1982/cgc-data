@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-21T04:59:57-07:00",
+  generatedAt: "2026-08-21T06:00:00-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -52,6 +52,19 @@ window.CGC_DATA = {
     "saleValue": "$12.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 399,
+    "createdAt": "2026-08-21T07:00:00.000Z",
+    "brand": "Amazon",
+    "ref": "PENTEST-GCFC-00000",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
