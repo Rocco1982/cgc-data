@@ -1,22 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-21T10:00:51-07:00",
+  generatedAt: "2026-08-21T11:00:07-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
-  {
-    "sheetRow": 395,
-    "createdAt": "2026-08-21T07:00:00.000Z",
-    "brand": "Uber / Uber Eats",
-    "ref": "GCFC-Z73849",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25532fc17decc45f935f2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-21 09:51:09",
-    "expiresAt": ""
-  },
   {
     "sheetRow": 396,
     "createdAt": "2026-08-21T07:00:00.000Z",
@@ -62,9 +49,22 @@ window.CGC_DATA = {
     "brand": "Walmart",
     "ref": "GCFC-W76237",
     "faceValue": "$100.00",
-    "saleValue": "$85.00",
+    "saleValue": "$85.00 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 401,
+    "createdAt": "2026-08-21T07:00:00.000Z",
+    "brand": "Apple Store",
+    "ref": "GCFC-D67799",
+    "faceValue": "$150.00",
+    "saleValue": "$127.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
