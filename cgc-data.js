@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-21T19:59:48-07:00",
+  generatedAt: "2026-08-21T21:00:00-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -702,19 +702,6 @@ window.CGC_DATA = {
     "saleValue": "$267.72",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 324,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Ultimate Dining",
-    "ref": "GCFC-T54787",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f256d2032865e20a983b77.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
