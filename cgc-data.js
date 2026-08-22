@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-22T10:59:58-07:00",
+  generatedAt: "2026-08-22T11:59:54-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$127.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 411,
+    "createdAt": "2026-08-22T07:00:00.000Z",
+    "brand": "Aritzia",
+    "ref": "GCFC-W47312",
+    "faceValue": "$168.00",
+    "saleValue": "$142.80",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
