@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-22T04:59:49-07:00",
+  generatedAt: "2026-08-22T05:59:50-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 408,
+    "createdAt": "2026-08-22T07:00:00.000Z",
+    "brand": "Subway",
+    "ref": "GCFC-M58927",
+    "faceValue": "$15.00",
+    "saleValue": "$12.75",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 397,
     "createdAt": "2026-08-21T07:00:00.000Z",
