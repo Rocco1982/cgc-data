@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-22T19:59:49-07:00",
+  generatedAt: "2026-08-22T20:59:53-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -78,6 +78,32 @@ window.CGC_DATA = {
     "saleValue": "$212.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbd.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 414,
+    "createdAt": "2026-08-22T07:00:00.000Z",
+    "brand": "Roots Canada",
+    "ref": "GCFC-T82028",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 415,
+    "createdAt": "2026-08-22T07:00:00.000Z",
+    "brand": "Canadian Tire",
+    "ref": "GCFC-Z42966",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
