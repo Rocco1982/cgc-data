@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-23T12:59:50-07:00",
+  generatedAt: "2026-08-23T13:59:47-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,6 +26,32 @@ window.CGC_DATA = {
     "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 418,
+    "createdAt": "2026-08-23T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-V94358",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 419,
+    "createdAt": "2026-08-23T07:00:00.000Z",
+    "brand": "Aritzia",
+    "ref": "GCFC-Q28062",
+    "faceValue": "$30.00",
+    "saleValue": "$25.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -127,7 +153,7 @@ window.CGC_DATA = {
     "brand": "Canadian Tire",
     "ref": "GCFC-Z42966",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
+    "saleValue": "$21.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
