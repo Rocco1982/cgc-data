@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-24T11:59:59-07:00",
+  generatedAt: "2026-08-24T12:59:59-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 426,
+    "createdAt": "2026-08-24T07:00:00.000Z",
+    "brand": "Bass Pro Shop",
+    "ref": "GCFC-L49473",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
