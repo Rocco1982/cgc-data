@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-24T19:59:52-07:00",
+  generatedAt: "2026-08-24T20:59:49-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -148,19 +148,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 418,
-    "createdAt": "2026-08-23T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-V94358",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 419,
     "createdAt": "2026-08-23T07:00:00.000Z",
     "brand": "Aritzia",
@@ -169,19 +156,6 @@ window.CGC_DATA = {
     "saleValue": "$25.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 420,
-    "createdAt": "2026-08-23T07:00:00.000Z",
-    "brand": "Save-On-Foods",
-    "ref": "GCFC-M97193",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08d31f44bbd83ea85a.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -611,19 +585,6 @@ window.CGC_DATA = {
     "saleValue": "$29.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25532fc17decc45f935f2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 361,
-    "createdAt": "2026-08-16T07:00:00.000Z",
-    "brand": "Winners",
-    "ref": "GCFC-B62620",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
