@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-25T10:00:00-07:00",
+  generatedAt: "2026-08-25T11:00:18-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 432,
+    "createdAt": "2026-08-25T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-C11240",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50 CAD",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 423,
     "createdAt": "2026-08-24T07:00:00.000Z",
@@ -101,7 +114,7 @@ window.CGC_DATA = {
     "brand": "Apple Store",
     "ref": "GCFC-V44185",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
+    "saleValue": "$21.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
