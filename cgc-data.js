@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-24T16:59:50-07:00",
+  generatedAt: "2026-08-24T17:59:46-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -76,6 +76,32 @@ window.CGC_DATA = {
     "ref": "GCFC-Y75943",
     "faceValue": "$100.00",
     "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 429,
+    "createdAt": "2026-08-24T07:00:00.000Z",
+    "brand": "Google Play",
+    "ref": "GCFC-Z14293",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f293b2fc17decc450784da.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 430,
+    "createdAt": "2026-08-24T07:00:00.000Z",
+    "brand": "Apple Store",
+    "ref": "GCFC-V44185",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
@@ -260,19 +286,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 415,
-    "createdAt": "2026-08-22T07:00:00.000Z",
-    "brand": "Canadian Tire",
-    "ref": "GCFC-Z42966",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
@@ -863,19 +876,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 320,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Sephora",
-    "ref": "GCFC-Z46893",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 321,
     "createdAt": "2026-08-11T07:00:00.000Z",
     "brand": "Mark's Work Wearhouse",
@@ -884,19 +884,6 @@ window.CGC_DATA = {
     "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 322,
-    "createdAt": "2026-08-11T07:00:00.000Z",
-    "brand": "Winners",
-    "ref": "GCFC-R39355",
-    "faceValue": "$314.97",
-    "saleValue": "$267.72",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
