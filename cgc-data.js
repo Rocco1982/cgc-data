@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-26T09:26:16-07:00",
+  generatedAt: "2026-08-26T10:26:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,6 +13,32 @@ window.CGC_DATA = {
     "saleValue": "$170.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 439,
+    "createdAt": "2026-08-26T07:00:00.000Z",
+    "brand": "Michaels",
+    "ref": "GCFC-P78298",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8c.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 440,
+    "createdAt": "2026-08-26T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-B49641",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
