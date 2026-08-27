@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-27T14:26:14-07:00",
+  generatedAt: "2026-08-27T15:26:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -62,7 +62,7 @@ window.CGC_DATA = {
     "brand": "Winners",
     "ref": "GCFC-B49641",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
+    "saleValue": "$21.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
@@ -317,19 +317,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 409,
-    "createdAt": "2026-08-22T07:00:00.000Z",
-    "brand": "Starbucks",
-    "ref": "GCFC-N38901",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 410,
     "createdAt": "2026-08-22T07:00:00.000Z",
     "brand": "Keg Steakhouse",
@@ -441,19 +428,6 @@ window.CGC_DATA = {
     "faceValue": "$50.00",
     "saleValue": "$40.00",
     "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-21 15:06:09",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 404,
-    "createdAt": "2026-08-21T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-R85719",
-    "faceValue": "$280.00",
-    "saleValue": "$238.00 CAD",
-    "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-21 15:06:09",
