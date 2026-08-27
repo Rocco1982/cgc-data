@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-27T00:26:15-07:00",
+  generatedAt: "2026-08-27T01:26:13-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 444,
+    "createdAt": "2026-08-27T07:00:00.000Z",
+    "brand": "Banana Republic",
+    "ref": "GCFC-P78603",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f018f90d66f2a665c4dfda.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 437,
     "createdAt": "2026-08-26T07:00:00.000Z",
