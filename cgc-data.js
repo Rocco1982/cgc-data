@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-27T05:26:15-07:00",
+  generatedAt: "2026-08-27T06:26:16-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,6 +13,19 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f018f90d66f2a665c4dfda.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 445,
+    "createdAt": "2026-08-27T07:00:00.000Z",
+    "brand": "Home Depot",
+    "ref": "GCFC-G72784",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
