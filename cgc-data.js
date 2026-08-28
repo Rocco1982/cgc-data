@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-27T16:26:14-07:00",
+  generatedAt: "2026-08-27T17:26:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -14,7 +14,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f018f90d66f2a665c4dfda.jfif",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -27,7 +27,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -40,7 +40,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -53,7 +53,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8c.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -66,7 +66,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -79,7 +79,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -92,7 +92,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -105,7 +105,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -118,7 +118,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -131,7 +131,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -144,7 +144,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -157,7 +157,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -170,7 +170,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -183,7 +183,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -196,7 +196,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -209,7 +209,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4de30bbacf0a05611c5ad.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -222,7 +222,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -235,7 +235,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f293b2fc17decc450784da.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -248,7 +248,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -261,7 +261,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -274,7 +274,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -287,7 +287,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -300,7 +300,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -313,7 +313,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -326,7 +326,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -339,7 +339,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -352,7 +352,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -365,7 +365,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbd.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -378,7 +378,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -391,7 +391,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -417,7 +417,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-21 15:06:09",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -430,7 +430,7 @@ window.CGC_DATA = {
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-21 15:06:09",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   {
@@ -443,7 +443,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   ]
