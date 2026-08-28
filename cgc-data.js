@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-28T08:18:28-07:00",
+  generatedAt: "2026-08-28T09:10:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$42.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 455,
+    "createdAt": "2026-08-28T07:00:00.000Z",
+    "brand": "Joker",
+    "ref": "GCFC-M29752",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bd45590487fe57ea2cac.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
@@ -309,8 +322,8 @@ window.CGC_DATA = {
     "brand": "Yorkdale",
     "ref": "GCFC-F90961",
     "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
+    "saleValue": "$80.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6963d3687db4bb53ab2d20.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
