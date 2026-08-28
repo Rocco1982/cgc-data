@@ -1,9 +1,35 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-28T00:26:14-07:00",
+  generatedAt: "2026-08-28T07:10:22-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 452,
+    "createdAt": "2026-08-28T07:00:00.000Z",
+    "brand": "Amazon",
+    "ref": "GCFC-K54261",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 453,
+    "createdAt": "2026-08-28T07:00:00.000Z",
+    "brand": "Uber / Uber Eats",
+    "ref": "GCFC-V79441",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25532fc17decc45f935f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 444,
     "createdAt": "2026-08-27T07:00:00.000Z",
