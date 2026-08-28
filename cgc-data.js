@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-28T11:10:25-07:00",
+  generatedAt: "2026-08-28T12:10:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -101,7 +101,7 @@ window.CGC_DATA = {
     "brand": "Starbucks",
     "ref": "GCFC-L17918",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
@@ -127,7 +127,7 @@ window.CGC_DATA = {
     "brand": "Home Depot",
     "ref": "GCFC-G72784",
     "faceValue": "$100.00",
-    "saleValue": "$85.00",
+    "saleValue": "$85.00 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
@@ -247,19 +247,6 @@ window.CGC_DATA = {
     "saleValue": "$21.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 441,
-    "createdAt": "2026-08-26T07:00:00.000Z",
-    "brand": "LCBO",
-    "ref": "GCFC-M17173",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
@@ -434,19 +421,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 417,
-    "createdAt": "2026-08-23T07:00:00.000Z",
-    "brand": "Indigo",
-    "ref": "GCFC-M17776",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 419,
     "createdAt": "2026-08-23T07:00:00.000Z",
     "brand": "Aritzia",
@@ -455,19 +429,6 @@ window.CGC_DATA = {
     "saleValue": "$25.50",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 421,
-    "createdAt": "2026-08-23T07:00:00.000Z",
-    "brand": "LCBO",
-    "ref": "GCFC-Q72521",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
