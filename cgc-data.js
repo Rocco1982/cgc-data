@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-28T09:10:25-07:00",
+  generatedAt: "2026-08-28T10:10:24-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -387,7 +387,7 @@ window.CGC_DATA = {
     "brand": "Indigo",
     "ref": "GCFC-M17776",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
+    "saleValue": "$21.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
