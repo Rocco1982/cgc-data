@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-29T02:10:24-07:00",
+  generatedAt: "2026-08-29T03:10:23-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 462,
+    "createdAt": "2026-08-29T07:00:00.000Z",
+    "brand": "No Frills",
+    "ref": "GCFC-N65390",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012690d66f2a665c36320.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 452,
     "createdAt": "2026-08-28T07:00:00.000Z",
