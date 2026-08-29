@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-29T11:10:26-07:00",
+  generatedAt: "2026-08-29T12:10:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -13,19 +13,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012690d66f2a665c36320.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 463,
-    "createdAt": "2026-08-29T07:00:00.000Z",
-    "brand": "Best Buy",
-    "ref": "GCFC-W71020",
-    "faceValue": "$500.00",
-    "saleValue": "$425.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
