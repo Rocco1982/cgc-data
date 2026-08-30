@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-29T19:10:25-07:00",
+  generatedAt: "2026-08-29T20:10:24-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,6 +26,19 @@ window.CGC_DATA = {
     "saleValue": "$12.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 465,
+    "createdAt": "2026-08-29T07:00:00.000Z",
+    "brand": "Lululemon",
+    "ref": "GCFC-S22810",
+    "faceValue": "$250.00",
+    "saleValue": "$212.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
