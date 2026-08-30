@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-30T10:10:26-07:00",
+  generatedAt: "2026-08-30T11:10:23-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,19 +26,6 @@ window.CGC_DATA = {
     "saleValue": "$85.00 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012690d66f2a665c36320.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 464,
-    "createdAt": "2026-08-29T07:00:00.000Z",
-    "brand": "Cineplex",
-    "ref": "GCFC-F95591",
-    "faceValue": "$15.00",
-    "saleValue": "$12.75 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
@@ -330,19 +317,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 432,
-    "createdAt": "2026-08-25T07:00:00.000Z",
-    "brand": "Keg Steakhouse",
-    "ref": "GCFC-C11240",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 433,
     "createdAt": "2026-08-25T07:00:00.000Z",
     "brand": "Roots Canada",
@@ -507,19 +481,6 @@ window.CGC_DATA = {
     "saleValue": "$12.75",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 410,
-    "createdAt": "2026-08-22T07:00:00.000Z",
-    "brand": "Keg Steakhouse",
-    "ref": "GCFC-D71884",
-    "faceValue": "$150.00",
-    "saleValue": "$127.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
