@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-30T08:10:24-07:00",
+  generatedAt: "2026-08-30T09:10:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 466,
+    "createdAt": "2026-08-30T07:00:00.000Z",
+    "brand": "Amazon",
+    "ref": "GCFC-C17315",
+    "faceValue": "$30.00",
+    "saleValue": "$25.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 462,
     "createdAt": "2026-08-29T07:00:00.000Z",
