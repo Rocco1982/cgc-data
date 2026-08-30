@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-30T14:10:24-07:00",
+  generatedAt: "2026-08-30T15:10:26-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -10,8 +10,8 @@ window.CGC_DATA = {
     "brand": "Lululemon",
     "ref": "GCFC-S22810",
     "faceValue": "$250.00",
-    "saleValue": "$212.50",
-    "discount": "15.00%",
+    "saleValue": "$200.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
@@ -195,19 +195,6 @@ window.CGC_DATA = {
     "saleValue": "$25.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 437,
-    "createdAt": "2026-08-26T07:00:00.000Z",
-    "brand": "Best Buy",
-    "ref": "GCFC-L36780",
-    "faceValue": "$200.00",
-    "saleValue": "$170.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
