@@ -1,9 +1,35 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-31T04:10:24-07:00",
+  generatedAt: "2026-08-31T05:10:26-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 468,
+    "createdAt": "2026-08-31T07:00:00.000Z",
+    "brand": "Home Depot",
+    "ref": "GCFC-Y78938",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 469,
+    "createdAt": "2026-08-31T07:00:00.000Z",
+    "brand": "Mark's Work Wearhouse",
+    "ref": "GCFC-P68089",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 467,
     "createdAt": "2026-08-30T07:00:00.000Z",
