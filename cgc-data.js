@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-30T16:10:26-07:00",
+  generatedAt: "2026-08-30T17:10:26-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -10,8 +10,8 @@ window.CGC_DATA = {
     "brand": "SoftMoc",
     "ref": "GCFC-T55743",
     "faceValue": "$192.09",
-    "saleValue": "$163.28",
-    "discount": "15.00%",
+    "saleValue": "$153.68",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69705218a264df533d38fb.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
