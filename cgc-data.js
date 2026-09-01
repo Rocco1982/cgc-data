@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-01T15:10:23-07:00",
+  generatedAt: "2026-09-01T16:10:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -23,7 +23,7 @@ window.CGC_DATA = {
     "brand": "Apple Store",
     "ref": "GCFC-Z19014",
     "faceValue": "$45.00",
-    "saleValue": "$38.25",
+    "saleValue": "$38.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
