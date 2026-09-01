@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-01T11:10:23-07:00",
+  generatedAt: "2026-09-01T12:10:27-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 474,
+    "createdAt": "2026-09-01T07:00:00.000Z",
+    "brand": "Petro-Canada",
+    "ref": "GCFC-P11368",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfe23fbe147d8b346fe1.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 468,
     "createdAt": "2026-08-31T07:00:00.000Z",
