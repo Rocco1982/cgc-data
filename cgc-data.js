@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-08-31T16:10:24-07:00",
+  generatedAt: "2026-08-31T17:10:24-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,6 +39,19 @@ window.CGC_DATA = {
     "saleValue": "$25.36",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 471,
+    "createdAt": "2026-08-31T07:00:00.000Z",
+    "brand": "Old Navy",
+    "ref": "GCFC-R12360",
+    "faceValue": "$60.00",
+    "saleValue": "$51.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
