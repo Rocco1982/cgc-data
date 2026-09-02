@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-02T10:10:27-07:00",
+  generatedAt: "2026-09-02T11:10:24-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -153,7 +153,7 @@ window.CGC_DATA = {
     "brand": "Sephora",
     "ref": "GCFC-Y05801",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
