@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-03T04:10:26-07:00",
+  generatedAt: "2026-09-03T05:10:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -26,19 +26,6 @@ window.CGC_DATA = {
     "saleValue": "$38.25 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 478,
-    "createdAt": "2026-09-01T07:00:00.000Z",
-    "brand": "Bath & Body Works",
-    "ref": "GCFC-Z71781",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696473b4176d3727c9a40b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
