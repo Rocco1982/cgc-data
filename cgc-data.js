@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-04T09:11:18-07:00",
+  generatedAt: "2026-09-04T10:11:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -14,7 +14,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-04 09:51:14",
     "expiresAt": ""
   },
   {
@@ -23,11 +23,11 @@ window.CGC_DATA = {
     "brand": "Canadian Tire",
     "ref": "GCFC-P61873",
     "faceValue": "$104.99",
-    "saleValue": "$89.24",
+    "saleValue": "$89.24 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-04 09:51:14",
     "expiresAt": ""
   },
   {
@@ -66,7 +66,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-04 09:51:14",
     "expiresAt": ""
   },
   {
@@ -79,7 +79,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-04 09:51:14",
     "expiresAt": ""
   },
   {
@@ -92,7 +92,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-03 00:00:00",
     "expiresAt": ""
   },
   {
@@ -101,11 +101,11 @@ window.CGC_DATA = {
     "brand": "Walmart",
     "ref": "GCFC-H25435",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-03 00:00:00",
     "expiresAt": ""
   },
   {
@@ -118,7 +118,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfe23fbe147d8b346fe1.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-01 00:00:00",
     "expiresAt": ""
   },
   {
@@ -131,7 +131,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-01 00:00:00",
     "expiresAt": ""
   },
   {
@@ -144,7 +144,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-09-01 00:00:00",
     "expiresAt": ""
   },
   {
@@ -166,7 +166,7 @@ window.CGC_DATA = {
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-V36816",
     "faceValue": "$100.00",
-    "saleValue": "$80.00",
+    "saleValue": "$80.00 CAD",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
     "marketStatus": "buyer_interest",
@@ -209,7 +209,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
+    "listedAt": "2026-08-31 00:00:00",
     "expiresAt": ""
   },
   {
