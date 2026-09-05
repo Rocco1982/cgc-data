@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-05T13:11:14-07:00",
+  generatedAt: "2026-09-05T14:11:12-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -15,6 +15,19 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-05 10:51:11",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 494,
+    "createdAt": "2026-09-05T07:00:00.000Z",
+    "brand": "Home Depot",
+    "ref": "GCFC-N66278",
+    "faceValue": "$200.00",
+    "saleValue": "$170.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-05 13:36:16",
     "expiresAt": ""
   },
   {
@@ -132,19 +145,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-03 00:00:00",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 474,
-    "createdAt": "2026-09-01T07:00:00.000Z",
-    "brand": "Petro-Canada",
-    "ref": "GCFC-P11368",
-    "faceValue": "$25.00",
-    "saleValue": "$21.25 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bfe23fbe147d8b346fe1.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-01 00:00:00",
     "expiresAt": ""
   },
   {
