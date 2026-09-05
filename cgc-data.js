@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-05T14:11:12-07:00",
+  generatedAt: "2026-09-05T15:11:12-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -101,8 +101,8 @@ window.CGC_DATA = {
     "brand": "Michaels",
     "ref": "GCFC-Q91972",
     "faceValue": "$20.60",
-    "saleValue": "$17.51",
-    "discount": "15.00%",
+    "saleValue": "$16.48",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8c.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-04 12:21:11",
