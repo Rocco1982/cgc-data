@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-06T15:11:15-07:00",
+  generatedAt: "2026-09-06T16:11:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -28,6 +28,19 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-06 09:36:12",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 498,
+    "createdAt": "2026-09-06T07:00:00.000Z",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-R28035",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-06 15:21:11",
     "expiresAt": ""
   },
   {
