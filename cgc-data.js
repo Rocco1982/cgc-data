@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-06T09:11:16-07:00",
+  generatedAt: "2026-09-06T10:11:12-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -31,6 +31,19 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
+    "sheetRow": 497,
+    "createdAt": "2026-09-06T07:00:00.000Z",
+    "brand": "Sobeys",
+    "ref": "GCFC-C21917",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-06 09:36:12",
+    "expiresAt": ""
+  },
+  {
     "sheetRow": 493,
     "createdAt": "2026-09-05T07:00:00.000Z",
     "brand": "Apple Store",
@@ -49,7 +62,7 @@ window.CGC_DATA = {
     "brand": "Home Depot",
     "ref": "GCFC-N66278",
     "faceValue": "$200.00",
-    "saleValue": "$170.00",
+    "saleValue": "$170.00 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
@@ -221,6 +234,19 @@ window.CGC_DATA = {
     "saleValue": "$48.00",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-08-27 16:44:51",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 465,
+    "createdAt": "2026-08-29T07:00:00.000Z",
+    "brand": "Lululemon",
+    "ref": "GCFC-S22810",
+    "faceValue": "$250.00",
+    "saleValue": "$200.00",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
