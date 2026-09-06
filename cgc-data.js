@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-05T18:11:13-07:00",
+  generatedAt: "2026-09-05T19:11:16-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -39,19 +39,6 @@ window.CGC_DATA = {
     "saleValue": "$13.60",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-04 09:51:14",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 486,
-    "createdAt": "2026-09-04T07:00:00.000Z",
-    "brand": "Canadian Tire",
-    "ref": "GCFC-P61873",
-    "faceValue": "$104.99",
-    "saleValue": "$89.24 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-04 09:51:14",
     "expiresAt": ""
@@ -210,19 +197,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 472,
-    "createdAt": "2026-08-31T07:00:00.000Z",
-    "brand": "Sephora",
-    "ref": "GCFC-Y05801",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-31 00:00:00",
     "expiresAt": ""
   },
   {
