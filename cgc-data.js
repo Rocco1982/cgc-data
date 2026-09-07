@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-07T07:11:15-07:00",
+  generatedAt: "2026-09-07T08:11:13-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -10,8 +10,8 @@ window.CGC_DATA = {
     "brand": "LCBO",
     "ref": "GCFC-S16337",
     "faceValue": "$10.00",
-    "saleValue": "$8.50",
-    "discount": "15.00%",
+    "saleValue": "$8.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-06 02:51:11",
