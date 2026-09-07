@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-07T00:11:13-07:00",
+  generatedAt: "2026-09-07T01:11:15-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -182,32 +182,6 @@ window.CGC_DATA = {
     "saleValue": "$80.00 CAD",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 470,
-    "createdAt": "2026-08-31T07:00:00.000Z",
-    "brand": "Sephora",
-    "ref": "GCFC-U42652",
-    "faceValue": "$29.83",
-    "saleValue": "$23.87",
-    "discount": "19.98%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 471,
-    "createdAt": "2026-08-31T07:00:00.000Z",
-    "brand": "Old Navy",
-    "ref": "GCFC-R12360",
-    "faceValue": "$60.00",
-    "saleValue": "$48.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
