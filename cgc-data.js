@@ -1,22 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-07T11:11:16-07:00",
+  generatedAt: "2026-09-07T12:11:14-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
-  {
-    "sheetRow": 496,
-    "createdAt": "2026-09-06T07:00:00.000Z",
-    "brand": "LCBO",
-    "ref": "GCFC-S16337",
-    "faceValue": "$10.00",
-    "saleValue": "$8.00 CAD",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-06 02:51:11",
-    "expiresAt": ""
-  },
   {
     "sheetRow": 497,
     "createdAt": "2026-09-06T07:00:00.000Z",
@@ -41,32 +28,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-06 15:21:11",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 499,
-    "createdAt": "2026-09-06T07:00:00.000Z",
-    "brand": "Best Buy",
-    "ref": "GCFC-U06454",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-06 23:51:11",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 493,
-    "createdAt": "2026-09-05T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-X99076",
-    "faceValue": "$15.00",
-    "saleValue": "$12.75 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-05 10:51:11",
     "expiresAt": ""
   },
   {
@@ -145,45 +106,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-04 19:21:10",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 483,
-    "createdAt": "2026-09-03T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-X43269",
-    "faceValue": "$100.00",
-    "saleValue": "$80.00 CAD",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-03 00:00:00",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 480,
-    "createdAt": "2026-09-01T07:00:00.000Z",
-    "brand": "Mark's Work Wearhouse",
-    "ref": "GCFC-S52953",
-    "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 481,
-    "createdAt": "2026-09-01T07:00:00.000Z",
-    "brand": "Mark's Work Wearhouse",
-    "ref": "GCFC-V36816",
-    "faceValue": "$100.00",
-    "saleValue": "$80.00 CAD",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-08-27 16:44:51",
     "expiresAt": ""
   },
   ]
