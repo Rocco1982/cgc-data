@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-07T13:11:14-07:00",
+  generatedAt: "2026-09-07T14:11:13-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -15,6 +15,32 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-07 12:51:13",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 503,
+    "createdAt": "2026-09-07T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-T66981",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-07 14:06:10",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 504,
+    "createdAt": "2026-09-07T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-Z33858",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
     "expiresAt": ""
   },
   {
