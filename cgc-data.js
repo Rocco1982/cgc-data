@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-08T09:17:45-07:00",
+  generatedAt: "2026-09-08T10:17:48-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -83,19 +83,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 485,
-    "createdAt": "2026-09-04T07:00:00.000Z",
-    "brand": "Sephora",
-    "ref": "GCFC-B92562",
-    "faceValue": "$17.00",
-    "saleValue": "$13.60",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-04 09:51:14",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 488,
     "createdAt": "2026-09-04T07:00:00.000Z",
     "brand": "SoftMoc",
@@ -158,6 +145,19 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-04 19:21:10",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 485,
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "brand": "Sephora",
+    "ref": "GCFC-B92562",
+    "faceValue": "$17.00",
+    "saleValue": "$13.60 CAD",
+    "discount": "20.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-04 09:51:14",
     "expiresAt": ""
   },
   ]
