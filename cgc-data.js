@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-09T03:17:47-07:00",
+  generatedAt: "2026-09-09T04:17:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -10,7 +10,7 @@ window.CGC_DATA = {
     "brand": "Best Buy",
     "ref": "GCFC-Z41712",
     "faceValue": "$68.60",
-    "saleValue": "$58.31",
+    "saleValue": "$58.31 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
     "marketStatus": "buyer_interest",
