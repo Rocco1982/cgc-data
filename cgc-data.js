@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-10T05:17:45-07:00",
+  generatedAt: "2026-09-10T06:17:44-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -88,7 +88,7 @@ window.CGC_DATA = {
     "brand": "Sobeys",
     "ref": "GCFC-C21917",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
+    "saleValue": "$42.50 CAD",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2be62590487fe57ea91fd.png",
     "marketStatus": "buyer_interest",
