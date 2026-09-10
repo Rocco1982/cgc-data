@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-10T15:17:44-07:00",
+  generatedAt: "2026-09-10T16:17:43-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -15,6 +15,58 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-10 12:06:12",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 514,
+    "createdAt": "2026-09-10T07:00:00.000Z",
+    "brand": "Mark's Work Wearhouse",
+    "ref": "GCFC-W15744",
+    "faceValue": "$40.00",
+    "saleValue": "$34.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-10 16:06:14",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 515,
+    "createdAt": "2026-09-10T07:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-B62121",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-10 16:06:14",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 516,
+    "createdAt": "2026-09-10T07:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-S24060",
+    "faceValue": "$10.00",
+    "saleValue": "$8.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-10 16:06:14",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 517,
+    "createdAt": "2026-09-10T07:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-Q25921",
+    "faceValue": "$25.00",
+    "saleValue": "$21.25",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-10 16:06:14",
     "expiresAt": ""
   },
   {
