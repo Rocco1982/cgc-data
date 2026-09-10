@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-09T17:17:47-07:00",
+  generatedAt: "2026-09-09T18:17:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -28,6 +28,19 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-09 14:06:11",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 511,
+    "createdAt": "2026-09-09T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-R00825",
+    "faceValue": "$50.00",
+    "saleValue": "$42.50",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
     "expiresAt": ""
   },
   {
