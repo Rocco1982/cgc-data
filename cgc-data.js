@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-11T05:17:43-07:00",
+  generatedAt: "2026-09-11T06:17:43-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -14,7 +14,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-09-11 05:21:10",
     "expiresAt": ""
   },
   {
