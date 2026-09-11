@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-11T09:17:44-07:00",
+  generatedAt: "2026-09-11T10:17:44-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -132,19 +132,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-09 19:21:12",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 507,
-    "createdAt": "2026-09-08T07:00:00.000Z",
-    "brand": "Rona",
-    "ref": "GCFC-V27679",
-    "faceValue": "$73.49",
-    "saleValue": "$62.47",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f258ee6630fc6c0b5b940e.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-08 22:36:11",
     "expiresAt": ""
   },
   {
