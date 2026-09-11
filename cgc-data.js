@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-11T11:17:44-07:00",
+  generatedAt: "2026-09-11T12:17:44-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 518,
+    "createdAt": "2026-09-11T07:00:00.000Z",
+    "brand": "Canad Inns",
+    "ref": "GCFC-C54791",
+    "faceValue": "$93.29",
+    "saleValue": "$79.30",
+    "discount": "15.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-11 04:06:16",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 519,
     "createdAt": "2026-09-11T07:00:00.000Z",
