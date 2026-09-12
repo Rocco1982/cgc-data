@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-11T17:17:44-07:00",
+  generatedAt: "2026-09-11T18:17:44-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -18,19 +18,6 @@ window.CGC_DATA = {
     "expiresAt": ""
   },
   {
-    "sheetRow": 520,
-    "createdAt": "2026-09-11T07:00:00.000Z",
-    "brand": "Esso",
-    "ref": "GCFC-B59349",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bc8dfc17decc450df51f.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-11 16:36:11",
-    "expiresAt": ""
-  },
-  {
     "sheetRow": 521,
     "createdAt": "2026-09-11T07:00:00.000Z",
     "brand": "Apple Store",
@@ -40,7 +27,7 @@ window.CGC_DATA = {
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "",
+    "listedAt": "2026-09-11 18:06:10",
     "expiresAt": ""
   },
   {
