@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-12T09:17:45-07:00",
+  generatedAt: "2026-09-12T10:17:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 522,
+    "createdAt": "2026-09-12T07:00:00.000Z",
+    "brand": "Home Depot",
+    "ref": "GCFC-H48846",
+    "faceValue": "$100.00",
+    "saleValue": "$85.00 CAD",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-09-12 09:36:10",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 518,
     "createdAt": "2026-09-11T07:00:00.000Z",
@@ -15,19 +28,6 @@ window.CGC_DATA = {
     "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-11 04:06:16",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 521,
-    "createdAt": "2026-09-11T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-A41363",
-    "faceValue": "$250.00",
-    "saleValue": "$212.50",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-11 18:06:10",
     "expiresAt": ""
   },
   {
