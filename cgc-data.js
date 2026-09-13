@@ -1,22 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-12T16:17:44-07:00",
+  generatedAt: "2026-09-12T17:17:44-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
-  {
-    "sheetRow": 522,
-    "createdAt": "2026-09-12T07:00:00.000Z",
-    "brand": "Home Depot",
-    "ref": "GCFC-H48846",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-12 09:36:10",
-    "expiresAt": ""
-  },
   {
     "sheetRow": 518,
     "createdAt": "2026-09-11T07:00:00.000Z",
@@ -132,19 +119,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-09 14:06:11",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 511,
-    "createdAt": "2026-09-09T07:00:00.000Z",
-    "brand": "Winners",
-    "ref": "GCFC-R00825",
-    "faceValue": "$50.00",
-    "saleValue": "$42.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-09 18:21:17",
     "expiresAt": ""
   },
   {
