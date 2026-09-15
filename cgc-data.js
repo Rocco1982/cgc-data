@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-14T18:13:49-07:00",
+  generatedAt: "2026-09-14T19:13:51-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -89,19 +89,6 @@ window.CGC_DATA = {
     "ref": "GCFC-S24060",
     "faceValue": "$10.00",
     "saleValue": "$8.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-10 16:06:14",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 517,
-    "createdAt": "2026-09-10T07:00:00.000Z",
-    "brand": "Cineplex",
-    "ref": "GCFC-Q25921",
-    "faceValue": "$25.00",
-    "saleValue": "$20.00 CAD",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
