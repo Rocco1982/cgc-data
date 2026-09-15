@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-15T14:13:50-07:00",
+  generatedAt: "2026-09-15T15:13:49-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -23,8 +23,8 @@ window.CGC_DATA = {
     "brand": "Keg Steakhouse",
     "ref": "GCFC-Z14727",
     "faceValue": "$50.00",
-    "saleValue": "$42.50",
-    "discount": "15.00%",
+    "saleValue": "$40.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-14 13:06:13",
