@@ -1,22 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-14T17:13:49-07:00",
+  generatedAt: "2026-09-14T18:13:49-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
-  {
-    "sheetRow": 526,
-    "createdAt": "2026-09-14T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-J06823",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-14 06:51:12",
-    "expiresAt": ""
-  },
   {
     "sheetRow": 527,
     "createdAt": "2026-09-14T07:00:00.000Z",
@@ -75,7 +62,7 @@ window.CGC_DATA = {
     "brand": "Mark's Work Wearhouse",
     "ref": "GCFC-W15744",
     "faceValue": "$40.00",
-    "saleValue": "$32.00",
+    "saleValue": "$32.00 CAD",
     "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
     "marketStatus": "buyer_interest",
