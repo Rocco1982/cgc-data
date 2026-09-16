@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-16T14:13:51-07:00",
+  generatedAt: "2026-09-16T15:13:50-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -23,8 +23,8 @@ window.CGC_DATA = {
     "brand": "Boston Pizza",
     "ref": "GCFC-J55044",
     "faceValue": "$25.00",
-    "saleValue": "$21.25",
-    "discount": "15.00%",
+    "saleValue": "$20.00",
+    "discount": "20.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-15 13:21:11",
