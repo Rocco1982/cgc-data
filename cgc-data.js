@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-16T00:13:49-07:00",
+  generatedAt: "2026-09-16T01:13:49-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -93,32 +93,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-10 16:06:14",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 510,
-    "createdAt": "2026-09-09T07:00:00.000Z",
-    "brand": "Indigo",
-    "ref": "GCFC-Y61449",
-    "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-09 14:06:11",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 512,
-    "createdAt": "2026-09-09T07:00:00.000Z",
-    "brand": "Mark's Work Wearhouse",
-    "ref": "GCFC-X41919",
-    "faceValue": "$25.00",
-    "saleValue": "$20.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-09 19:21:12",
     "expiresAt": ""
   },
   ]
