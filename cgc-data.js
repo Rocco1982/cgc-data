@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-15T16:13:50-07:00",
+  generatedAt: "2026-09-15T17:13:48-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -41,19 +41,6 @@ window.CGC_DATA = {
     "image": "",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-11 04:06:16",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 521,
-    "createdAt": "2026-09-11T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-A41363",
-    "faceValue": "$250.00",
-    "saleValue": "$212.50 CAD",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-11 18:06:10",
     "expiresAt": ""
   },
   {
