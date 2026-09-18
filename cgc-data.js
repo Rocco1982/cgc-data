@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-18T00:20:44-07:00",
+  generatedAt: "2026-09-18T01:20:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -156,32 +156,6 @@ window.CGC_DATA = {
     "saleValue": "$17.00",
     "discount": "15.00%",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24f04e84e52bef4c47172.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-17T13:47:55-07:00",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 518,
-    "createdAt": "2026-09-11T07:00:00.000Z",
-    "brand": "Canad Inns",
-    "ref": "GCFC-C54791",
-    "faceValue": "$93.29",
-    "saleValue": "$79.30",
-    "discount": "15.00%",
-    "image": "",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-17T13:47:55-07:00",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 520,
-    "createdAt": "2026-09-11T07:00:00.000Z",
-    "brand": "Esso",
-    "ref": "GCFC-B59349",
-    "faceValue": "$100.00",
-    "saleValue": "$85.00",
-    "discount": "15.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2bc8dfc17decc450df51f.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-09-17T13:47:55-07:00",
     "expiresAt": ""
