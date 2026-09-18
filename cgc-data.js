@@ -1,18 +1,18 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-18T15:20:44-07:00",
+  generatedAt: "2026-09-18T16:20:44-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
   {
-    "sheetRow": 2200,
+    "sheetRow": 539,
     "createdAt": "2026-09-18T07:00:00.000Z",
-    "brand": "CGCN TEST CARD",
-    "ref": "CGCN-COMPTEST-001",
-    "faceValue": "1",
-    "saleValue": "1",
-    "discount": "0.00%",
-    "image": "",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-U63811",
+    "faceValue": "$20.00",
+    "saleValue": "$17.00",
+    "discount": "15.00%",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "",
     "expiresAt": ""
