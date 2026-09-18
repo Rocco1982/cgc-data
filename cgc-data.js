@@ -1,9 +1,22 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-18T09:20:43-07:00",
+  generatedAt: "2026-09-18T10:20:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
   deals: [
+  {
+    "sheetRow": 2199,
+    "createdAt": "2026-09-18T07:00:00.000Z",
+    "brand": "CGCN TEST CARD",
+    "ref": "CGCN-BNTEST-001",
+    "faceValue": "1",
+    "saleValue": "1",
+    "discount": "0.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
   {
     "sheetRow": 536,
     "createdAt": "2026-09-17T07:00:00.000Z",
