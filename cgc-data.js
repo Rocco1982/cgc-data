@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-09-18T11:20:43-07:00",
+  generatedAt: "2026-09-18T12:20:43-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -24,6 +24,19 @@ window.CGC_DATA = {
     "ref": "CGCN-COMPTEST-001",
     "faceValue": "1",
     "saleValue": "1",
+    "discount": "0.00%",
+    "image": "",
+    "marketStatus": "buyer_interest",
+    "listedAt": "",
+    "expiresAt": ""
+  },
+  {
+    "sheetRow": 2201,
+    "createdAt": "2026-09-18T07:00:00.000Z",
+    "brand": "CGCN TEST CARD",
+    "ref": "CGCN-LIVE-DWELLO-001",
+    "faceValue": "5",
+    "saleValue": "5",
     "discount": "0.00%",
     "image": "",
     "marketStatus": "buyer_interest",
