@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-04T11:23:18-07:00",
+  generatedAt: "2026-10-04T11:42:30-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active marketplace cards)",
   expiryDays: 14,
@@ -7,8 +7,8 @@ window.CGC_DATA = {
   {
     "sheetRow": 2188,
     "createdAt": "2026-10-04T18:00:00.000Z",
-    "brand": "CGCN Test Card",
-    "ref": "GCFC-T10001",
+    "brand": "TEST CARD 1",
+    "ref": "GCFC-QA1001",
     "faceValue": "5",
     "saleValue": "5",
     "discount": "0.00%",
@@ -20,8 +20,8 @@ window.CGC_DATA = {
   {
     "sheetRow": 2189,
     "createdAt": "2026-10-04T18:00:00.000Z",
-    "brand": "CGCN Test Card",
-    "ref": "GCFC-T10002",
+    "brand": "TEST CARD 2",
+    "ref": "GCFC-QA1002",
     "faceValue": "5",
     "saleValue": "5",
     "discount": "0.00%",
