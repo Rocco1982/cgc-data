@@ -1,21 +1,21 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-05T13:42:32-07:00",
+  generatedAt: "2026-10-05T14:36:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + Fast Cash Bundle)",
   expiryDays: 3,
   deals: [
   {
-    "sheetRow": 2190,
-    "createdAt": "2026-10-05T20:45:00.000Z",
-    "brand": "TEST CARD APPROVED",
-    "ref": "GCFC-QAAPP1005",
-    "faceValue": "$15.00",
-    "saleValue": "12.75",
+    "sheetRow": 2191,
+    "createdAt": "2026-10-05T21:31:36.681Z",
+    "brand": "Walmart",
+    "ref": "GCFC-QAWM1005",
+    "faceValue": "$100.00",
+    "saleValue": "85",
     "discount": "0.15",
     "image": "",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-05T13:42:30.541-07:00",
-    "expiresAt": "2026-10-08T13:42:30.542-07:00"
+    "listedAt": "2026-10-05T14:36:35.236-07:00",
+    "expiresAt": "2026-10-08T14:36:35.237-07:00"
   },
   ]
 };
