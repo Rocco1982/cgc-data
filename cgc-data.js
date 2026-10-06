@@ -1,34 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-05T17:14:40-07:00",
+  generatedAt: "2026-10-05T19:42:23-07:00",
   source: "Gift Card Book and Balances / Main",
-  sort: "Created At descending (active marketplace cards)",
-  expiryDays: 14,
+  sort: "Created At descending (active released cards — Standard Sale + Fast Cash + Fast Cash Bundle)",
+  expiryDays: 3,
   deals: [
-  {
-    "sheetRow": 544,
-    "createdAt": "2026-09-20T07:00:00.000Z",
-    "brand": "Google Play",
-    "ref": "GCFC-X87411",
-    "faceValue": "$50.00",
-    "saleValue": "$40.00",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f293b2fc17decc450784da.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-20 03:06:11",
-    "expiresAt": ""
-  },
-  {
-    "sheetRow": 543,
-    "createdAt": "2026-09-19T07:00:00.000Z",
-    "brand": "Lego",
-    "ref": "GCFC-S02137",
-    "faceValue": "$474.59",
-    "saleValue": "$379.67",
-    "discount": "20.00%",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696430b4176d3727c98918.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-09-19 16:06:11",
-    "expiresAt": ""
-  },
+
   ]
 };
