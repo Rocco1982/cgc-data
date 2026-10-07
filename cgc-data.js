@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-07T02:13:19-07:00",
+  generatedAt: "2026-10-07T04:41:02-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + Fast Cash Bundle)",
   expiryDays: 3,
@@ -16,6 +16,19 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-07T02:13:17.872-07:00",
     "expiresAt": "2026-10-10T02:13:17.873-07:00"
+  },
+  {
+    "sheetRow": 597,
+    "createdAt": "2026-10-07T07:00:00.000Z",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-S24935",
+    "faceValue": "25",
+    "saleValue": "21.25",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-07T04:40:57.781-07:00",
+    "expiresAt": "2026-10-10T04:40:57.783-07:00"
   },
   {
     "sheetRow": 593,
