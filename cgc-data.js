@@ -1,11 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-07T10:12:12-07:00",
+  generatedAt: "2026-10-08T11:21:16-07:00",
   source: "Gift Card Book and Balances / Main",
-  sort: "Created At descending (active released cards — Standard Sale + Fast Cash + Fast Cash Bundle)",
+  sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
   deals: [
   {
     "sheetRow": 594,
+    "createdAt": "2026-10-08T07:00:00.000Z",
+    "brand": "Chairmans Steakhouse",
+    "ref": "GCFC-N49563",
+    "faceValue": "250",
+    "saleValue": "212.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6964634869c3e7fe0c8863.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-08T11:21:14.661-07:00",
+    "expiresAt": "2026-10-11T11:21:14.661-07:00"
+  },
+  {
+    "sheetRow": 590,
     "createdAt": "2026-10-07T07:00:00.000Z",
     "brand": "Keg Steakhouse",
     "ref": "GCFC-J54437",
@@ -18,20 +31,7 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-10T02:13:17.873-07:00"
   },
   {
-    "sheetRow": 596,
-    "createdAt": "2026-10-07T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-R29600",
-    "faceValue": "14.98",
-    "saleValue": "12.73",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-07T10:12:11.059-07:00",
-    "expiresAt": "2026-10-10T10:12:11.061-07:00"
-  },
-  {
-    "sheetRow": 593,
+    "sheetRow": 589,
     "createdAt": "2026-10-06T07:00:00.000Z",
     "brand": "Boston Pizza",
     "ref": "GCFC-V23307",
