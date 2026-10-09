@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-09T11:36:09-07:00",
+  generatedAt: "2026-10-09T14:38:46-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -35,13 +35,26 @@ window.CGC_DATA = {
     "createdAt": "2026-10-09T07:00:00.000Z",
     "brand": "Starbucks",
     "ref": "GCFC-J77651",
-    "faceValue": "35.56",
+    "faceValue": "35",
     "saleValue": "30.23",
     "discount": "0.15",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-09T11:35:43.403-07:00",
     "expiresAt": "2026-10-12T11:35:43.405-07:00"
+  },
+  {
+    "sheetRow": 604,
+    "createdAt": "2026-10-09T07:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-T30887",
+    "faceValue": "346.5",
+    "saleValue": "294.52",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-09T14:38:45.193-07:00",
+    "expiresAt": "2026-10-12T14:38:45.201-07:00"
   },
   {
     "sheetRow": 594,
