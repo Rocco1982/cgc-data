@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-10T08:19:17-07:00",
+  generatedAt: "2026-10-10T14:03:49-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -18,17 +18,17 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-13T02:43:56.642-07:00"
   },
   {
-    "sheetRow": 610,
+    "sheetRow": 612,
     "createdAt": "2026-10-10T07:00:00.000Z",
-    "brand": "Tim Hortons",
-    "ref": "GCFC-F16417",
+    "brand": "Lululemon",
+    "ref": "GCFC-D73685",
     "faceValue": "100",
     "saleValue": "85",
     "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-10T08:19:15.686-07:00",
-    "expiresAt": "2026-10-13T08:19:15.688-07:00"
+    "listedAt": "2026-10-10T14:03:47.750-07:00",
+    "expiresAt": "2026-10-13T14:03:47.751-07:00"
   },
   {
     "sheetRow": 603,
