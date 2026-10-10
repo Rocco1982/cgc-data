@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-10T02:47:05-07:00",
+  generatedAt: "2026-10-10T08:19:17-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -18,17 +18,17 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-13T02:43:56.642-07:00"
   },
   {
-    "sheetRow": 600,
-    "createdAt": "2026-10-09T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-B32029",
-    "faceValue": "25",
-    "saleValue": "21.25",
+    "sheetRow": 610,
+    "createdAt": "2026-10-10T07:00:00.000Z",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-F16417",
+    "faceValue": "100",
+    "saleValue": "85",
     "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-09T07:28:24.791-07:00",
-    "expiresAt": "2026-10-12T07:28:24.792-07:00"
+    "listedAt": "2026-10-10T08:19:15.686-07:00",
+    "expiresAt": "2026-10-13T08:19:15.688-07:00"
   },
   {
     "sheetRow": 603,
