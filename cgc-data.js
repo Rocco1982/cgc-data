@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-09T22:34:00-07:00",
+  generatedAt: "2026-10-09T23:31:33-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -44,17 +44,17 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-12T14:38:45.201-07:00"
   },
   {
-    "sheetRow": 606,
+    "sheetRow": 608,
     "createdAt": "2026-10-09T07:00:00.000Z",
-    "brand": "Boston Pizza",
-    "ref": "GCFC-L47045",
-    "faceValue": "50",
-    "saleValue": "42.5",
+    "brand": "Cactus Club",
+    "ref": "GCFC-G17774",
+    "faceValue": "100",
+    "saleValue": "85",
     "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-09T22:33:58.253-07:00",
-    "expiresAt": "2026-10-12T22:33:58.254-07:00"
+    "listedAt": "2026-10-09T23:31:31.645-07:00",
+    "expiresAt": "2026-10-12T23:31:31.646-07:00"
   },
   {
     "sheetRow": 594,
