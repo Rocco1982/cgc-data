@@ -1,11 +1,11 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-10T14:36:10-07:00",
+  generatedAt: "2026-10-10T15:12:09-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
   deals: [
   {
-    "sheetRow": 609,
+    "sheetRow": 608,
     "createdAt": "2026-10-10T07:00:00.000Z",
     "brand": "Winners",
     "ref": "GCFC-W48277",
@@ -18,7 +18,7 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-13T02:43:56.642-07:00"
   },
   {
-    "sheetRow": 612,
+    "sheetRow": 610,
     "createdAt": "2026-10-10T07:00:00.000Z",
     "brand": "Lululemon",
     "ref": "GCFC-D73685",
@@ -31,7 +31,7 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-13T14:03:47.751-07:00"
   },
   {
-    "sheetRow": 614,
+    "sheetRow": 612,
     "createdAt": "2026-10-10T07:00:00.000Z",
     "brand": "Walmart",
     "ref": "GCFC-F79604",
@@ -70,6 +70,32 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-12T14:38:45.201-07:00"
   },
   {
+    "sheetRow": 605,
+    "createdAt": "2026-10-09T07:00:00.000Z",
+    "brand": "Boston Pizza",
+    "ref": "GCFC-L47045",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-09T22:33:58.253-07:00",
+    "expiresAt": "2026-10-12T22:33:58.254-07:00"
+  },
+  {
+    "sheetRow": 607,
+    "createdAt": "2026-10-09T07:00:00.000Z",
+    "brand": "Cactus Club",
+    "ref": "GCFC-G17774",
+    "faceValue": "100",
+    "saleValue": "85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-09T23:31:31.645-07:00",
+    "expiresAt": "2026-10-12T23:31:31.646-07:00"
+  },
+  {
     "sheetRow": 594,
     "createdAt": "2026-10-08T07:00:00.000Z",
     "brand": "Chairmans Steakhouse",
@@ -81,6 +107,32 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-08T11:21:14.661-07:00",
     "expiresAt": "2026-10-11T11:21:14.661-07:00"
+  },
+  {
+    "sheetRow": 590,
+    "createdAt": "2026-10-07T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-J54437",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-10T14:43:00-07:00",
+    "expiresAt": "2026-10-13T14:43:00-07:00"
+  },
+  {
+    "sheetRow": 589,
+    "createdAt": "2026-10-06T07:00:00.000Z",
+    "brand": "Boston Pizza",
+    "ref": "GCFC-V23307",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-10T14:43:00-07:00",
+    "expiresAt": "2026-10-13T14:43:00-07:00"
   },
   ]
 };
