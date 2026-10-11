@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-11T10:14:05-07:00",
+  generatedAt: "2026-10-11T12:39:42-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -16,6 +16,19 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-10T14:03:47.750-07:00",
     "expiresAt": "2026-10-13T14:03:47.751-07:00"
+  },
+  {
+    "sheetRow": 611,
+    "createdAt": "2026-10-10T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-M28836",
+    "faceValue": "250",
+    "saleValue": "212.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-11T12:39:40.879-07:00",
+    "expiresAt": "2026-10-14T12:39:40.881-07:00"
   },
   {
     "sheetRow": 603,
@@ -68,19 +81,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-09T23:31:31.645-07:00",
     "expiresAt": "2026-10-12T23:31:31.646-07:00"
-  },
-  {
-    "sheetRow": 594,
-    "createdAt": "2026-10-08T07:00:00.000Z",
-    "brand": "Chairmans Steakhouse",
-    "ref": "GCFC-N49563",
-    "faceValue": "250",
-    "saleValue": "212.5",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6964634869c3e7fe0c8863.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-08T11:21:14.661-07:00",
-    "expiresAt": "2026-10-11T11:21:14.661-07:00"
   },
   {
     "sheetRow": 590,
