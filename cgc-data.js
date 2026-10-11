@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-11T10:07:07-07:00",
+  generatedAt: "2026-10-11T10:14:05-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -16,32 +16,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-10T14:03:47.750-07:00",
     "expiresAt": "2026-10-13T14:03:47.751-07:00"
-  },
-  {
-    "sheetRow": 613,
-    "createdAt": "2026-10-10T07:00:00.000Z",
-    "brand": "Shell",
-    "ref": "GCFC-Z98201",
-    "faceValue": "43.02",
-    "saleValue": "36.57",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e0805d4199001285823.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-11T10:07:01.739-07:00",
-    "expiresAt": "2026-10-14T10:07:01.741-07:00"
-  },
-  {
-    "sheetRow": 614,
-    "createdAt": "2026-10-10T07:00:00.000Z",
-    "brand": "Loblaws",
-    "ref": "GCFC-H20825",
-    "faceValue": "50",
-    "saleValue": "42.5",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-11T09:59:25.962-07:00",
-    "expiresAt": "2026-10-14T09:59:25.963-07:00"
   },
   {
     "sheetRow": 603,
