@@ -1,22 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-12T14:44:11-07:00",
+  generatedAt: "2026-10-12T18:30:26-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
   deals: [
-  {
-    "sheetRow": 620,
-    "createdAt": "2026-10-12T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-A34616",
-    "faceValue": "150",
-    "saleValue": "127.5",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-12T14:41:55.138-07:00",
-    "expiresAt": "2026-10-15T14:41:55.140-07:00"
-  },
   {
     "sheetRow": 610,
     "createdAt": "2026-10-10T07:00:00.000Z",
