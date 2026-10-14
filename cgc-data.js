@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-14T11:06:02-07:00",
+  generatedAt: "2026-10-14T14:01:37-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -16,6 +16,19 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T05:02:05.972-07:00",
     "expiresAt": "2026-10-17T05:02:05.974-07:00"
+  },
+  {
+    "sheetRow": 626,
+    "createdAt": "2026-10-14T07:00:00.000Z",
+    "brand": "Foot Locker",
+    "ref": "GCFC-D72465",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbc.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T14:01:36.737-07:00",
+    "expiresAt": "2026-10-17T14:01:36.738-07:00"
   },
   {
     "sheetRow": 2186,
