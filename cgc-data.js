@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-14T11:01:55-07:00",
+  generatedAt: "2026-10-14T11:04:09-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -29,6 +29,19 @@ window.CGC_DATA = {
     "marketStatus": "live",
     "listedAt": "2026-10-13T22:02:38-07:00",
     "expiresAt": "2026-10-16T22:02:38-07:00"
+  },
+  {
+    "sheetRow": 622,
+    "createdAt": "2026-10-13T07:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-A41654",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T11:04:08.026-07:00",
+    "expiresAt": "2026-10-17T11:04:08.026-07:00"
   },
   {
     "sheetRow": 619,
