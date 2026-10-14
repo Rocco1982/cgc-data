@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-14T11:04:11-07:00",
+  generatedAt: "2026-10-14T11:05:59-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -42,6 +42,19 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T11:04:08.026-07:00",
     "expiresAt": "2026-10-17T11:04:08.026-07:00"
+  },
+  {
+    "sheetRow": 623,
+    "createdAt": "2026-10-13T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-Y61757",
+    "faceValue": "72.26",
+    "saleValue": "61.42",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T11:05:57.111-07:00",
+    "expiresAt": "2026-10-17T11:05:57.111-07:00"
   },
   {
     "sheetRow": 619,
