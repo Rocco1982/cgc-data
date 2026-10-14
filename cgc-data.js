@@ -1,8 +1,8 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-14T14:04:03-07:00",
+  generatedAt: "2026-10-14T15:10:37-07:00",
   source: "Gift Card Book and Balances / Main",
-  sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
-  expiryDays: 3,
+  sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
+  expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
   {
     "sheetRow": 624,
@@ -15,7 +15,9 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T05:02:05.972-07:00",
-    "expiresAt": "2026-10-17T05:02:05.974-07:00"
+    "expiresAt": "2026-10-17T05:02:05.974-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 626,
@@ -28,20 +30,9 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T14:01:36.737-07:00",
-    "expiresAt": "2026-10-17T14:01:36.738-07:00"
-  },
-  {
-    "sheetRow": 2186,
-    "createdAt": "2026-10-14T02:51:33.000Z",
-    "brand": "Thairific",
-    "ref": "GCFC-THAIQA1013N3",
-    "faceValue": "5",
-    "saleValue": "5",
-    "discount": "0.00%",
-    "image": "https://placehold.co/800x500/fff1f0/991b1b.png?text=INTERNAL+QA+TEST+CARD+NOT+REDEEMABLE",
-    "marketStatus": "live",
-    "listedAt": "2026-10-13T22:02:38-07:00",
-    "expiresAt": "2026-10-16T22:02:38-07:00"
+    "expiresAt": "2026-10-17T14:01:36.738-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
   },
   {
     "sheetRow": 622,
@@ -54,7 +45,9 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T11:04:08.026-07:00",
-    "expiresAt": "2026-10-17T11:04:08.026-07:00"
+    "expiresAt": "2026-10-17T11:04:08.026-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
   },
   {
     "sheetRow": 623,
@@ -67,7 +60,9 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T11:05:57.111-07:00",
-    "expiresAt": "2026-10-17T11:05:57.111-07:00"
+    "expiresAt": "2026-10-17T11:05:57.111-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 619,
@@ -80,7 +75,69 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-14T11:01:49.704-07:00",
-    "expiresAt": "2026-10-17T11:01:49.705-07:00"
+    "expiresAt": "2026-10-17T11:01:49.705-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 603,
+    "createdAt": "2026-10-09T07:00:00.000Z",
+    "brand": "Starbucks",
+    "ref": "GCFC-J77651",
+    "faceValue": "35",
+    "saleValue": "30.23",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-09T11:35:43.403-07:00",
+    "expiresAt": "2026-10-12T11:35:43.405-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 605,
+    "createdAt": "2026-10-09T07:00:00.000Z",
+    "brand": "Boston Pizza",
+    "ref": "GCFC-L47045",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-09T22:33:58.253-07:00",
+    "expiresAt": "2026-10-12T22:33:58.254-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 590,
+    "createdAt": "2026-10-07T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-J54437",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T14:58:36-07:00",
+    "expiresAt": "2026-10-17T14:58:36-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 589,
+    "createdAt": "2026-10-06T07:00:00.000Z",
+    "brand": "Boston Pizza",
+    "ref": "GCFC-V23307",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69d9233923917331fbc8116b.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T14:58:36-07:00",
+    "expiresAt": "2026-10-17T14:58:36-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
   },
   ]
 };
