@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-14T05:04:05-07:00",
+  generatedAt: "2026-10-14T11:01:52-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale + Fast Cash + legacy V3 Fast Cash Bundle)",
   expiryDays: 3,
@@ -29,6 +29,19 @@ window.CGC_DATA = {
     "marketStatus": "live",
     "listedAt": "2026-10-13T22:02:38-07:00",
     "expiresAt": "2026-10-16T22:02:38-07:00"
+  },
+  {
+    "sheetRow": 619,
+    "createdAt": "2026-10-12T07:00:00.000Z",
+    "brand": "Sport Chek",
+    "ref": "GCFC-Q42977",
+    "faceValue": "128.56",
+    "saleValue": "109.28",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T11:01:49.704-07:00",
+    "expiresAt": "2026-10-17T11:01:49.705-07:00"
   },
   ]
 };
