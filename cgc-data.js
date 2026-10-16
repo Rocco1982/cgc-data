@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-15T22:54:13-07:00",
+  generatedAt: "2026-10-16T06:32:05-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 635,
-    "createdAt": "2026-10-15T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-Y81202",
-    "faceValue": "32.07",
-    "saleValue": "27.26",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-15T22:49:04.043-07:00",
-    "expiresAt": "2026-10-18T22:49:04.044-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
   {
     "sheetRow": 624,
     "createdAt": "2026-10-14T07:00:00.000Z",
