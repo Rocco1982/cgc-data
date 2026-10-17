@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-17T11:34:06-07:00",
+  generatedAt: "2026-10-17T11:37:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -61,6 +61,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-17T08:01:18.615-07:00",
     "expiresAt": "2026-10-20T08:01:18.616-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 646,
+    "createdAt": "2026-10-17T07:00:00.000Z",
+    "brand": "DoorDash",
+    "ref": "GCFC-Y76552",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f29a49590487fe57e4adf3.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T11:37:42.651-07:00",
+    "expiresAt": "2026-10-20T11:37:42.652-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
