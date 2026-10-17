@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-16T08:12:05-07:00",
+  generatedAt: "2026-10-16T17:39:11-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 636,
-    "createdAt": "2026-10-16T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-J88144",
-    "faceValue": "100",
-    "saleValue": "85",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-16T07:01:58.590-07:00",
-    "expiresAt": "2026-10-19T07:01:58.591-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
   {
     "sheetRow": 624,
     "createdAt": "2026-10-14T07:00:00.000Z",
@@ -59,8 +44,8 @@ window.CGC_DATA = {
     "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-14T11:05:57.111-07:00",
-    "expiresAt": "2026-10-17T11:05:57.111-07:00",
+    "listedAt": "2026-10-16T16:37:47-07:00",
+    "expiresAt": "2099-12-31T23:59:59-08:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -74,25 +59,10 @@ window.CGC_DATA = {
     "discount": "0.1924",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-14T11:01:49.704-07:00",
-    "expiresAt": "2026-10-17T11:01:49.705-07:00",
+    "listedAt": "2026-10-16T16:37:47-07:00",
+    "expiresAt": "2099-12-31T23:59:59-08:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
-  },
-  {
-    "sheetRow": 603,
-    "createdAt": "2026-10-09T07:00:00.000Z",
-    "brand": "Starbucks",
-    "ref": "GCFC-J77651",
-    "faceValue": "35",
-    "saleValue": "28.72",
-    "discount": "0.1794",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2518c6630fc6c0b598b91.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-09T11:35:43.403-07:00",
-    "expiresAt": "2026-10-12T11:35:43.405-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
   },
   {
     "sheetRow": 590,
