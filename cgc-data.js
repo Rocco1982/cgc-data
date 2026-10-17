@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-16T20:38:54-07:00",
+  generatedAt: "2026-10-17T08:01:20-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 645,
+    "createdAt": "2026-10-17T07:00:00.000Z",
+    "brand": "Old Navy",
+    "ref": "GCFC-W13279",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T08:01:18.615-07:00",
+    "expiresAt": "2026-10-20T08:01:18.616-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 639,
     "createdAt": "2026-10-16T07:00:00.000Z",
@@ -16,21 +31,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-16T20:16:06.030-07:00",
     "expiresAt": "2026-10-19T20:16:06.030-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 624,
-    "createdAt": "2026-10-14T07:00:00.000Z",
-    "brand": "LCBO",
-    "ref": "GCFC-G04094",
-    "faceValue": "75.8",
-    "saleValue": "61.21",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-14T05:02:05.972-07:00",
-    "expiresAt": "2026-10-17T05:02:05.974-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
