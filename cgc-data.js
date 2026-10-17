@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-17T11:19:11-07:00",
+  generatedAt: "2026-10-17T11:22:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -35,21 +35,6 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
-    "sheetRow": 643,
-    "createdAt": "2026-10-17T07:00:00.000Z",
-    "brand": "Amazon",
-    "ref": "GCFC-K98302",
-    "faceValue": "100",
-    "saleValue": "85",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24d4bf50d9ecd2e22c79b.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-17T11:17:28.870-07:00",
-    "expiresAt": "2026-10-20T11:17:28.871-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
     "sheetRow": 644,
     "createdAt": "2026-10-17T07:00:00.000Z",
     "brand": "Best Buy",
@@ -78,6 +63,21 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-20T08:01:18.616-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
+  },
+  {
+    "sheetRow": 647,
+    "createdAt": "2026-10-17T07:00:00.000Z",
+    "brand": "Sephora",
+    "ref": "GCFC-A50620",
+    "faceValue": "250",
+    "saleValue": "212.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T11:22:57.259-07:00",
+    "expiresAt": "2026-10-20T11:22:57.260-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 637,
