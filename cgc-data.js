@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-17T08:04:08-07:00",
+  generatedAt: "2026-10-17T11:15:16-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -18,6 +18,21 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-20T08:01:18.616-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
+  },
+  {
+    "sheetRow": 637,
+    "createdAt": "2026-10-16T07:00:00.000Z",
+    "brand": "Lululemon",
+    "ref": "GCFC-L56975",
+    "faceValue": "495",
+    "saleValue": "420.75",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T11:15:15.379-07:00",
+    "expiresAt": "2026-10-20T11:15:15.380-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 639,
@@ -75,6 +90,21 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-16T16:37:47-07:00",
+    "expiresAt": "2099-12-31T23:59:59-08:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 607,
+    "createdAt": "2026-10-09T07:00:00.000Z",
+    "brand": "Cactus Club",
+    "ref": "GCFC-G17774",
+    "faceValue": "100",
+    "saleValue": "85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f4e01f23e63d676c8902cf.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T10:25:53-07:00",
     "expiresAt": "2099-12-31T23:59:59-08:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
