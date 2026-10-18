@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-17T11:37:54-07:00",
+  generatedAt: "2026-10-18T08:22:26-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -16,21 +16,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-17T11:15:31.152-07:00",
     "expiresAt": "2026-10-20T11:15:31.153-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
-    "sheetRow": 641,
-    "createdAt": "2026-10-17T07:00:00.000Z",
-    "brand": "Cineplex",
-    "ref": "GCFC-D78776",
-    "faceValue": "25",
-    "saleValue": "21.25",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-17T11:37:53.174-07:00",
-    "expiresAt": "2026-10-20T11:37:53.176-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
@@ -70,8 +55,8 @@ window.CGC_DATA = {
     "brand": "Old Navy",
     "ref": "GCFC-W13279",
     "faceValue": "50",
-    "saleValue": "42.5",
-    "discount": "0.15",
+    "saleValue": "40.37",
+    "discount": "0.1926",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-17T08:01:18.615-07:00",
@@ -110,6 +95,21 @@ window.CGC_DATA = {
     "nonExpiring": false
   },
   {
+    "sheetRow": 649,
+    "createdAt": "2026-10-17T07:00:00.000Z",
+    "brand": "Air Canada",
+    "ref": "GCFC-A92312",
+    "faceValue": "338.68",
+    "saleValue": "287.88",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T19:51:45.446-07:00",
+    "expiresAt": "2026-10-20T19:51:45.447-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
     "sheetRow": 637,
     "createdAt": "2026-10-16T07:00:00.000Z",
     "brand": "Lululemon",
@@ -130,8 +130,8 @@ window.CGC_DATA = {
     "brand": "Apple Store",
     "ref": "GCFC-L04372",
     "faceValue": "300",
-    "saleValue": "255",
-    "discount": "0.15",
+    "saleValue": "242.25",
+    "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-16T20:16:06.030-07:00",
