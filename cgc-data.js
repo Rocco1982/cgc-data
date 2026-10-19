@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-19T12:34:51-07:00",
+  generatedAt: "2026-10-19T16:42:00-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 663,
+    "createdAt": "2026-10-19T07:00:00.000Z",
+    "brand": "Walmart",
+    "ref": "GCFC-J26644",
+    "faceValue": "20",
+    "saleValue": "17",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-19T16:41:54.019-07:00",
+    "expiresAt": "2026-10-22T16:41:54.019-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 640,
     "createdAt": "2026-10-17T07:00:00.000Z",
@@ -48,21 +63,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-17T14:01:36.738-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 619,
-    "createdAt": "2026-10-12T07:00:00.000Z",
-    "brand": "Sport Chek",
-    "ref": "GCFC-Q42977",
-    "faceValue": "128.56",
-    "saleValue": "103.82",
-    "discount": "0.1924",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-16T16:37:47-07:00",
-    "expiresAt": "2099-12-31T23:59:59-08:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 589,
