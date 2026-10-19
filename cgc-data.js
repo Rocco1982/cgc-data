@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-19T11:34:08-07:00",
+  generatedAt: "2026-10-19T11:36:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 661,
+    "createdAt": "2026-10-19T07:00:00.000Z",
+    "brand": "Loblaws",
+    "ref": "GCFC-Y67235",
+    "faceValue": "17",
+    "saleValue": "14.45",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-19T11:36:54.686-07:00",
+    "expiresAt": "2026-10-22T11:36:54.686-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 640,
     "createdAt": "2026-10-17T07:00:00.000Z",
