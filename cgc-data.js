@@ -1,23 +1,23 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-19T01:24:24-07:00",
+  generatedAt: "2026-10-19T11:07:22-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
   {
-    "sheetRow": 658,
+    "sheetRow": 660,
     "createdAt": "2026-10-19T07:00:00.000Z",
-    "brand": "Cineplex",
-    "ref": "GCFC-D59316",
-    "faceValue": "25",
-    "saleValue": "21.25",
+    "brand": "Sephora",
+    "ref": "GCFC-N54745",
+    "faceValue": "100",
+    "saleValue": "85",
     "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-19T01:23:16.594-07:00",
-    "expiresAt": "2026-10-22T01:23:16.594-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
+    "listedAt": "2026-10-19T11:07:15.432-07:00",
+    "expiresAt": "2026-10-22T11:07:15.433-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 640,
@@ -33,21 +33,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-20T11:15:31.153-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 649,
-    "createdAt": "2026-10-17T07:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-A92312",
-    "faceValue": "338.68",
-    "saleValue": "287.88",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-17T19:51:45.446-07:00",
-    "expiresAt": "2026-10-20T19:51:45.447-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 637,
