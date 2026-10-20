@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-19T19:01:57-07:00",
+  generatedAt: "2026-10-19T21:46:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -48,6 +48,21 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-22T16:41:54.019-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
+  },
+  {
+    "sheetRow": 665,
+    "createdAt": "2026-10-19T07:00:00.000Z",
+    "brand": "Air Canada",
+    "ref": "GCFC-M32878",
+    "faceValue": "500",
+    "saleValue": "425",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-19T21:46:25.277-07:00",
+    "expiresAt": "2026-10-22T21:46:25.278-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 652,
@@ -166,21 +181,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-17T11:15:15.379-07:00",
     "expiresAt": "2026-10-20T11:15:15.380-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 639,
-    "createdAt": "2026-10-16T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-L04372",
-    "faceValue": "300",
-    "saleValue": "242.25",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-16T20:16:06.030-07:00",
-    "expiresAt": "2026-10-19T20:16:06.030-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
