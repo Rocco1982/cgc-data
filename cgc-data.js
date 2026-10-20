@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-20T15:31:32-07:00",
+  generatedAt: "2026-10-20T15:33:31-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -198,21 +198,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-20T08:01:18.616-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 647,
-    "createdAt": "2026-10-17T07:00:00.000Z",
-    "brand": "Sephora",
-    "ref": "GCFC-A50620",
-    "faceValue": "250",
-    "saleValue": "201.87",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-17T11:22:57.259-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 637,
