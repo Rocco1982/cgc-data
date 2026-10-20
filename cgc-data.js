@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-20T00:55:07-07:00",
+  generatedAt: "2026-10-20T13:32:56-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -20,13 +20,28 @@ window.CGC_DATA = {
     "nonExpiring": false
   },
   {
+    "sheetRow": 668,
+    "createdAt": "2026-10-20T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-L55541",
+    "faceValue": "25",
+    "saleValue": "21.25",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-20T13:32:43.389-07:00",
+    "expiresAt": "2026-10-23T13:32:43.390-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
     "sheetRow": 658,
     "createdAt": "2026-10-19T07:00:00.000Z",
     "brand": "Cineplex",
     "ref": "GCFC-D59316",
     "faceValue": "25",
-    "saleValue": "21.25",
-    "discount": "0.15",
+    "saleValue": "20.19",
+    "discount": "0.1924",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-19T01:23:16.594-07:00",
@@ -168,36 +183,6 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-20T08:01:18.616-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 647,
-    "createdAt": "2026-10-17T07:00:00.000Z",
-    "brand": "Sephora",
-    "ref": "GCFC-A50620",
-    "faceValue": "250",
-    "saleValue": "201.87",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-17T11:22:57.259-07:00",
-    "expiresAt": "2026-10-20T11:22:57.260-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 637,
-    "createdAt": "2026-10-16T07:00:00.000Z",
-    "brand": "Lululemon",
-    "ref": "GCFC-L56975",
-    "faceValue": "495",
-    "saleValue": "399.71",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-17T11:15:15.379-07:00",
-    "expiresAt": "2026-10-20T11:15:15.380-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 623,
