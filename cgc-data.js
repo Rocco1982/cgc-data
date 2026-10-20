@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-20T14:09:09-07:00",
+  generatedAt: "2026-10-20T15:31:32-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -15,7 +15,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-20T00:53:57.728-07:00",
-    "expiresAt": "2026-10-23T00:53:57.729-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -31,21 +31,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-20T13:32:43.389-07:00",
     "expiresAt": "2026-10-23T13:32:43.390-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
-    "sheetRow": 669,
-    "createdAt": "2026-10-20T07:00:00.000Z",
-    "brand": "Staples",
-    "ref": "GCFC-J27452",
-    "faceValue": "18.51",
-    "saleValue": "15.73",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-20T13:38:00.396-07:00",
-    "expiresAt": "2026-10-23T13:38:00.397-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
@@ -90,7 +75,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-19T11:07:15.432-07:00",
-    "expiresAt": "2026-10-22T11:07:15.433-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -120,7 +105,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-19T21:46:25.277-07:00",
-    "expiresAt": "2026-10-22T21:46:25.278-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -135,7 +120,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-18T10:50:22.627-07:00",
-    "expiresAt": "2026-10-21T10:50:22.628-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -215,6 +200,66 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
+    "sheetRow": 647,
+    "createdAt": "2026-10-17T07:00:00.000Z",
+    "brand": "Sephora",
+    "ref": "GCFC-A50620",
+    "faceValue": "250",
+    "saleValue": "201.87",
+    "discount": "0.1925",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2581bfc17decc45fa0373.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T11:22:57.259-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 637,
+    "createdAt": "2026-10-16T07:00:00.000Z",
+    "brand": "Lululemon",
+    "ref": "GCFC-L56975",
+    "faceValue": "495",
+    "saleValue": "399.71",
+    "discount": "0.1925",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T11:15:15.379-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 639,
+    "createdAt": "2026-10-16T07:00:00.000Z",
+    "brand": "Apple Store",
+    "ref": "GCFC-L04372",
+    "faceValue": "300",
+    "saleValue": "242.25",
+    "discount": "0.1925",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-16T20:16:06.030-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 624,
+    "createdAt": "2026-10-14T07:00:00.000Z",
+    "brand": "LCBO",
+    "ref": "GCFC-G04094",
+    "faceValue": "75.8",
+    "saleValue": "61.21",
+    "discount": "0.1925",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01235fa0a66d4caa86e13.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-14T05:02:05.972-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
     "sheetRow": 623,
     "createdAt": "2026-10-13T07:00:00.000Z",
     "brand": "Winners",
@@ -225,7 +270,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-16T16:37:47-07:00",
-    "expiresAt": "2099-12-31T23:59:59-08:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
