@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-20T13:34:17-07:00",
+  generatedAt: "2026-10-20T13:38:06-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -31,6 +31,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-20T13:32:43.389-07:00",
     "expiresAt": "2026-10-23T13:32:43.390-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 669,
+    "createdAt": "2026-10-20T07:00:00.000Z",
+    "brand": "Staples",
+    "ref": "GCFC-J27452",
+    "faceValue": "18.51",
+    "saleValue": "15.73",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-20T13:38:00.396-07:00",
+    "expiresAt": "2026-10-23T13:38:00.397-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
