@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-21T09:31:29-07:00",
+  generatedAt: "2026-10-21T09:36:40-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -91,6 +91,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-19T16:41:54.019-07:00",
     "expiresAt": "2026-10-22T16:41:54.019-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 664,
+    "createdAt": "2026-10-19T07:00:00.000Z",
+    "brand": "Sport Chek",
+    "ref": "GCFC-T77091",
+    "faceValue": "25",
+    "saleValue": "21.25",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-21T09:36:32.336-07:00",
+    "expiresAt": "2026-10-24T09:36:32.339-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
