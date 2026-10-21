@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-21T12:31:57-07:00",
+  generatedAt: "2026-10-21T12:37:19-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -76,21 +76,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-20T14:06:29.249-07:00",
     "expiresAt": "2026-10-23T14:06:29.250-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
-    "sheetRow": 673,
-    "createdAt": "2026-10-20T07:00:00.000Z",
-    "brand": "No Frills",
-    "ref": "GCFC-C90909",
-    "faceValue": "25",
-    "saleValue": "21.25",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f012690d66f2a665c36320.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-21T09:44:37.452-07:00",
-    "expiresAt": "2026-10-24T09:44:37.454-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
@@ -240,21 +225,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-17T11:15:15.379-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 639,
-    "createdAt": "2026-10-16T07:00:00.000Z",
-    "brand": "Apple Store",
-    "ref": "GCFC-L04372",
-    "faceValue": "300",
-    "saleValue": "242.25",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-16T20:16:06.030-07:00",
     "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
