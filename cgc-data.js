@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-21T16:42:12-07:00",
+  generatedAt: "2026-10-21T17:45:18-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -33,6 +33,21 @@ window.CGC_DATA = {
     "expiresAt": "2026-10-24T16:42:05.296-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
+  },
+  {
+    "sheetRow": 680,
+    "createdAt": "2026-10-21T07:00:00.000Z",
+    "brand": "Tim Hortons",
+    "ref": "GCFC-F06635",
+    "faceValue": "100",
+    "saleValue": "85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e4849d7293cbd5de5f2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-21T17:44:00.761-07:00",
+    "expiresAt": "2026-10-24T17:44:00.761-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   {
     "sheetRow": 666,
