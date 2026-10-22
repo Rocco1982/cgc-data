@@ -1,23 +1,23 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-22T09:31:34-07:00",
+  generatedAt: "2026-10-22T13:54:14-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
   {
-    "sheetRow": 686,
+    "sheetRow": 687,
     "createdAt": "2026-10-22T07:00:00.000Z",
-    "brand": "Walmart",
-    "ref": "GCFC-T82131",
-    "faceValue": "100",
-    "saleValue": "85",
+    "brand": "Loblaws",
+    "ref": "GCFC-J52315",
+    "faceValue": "50",
+    "saleValue": "42.5",
     "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25113663e5f92fff74bee.png",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25976e84e52bef4c74fdb.png",
     "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-22T09:06:40.546-07:00",
-    "expiresAt": "2026-10-25T09:06:40.547-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
+    "listedAt": "2026-10-22T13:54:07.303-07:00",
+    "expiresAt": "2026-10-25T13:54:07.303-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
   },
   {
     "sheetRow": 678,
