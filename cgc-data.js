@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-21T17:45:58-07:00",
+  generatedAt: "2026-10-21T20:24:51-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -46,6 +46,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-21T17:44:00.761-07:00",
     "expiresAt": "2026-10-24T17:44:00.761-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 681,
+    "createdAt": "2026-10-21T07:00:00.000Z",
+    "brand": "H&M",
+    "ref": "GCFC-X46288",
+    "faceValue": "300",
+    "saleValue": "255",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644db4176d3727c9944d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-21T20:24:39.262-07:00",
+    "expiresAt": "2026-10-24T20:24:39.264-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
