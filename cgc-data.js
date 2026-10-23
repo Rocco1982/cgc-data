@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-23T12:57:19-07:00",
+  generatedAt: "2026-10-23T15:31:19-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -65,21 +65,6 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
-    "sheetRow": 666,
-    "createdAt": "2026-10-20T07:00:00.000Z",
-    "brand": "Cineplex",
-    "ref": "GCFC-M39660",
-    "faceValue": "75",
-    "saleValue": "60.56",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-20T00:53:57.728-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
     "sheetRow": 667,
     "createdAt": "2026-10-20T07:00:00.000Z",
     "brand": "A&W",
@@ -121,21 +106,6 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-20T14:06:29.249-07:00",
     "expiresAt": "2026-10-23T14:06:29.250-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
-    "sheetRow": 676,
-    "createdAt": "2026-10-20T07:00:00.000Z",
-    "brand": "H&M",
-    "ref": "GCFC-W91583",
-    "faceValue": "25",
-    "saleValue": "21.25",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69644db4176d3727c9944d.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-21T09:47:26.424-07:00",
-    "expiresAt": "2026-10-24T09:47:26.425-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
