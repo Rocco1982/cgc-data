@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-22T15:33:34-07:00",
+  generatedAt: "2026-10-23T12:54:43-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -33,6 +33,21 @@ window.CGC_DATA = {
     "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
+  },
+  {
+    "sheetRow": 683,
+    "createdAt": "2026-10-21T07:00:00.000Z",
+    "brand": "Mark's Work Wearhouse",
+    "ref": "GCFC-E47833",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-23T12:54:30.813-07:00",
+    "expiresAt": "2026-10-26T12:54:30.814-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
   },
   {
     "sheetRow": 666,
