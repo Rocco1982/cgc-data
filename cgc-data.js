@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-24T13:17:33-07:00",
+  generatedAt: "2026-10-24T13:17:41-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 694,
+    "createdAt": "2026-10-24T07:00:00.000Z",
+    "brand": "Golf Town",
+    "ref": "GCFC-H91384",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f298766630fc6c0b699d1e.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-24T13:17:28.737-07:00",
+    "expiresAt": "2026-10-27T13:17:28.737-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 695,
     "createdAt": "2026-10-24T07:00:00.000Z",
