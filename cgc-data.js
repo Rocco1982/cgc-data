@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-23T15:31:19-07:00",
+  generatedAt: "2026-10-23T17:26:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 692,
+    "createdAt": "2026-10-23T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-T16898",
+    "faceValue": "250",
+    "saleValue": "212.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-23T17:26:37.074-07:00",
+    "expiresAt": "2026-10-26T17:26:37.076-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
   {
     "sheetRow": 688,
     "createdAt": "2026-10-22T07:00:00.000Z",
