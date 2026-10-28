@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-27T13:55:52-07:00",
+  generatedAt: "2026-10-27T18:31:26-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -45,7 +45,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-26T19:01:24.720-07:00",
-    "expiresAt": "2026-10-29T19:01:24.720-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
@@ -60,7 +60,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-27T09:46:45.485-07:00",
-    "expiresAt": "2026-10-30T09:46:45.486-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
@@ -75,7 +75,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-27T09:47:26.883-07:00",
-    "expiresAt": "2026-10-30T09:47:26.883-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
@@ -110,21 +110,6 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
-    "sheetRow": 683,
-    "createdAt": "2026-10-21T07:00:00.000Z",
-    "brand": "Mark's Work Wearhouse",
-    "ref": "GCFC-E47833",
-    "faceValue": "50",
-    "saleValue": "40.37",
-    "discount": "0.1926",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2919b663e5f92ff066842.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-23T12:54:30.813-07:00",
-    "expiresAt": "2026-10-26T12:54:30.814-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
     "sheetRow": 667,
     "createdAt": "2026-10-20T07:00:00.000Z",
     "brand": "A&W",
@@ -135,7 +120,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb3.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-21T09:37:32.777-07:00",
-    "expiresAt": "2026-10-24T09:37:32.778-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
   },
