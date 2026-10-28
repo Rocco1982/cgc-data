@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-27T18:33:39-07:00",
+  generatedAt: "2026-10-28T00:32:03-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 710,
+    "createdAt": "2026-10-28T07:00:00.000Z",
+    "brand": "Gap",
+    "ref": "GCFC-W84824",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696451687db4bb53abaec3.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-28T00:31:57.684-07:00",
+    "expiresAt": "2026-10-31T00:31:57.684-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 708,
     "createdAt": "2026-10-27T07:00:00.000Z",
