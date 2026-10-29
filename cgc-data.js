@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-29T11:39:38-07:00",
+  generatedAt: "2026-10-29T12:31:45-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -105,21 +105,6 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-27T09:46:45.485-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
-    "sheetRow": 707,
-    "createdAt": "2026-10-26T07:00:00.000Z",
-    "brand": "Indigo",
-    "ref": "GCFC-Z49639",
-    "faceValue": "50",
-    "saleValue": "40.37",
-    "discount": "0.1926",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a050e6e601d54df82522925.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-10-27T09:47:26.883-07:00",
     "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
