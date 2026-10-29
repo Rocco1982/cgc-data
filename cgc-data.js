@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-29T03:09:15-07:00",
+  generatedAt: "2026-10-29T11:39:38-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -20,13 +20,28 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
+    "sheetRow": 716,
+    "createdAt": "2026-10-29T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-C84215",
+    "faceValue": "100",
+    "saleValue": "85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-29T11:39:29.425-07:00",
+    "expiresAt": "2026-11-01T11:39:29.426-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
     "sheetRow": 710,
     "createdAt": "2026-10-28T07:00:00.000Z",
     "brand": "Gap",
     "ref": "GCFC-W84824",
     "faceValue": "50",
-    "saleValue": "42.5",
-    "discount": "0.15",
+    "saleValue": "40.37",
+    "discount": "0.1926",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a696451687db4bb53abaec3.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-28T00:31:57.684-07:00",
@@ -40,8 +55,8 @@ window.CGC_DATA = {
     "brand": "Foot Locker",
     "ref": "GCFC-H66232",
     "faceValue": "250",
-    "saleValue": "212.5",
-    "discount": "0.15",
+    "saleValue": "201.87",
+    "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bbc.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-10-27T11:10:52.048-07:00",
