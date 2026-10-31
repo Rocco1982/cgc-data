@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-10-30T15:32:35-07:00",
+  generatedAt: "2026-10-31T09:48:27-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 718,
+    "createdAt": "2026-10-31T07:00:00.000Z",
+    "brand": "Keg Steakhouse",
+    "ref": "GCFC-W26383",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-31T09:48:21.352-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 712,
     "createdAt": "2026-10-29T07:00:00.000Z",
@@ -85,8 +100,8 @@ window.CGC_DATA = {
     "brand": "Ultimate Dining",
     "ref": "GCFC-D45336",
     "faceValue": "75",
-    "saleValue": "63.75",
-    "discount": "0.15",
+    "saleValue": "60.56",
+    "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f256d2032865e20a983b77.png",
     "marketStatus": "buyer_interest",
     "listedAt": "10/29/2026",
