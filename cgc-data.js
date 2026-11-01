@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-01T10:30:39-07:00",
+  generatedAt: "2026-11-01T10:30:47-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -31,6 +31,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-01T10:30:33.589-07:00",
     "expiresAt": "2026-11-04T10:30:33.590-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 720,
+    "createdAt": "2026-10-31T07:00:00.000Z",
+    "brand": "Cineplex",
+    "ref": "GCFC-L63826",
+    "faceValue": "75",
+    "saleValue": "63.75",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f2910a590487fe57e33592.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-01T10:30:34.588-07:00",
+    "expiresAt": "2026-11-04T10:30:34.588-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
