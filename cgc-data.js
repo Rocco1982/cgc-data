@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-01T18:38:30-07:00",
+  generatedAt: "2026-11-01T18:38:39-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
