@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-10T12:54:38-07:00",
+  generatedAt: "2026-11-10T12:59:33-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 731,
+    "createdAt": "2026-11-10T07:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-W43661",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-10T12:59:30.170-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 733,
     "createdAt": "2026-11-10T07:00:00.000Z",
