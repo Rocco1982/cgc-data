@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-10T12:59:33-07:00",
+  generatedAt: "2026-11-10T15:21:36-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -30,6 +30,21 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25e7c590487fe57d7ddd2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-10T12:54:35.230-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 735,
+    "createdAt": "2026-11-10T07:00:00.000Z",
+    "brand": "Rona",
+    "ref": "GCFC-R09558",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f258ee6630fc6c0b5b940e.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-10T15:21:32.021-07:00",
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
