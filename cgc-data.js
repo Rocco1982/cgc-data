@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-13T07:31:57-07:00",
+  generatedAt: "2026-11-13T08:29:29-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 751,
+    "createdAt": "2026-11-13T07:00:00.000Z",
+    "brand": "FreshCo",
+    "ref": "GCFC-F59751",
+    "faceValue": "500",
+    "saleValue": "425",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6fccd1cf81b06f05ceda9c.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-13T08:29:24.348-07:00",
+    "expiresAt": "2026-11-16T08:29:24.349-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
   {
     "sheetRow": 735,
     "createdAt": "2026-11-10T07:00:00.000Z",
