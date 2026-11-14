@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-14T16:06:23-07:00",
+  generatedAt: "2026-11-14T16:15:53-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -108,6 +108,36 @@ window.CGC_DATA = {
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
+  },
+  {
+    "sheetRow": 644,
+    "createdAt": "2026-10-17T07:00:00.000Z",
+    "brand": "Best Buy",
+    "ref": "GCFC-M55321",
+    "faceValue": "50",
+    "saleValue": "40.37",
+    "discount": "0.1926",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24fa6f50d9ecd2e236fb4.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-17T11:17:03.763-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 623,
+    "createdAt": "2026-10-13T07:00:00.000Z",
+    "brand": "Winners",
+    "ref": "GCFC-Y61757",
+    "faceValue": "72.26",
+    "saleValue": "58.35",
+    "discount": "0.1925",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25afefab44d4020b4705d.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-10-16T16:37:47-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
   },
   ]
 };
