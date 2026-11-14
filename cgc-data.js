@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-14T00:32:14-07:00",
+  generatedAt: "2026-11-14T07:31:31-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -15,22 +15,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a6fccd1cf81b06f05ceda9c.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-13T08:29:24.348-07:00",
-    "expiresAt": "2026-11-16T08:29:24.349-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 753,
-    "createdAt": "2026-11-13T07:00:00.000Z",
-    "brand": "Lululemon",
-    "ref": "GCFC-W28013",
-    "faceValue": "166.88",
-    "saleValue": "141.85",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-13T23:09:54.483-07:00",
-    "expiresAt": "2026-11-16T23:09:54.483-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -45,7 +30,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f256d2032865e20a983b77.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-13T19:34:43.037-07:00",
-    "expiresAt": "2026-11-16T19:34:43.038-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -60,7 +45,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-13T11:56:38.923-07:00",
-    "expiresAt": "2026-11-16T11:56:38.924-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
