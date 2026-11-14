@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-13T19:34:45-07:00",
+  generatedAt: "2026-11-13T23:09:57-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -16,6 +16,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-13T08:29:24.348-07:00",
     "expiresAt": "2026-11-16T08:29:24.349-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 753,
+    "createdAt": "2026-11-13T07:00:00.000Z",
+    "brand": "Lululemon",
+    "ref": "GCFC-W28013",
+    "faceValue": "166.88",
+    "saleValue": "141.85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25b6df50d9ecd2e26b0bc.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-13T23:09:54.483-07:00",
+    "expiresAt": "2026-11-16T23:09:54.483-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
