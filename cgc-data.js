@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-15T04:20:03-07:00",
+  generatedAt: "2026-11-15T04:33:20-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -15,7 +15,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-14T09:48:47.347-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-17T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -30,7 +30,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f256d2032865e20a983b77.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-13T19:34:43.037-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-16T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
