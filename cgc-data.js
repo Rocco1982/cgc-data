@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-15T16:18:01-07:00",
+  generatedAt: "2026-11-15T16:31:54-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 755,
-    "createdAt": "2026-11-14T07:00:00.000Z",
-    "brand": "Home Depot",
-    "ref": "GCFC-V44472",
-    "faceValue": "930",
-    "saleValue": "750.97",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-14T09:48:47.347-07:00",
-    "expiresAt": "2026-11-17T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
   {
     "sheetRow": 746,
     "createdAt": "2026-11-12T07:00:00.000Z",
