@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-15T23:54:01-07:00",
+  generatedAt: "2026-11-16T00:11:03-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -33,21 +33,6 @@ window.CGC_DATA = {
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 746,
-    "createdAt": "2026-11-12T07:00:00.000Z",
-    "brand": "Ultimate Dining",
-    "ref": "GCFC-N80001",
-    "faceValue": "100",
-    "saleValue": "80.75",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f256d2032865e20a983b77.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-13T19:34:43.037-07:00",
-    "expiresAt": "2026-11-16T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 704,
