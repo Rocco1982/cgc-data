@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-16T13:13:58-07:00",
+  generatedAt: "2026-11-16T13:28:24-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -16,6 +16,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-16T12:28:28.899-07:00",
     "expiresAt": "2026-11-19T12:28:28.900-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 767,
+    "createdAt": "2026-11-16T07:00:00.000Z",
+    "brand": "La Vie en Rose",
+    "ref": "GCFC-S86388",
+    "faceValue": "200",
+    "saleValue": "170",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f01420481c62deba074b2b.jfif",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-16T13:28:22.828-07:00",
+    "expiresAt": "2026-11-19T13:28:22.828-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
