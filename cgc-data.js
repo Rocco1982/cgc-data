@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-17T16:34:00-07:00",
+  generatedAt: "2026-11-17T16:35:25-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 769,
-    "createdAt": "2026-11-17T07:00:00.000Z",
-    "brand": "Michaels",
-    "ref": "GCFC-F79047",
-    "faceValue": "71.17",
-    "saleValue": "60.49",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08fa0a66d4caa7dd8c.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-17T10:31:20.522-07:00",
-    "expiresAt": "2026-11-20T10:31:20.523-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
   {
     "sheetRow": 761,
     "createdAt": "2026-11-16T07:00:00.000Z",
