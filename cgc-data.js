@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-17T12:29:07-07:00",
+  generatedAt: "2026-11-17T12:33:02-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -55,8 +55,8 @@ window.CGC_DATA = {
     "brand": "Aritzia",
     "ref": "GCFC-A32559",
     "faceValue": "200",
-    "saleValue": "170",
-    "discount": "0.15",
+    "saleValue": "161.5",
+    "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb2.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-16T12:28:28.899-07:00",
