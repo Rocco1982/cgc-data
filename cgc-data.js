@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-18T10:43:12-07:00",
+  generatedAt: "2026-11-18T10:47:03-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 761,
-    "createdAt": "2026-11-16T07:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-U77079C2",
-    "faceValue": "250",
-    "saleValue": "201.87",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-16T13:37:29.496-07:00",
-    "expiresAt": "2026-11-19T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
   {
     "sheetRow": 762,
     "createdAt": "2026-11-16T07:00:00.000Z",
