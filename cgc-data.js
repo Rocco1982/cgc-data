@@ -1,9 +1,24 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-19T14:34:05-07:00",
+  generatedAt: "2026-11-19T14:48:50-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 780,
+    "createdAt": "2026-11-19T07:00:00.000Z",
+    "brand": "Suzy Shier",
+    "ref": "GCFC-S87660",
+    "faceValue": "187.32",
+    "saleValue": "159.22",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69668f4869c3e7fe0fa23c.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-19T14:48:47.919-07:00",
+    "expiresAt": "2026-11-22T14:48:47.919-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
   {
     "sheetRow": 761,
     "createdAt": "2026-11-16T07:00:00.000Z",
