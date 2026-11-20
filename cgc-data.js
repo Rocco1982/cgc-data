@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-19T17:02:08-07:00",
+  generatedAt: "2026-11-19T17:09:54-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -45,6 +45,21 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-19T16:50:42.291-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 783,
+    "createdAt": "2026-11-19T07:00:00.000Z",
+    "brand": "Roots Canada",
+    "ref": "GCFC-K69899C3",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-19T17:09:52.754-07:00",
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
