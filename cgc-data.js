@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-21T04:19:57-07:00",
+  generatedAt: "2026-11-21T04:31:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -30,7 +30,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69642c4869c3e7fe0bf158.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-20T03:24:46.333-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-23T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -45,7 +45,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-20T11:02:53.244-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-23T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -75,7 +75,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69668f4869c3e7fe0fa23c.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-19T14:48:47.919-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-22T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -135,7 +135,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-19T11:22:40-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-22T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -150,7 +150,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-19T11:22:40-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-22T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -165,7 +165,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-19T11:22:40-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-22T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
