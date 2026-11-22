@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-21T23:57:59-07:00",
+  generatedAt: "2026-11-22T00:13:58-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -95,21 +95,6 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
-    "sheetRow": 780,
-    "createdAt": "2026-11-19T07:00:00.000Z",
-    "brand": "Suzy Shier",
-    "ref": "GCFC-S87660",
-    "faceValue": "187.32",
-    "saleValue": "151.26",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69668f4869c3e7fe0fa23c.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-19T14:48:47.919-07:00",
-    "expiresAt": "2026-11-22T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
     "sheetRow": 781,
     "createdAt": "2026-11-19T07:00:00.000Z",
     "brand": "Roots Canada",
@@ -153,51 +138,6 @@ window.CGC_DATA = {
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 761,
-    "createdAt": "2026-11-16T07:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-U77079C2",
-    "faceValue": "250",
-    "saleValue": "191.78",
-    "discount": "0.2329",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-19T11:22:40-07:00",
-    "expiresAt": "2026-11-22T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 762,
-    "createdAt": "2026-11-16T07:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-U77079C3",
-    "faceValue": "250",
-    "saleValue": "191.78",
-    "discount": "0.2329",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-19T11:22:40-07:00",
-    "expiresAt": "2026-11-22T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
-    "sheetRow": 763,
-    "createdAt": "2026-11-16T07:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-U77079C4",
-    "faceValue": "250",
-    "saleValue": "191.78",
-    "discount": "0.2329",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-19T11:22:40-07:00",
-    "expiresAt": "2026-11-22T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 704,
