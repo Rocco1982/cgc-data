@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-22T10:44:58-07:00",
+  generatedAt: "2026-11-22T11:00:32-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -61,6 +61,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-20T11:02:53.244-07:00",
     "expiresAt": "2026-11-23T00:00:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 792,
+    "createdAt": "2026-11-20T07:00:00.000Z",
+    "brand": "Google Play",
+    "ref": "GCFC-E18182",
+    "faceValue": "100",
+    "saleValue": "85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f293b2fc17decc450784da.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-22T11:00:30.420-07:00",
+    "expiresAt": "2026-11-25T11:00:30.421-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
