@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-22T09:05:04-07:00",
+  generatedAt: "2026-11-22T09:10:00-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 793,
-    "createdAt": "2026-11-21T07:00:00.000Z",
-    "brand": "Subway",
-    "ref": "GCFC-H37983",
-    "faceValue": "29.76",
-    "saleValue": "24.03",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f00e08717d5dd4e18e3bb5.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-21T04:12:08.059-07:00",
-    "expiresAt": "2100-01-01T00:59:00.000-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
   {
     "sheetRow": 794,
     "createdAt": "2026-11-21T07:00:00.000Z",
