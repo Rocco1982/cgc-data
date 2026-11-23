@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-23T07:55:00-07:00",
+  generatedAt: "2026-11-23T08:03:23-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -70,8 +70,8 @@ window.CGC_DATA = {
     "brand": "Old Navy",
     "ref": "GCFC-M33657",
     "faceValue": "100",
-    "saleValue": "85",
-    "discount": "0.15",
+    "saleValue": "80.75",
+    "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-21T23:37:46.570-07:00",
