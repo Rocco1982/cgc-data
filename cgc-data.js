@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-23T04:08:58-07:00",
+  generatedAt: "2026-11-23T04:19:56-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -15,7 +15,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-22T13:17:43.984-07:00",
-    "expiresAt": "2026-11-25T13:17:43.985-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -30,7 +30,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-22T16:45:23.147-07:00",
-    "expiresAt": "2026-11-25T16:45:23.148-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -75,7 +75,22 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-21T23:37:46.570-07:00",
-    "expiresAt": "2026-11-24T00:00:00.000-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 786,
+    "createdAt": "2026-11-20T07:00:00.000Z",
+    "brand": "Air Canada",
+    "ref": "GCFC-S73056",
+    "faceValue": "150",
+    "saleValue": "121.12",
+    "discount": "0.1925",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-20T11:02:53.244-07:00",
+    "expiresAt": "2099-12-31T23:59:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
