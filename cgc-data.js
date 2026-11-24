@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-24T04:21:57-07:00",
+  generatedAt: "2026-11-24T04:32:00-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -15,7 +15,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-23T17:25:51.963-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-26T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -30,7 +30,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-24T01:03:14.922-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-27T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -60,7 +60,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f297f8590487fe57e44e67.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-22T13:17:43.984-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-25T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -75,7 +75,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f291defc17decc45073564.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-22T16:45:23.147-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-25T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
@@ -95,21 +95,6 @@ window.CGC_DATA = {
     "nonExpiring": true
   },
   {
-    "sheetRow": 803,
-    "createdAt": "2026-11-21T07:00:00.000Z",
-    "brand": "Old Navy",
-    "ref": "GCFC-M33657",
-    "faceValue": "100",
-    "saleValue": "80.75",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f299b6fc17decc450878df.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-21T23:37:46.570-07:00",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
-  {
     "sheetRow": 784,
     "createdAt": "2026-11-20T07:00:00.000Z",
     "brand": "Melanie Lyne",
@@ -120,7 +105,7 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69642c4869c3e7fe0bf158.png",
     "marketStatus": "buyer_interest",
     "listedAt": "11/23/2026",
-    "expiresAt": "2099-12-31T23:59:00.000-07:00",
+    "expiresAt": "2026-11-26T00:00:00.000-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
