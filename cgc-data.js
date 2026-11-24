@@ -1,24 +1,9 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-24T10:20:05-07:00",
+  generatedAt: "2026-11-24T10:24:01-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
-  {
-    "sheetRow": 807,
-    "createdAt": "2026-11-23T07:00:00.000Z",
-    "brand": "Keg Steakhouse",
-    "ref": "GCFC-G28511",
-    "faceValue": "100",
-    "saleValue": "85",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25247663e5f92fff7a091.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-23T17:25:51.963-07:00",
-    "expiresAt": "2026-11-26T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
-  },
   {
     "sheetRow": 810,
     "createdAt": "2026-11-23T07:00:00.000Z",
