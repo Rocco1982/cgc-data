@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-23T17:28:58-07:00",
+  generatedAt: "2026-11-23T17:29:08-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -16,6 +16,21 @@ window.CGC_DATA = {
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-23T17:25:51.963-07:00",
     "expiresAt": "2026-11-26T17:25:51.963-07:00",
+    "saleRoute": "STANDARD_SALE",
+    "nonExpiring": false
+  },
+  {
+    "sheetRow": 808,
+    "createdAt": "2026-11-23T07:00:00.000Z",
+    "brand": "Apple Store",
+    "ref": "GCFC-M89217",
+    "faceValue": "100",
+    "saleValue": "85",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f24e48663e5f92fff67b45.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-23T17:29:06.355-07:00",
+    "expiresAt": "2026-11-26T17:29:06.356-07:00",
     "saleRoute": "STANDARD_SALE",
     "nonExpiring": false
   },
