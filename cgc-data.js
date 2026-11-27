@@ -1,9 +1,54 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-27T09:41:01-07:00",
+  generatedAt: "2026-11-27T09:41:59-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
   deals: [
+  {
+    "sheetRow": 820,
+    "createdAt": "2026-11-27T07:00:00.000Z",
+    "brand": "Roots Canada",
+    "ref": "GCFC-K69826",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-27T09:41:46-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 821,
+    "createdAt": "2026-11-27T07:00:00.000Z",
+    "brand": "Roots Canada",
+    "ref": "GCFC-K69826C2",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-27T09:41:46-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 822,
+    "createdAt": "2026-11-27T07:00:00.000Z",
+    "brand": "Shoppers Drug Mart",
+    "ref": "GCFC-B18049",
+    "faceValue": "35",
+    "saleValue": "29.75",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6aaf193cbdaa5e26a9459df2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-27T09:41:46-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
   {
     "sheetRow": 814,
     "createdAt": "2026-11-26T07:00:00.000Z",
