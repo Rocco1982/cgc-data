@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-27T13:16:05-07:00",
+  generatedAt: "2026-11-27T13:32:16-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -33,36 +33,6 @@ window.CGC_DATA = {
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
-  },
-  {
-    "sheetRow": 822,
-    "createdAt": "2026-11-27T07:00:00.000Z",
-    "brand": "Shoppers Drug Mart",
-    "ref": "GCFC-B18049",
-    "faceValue": "35",
-    "saleValue": "29.75",
-    "discount": "0.15",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6aaf193cbdaa5e26a9459df2.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-27T09:41:46-07:00",
-    "expiresAt": "2100-01-01T00:59:00.000-07:00",
-    "saleRoute": "FAST_CASH",
-    "nonExpiring": true
-  },
-  {
-    "sheetRow": 814,
-    "createdAt": "2026-11-26T07:00:00.000Z",
-    "brand": "Air Canada",
-    "ref": "GCFC-Y74041",
-    "faceValue": "500",
-    "saleValue": "403.75",
-    "discount": "0.1925",
-    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/693b130553781f30bf28f067.png",
-    "marketStatus": "buyer_interest",
-    "listedAt": "2026-11-26T03:38:59.952-07:00",
-    "expiresAt": "2026-11-29T00:00:00.000-07:00",
-    "saleRoute": "STANDARD_SALE",
-    "nonExpiring": false
   },
   {
     "sheetRow": 815,
