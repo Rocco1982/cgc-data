@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-27T11:01:13-07:00",
+  generatedAt: "2026-11-27T11:03:08-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -70,8 +70,8 @@ window.CGC_DATA = {
     "brand": "Melanie Lyne",
     "ref": "GCFC-F22467",
     "faceValue": "225.99",
-    "saleValue": "192.09",
-    "discount": "0.15",
+    "saleValue": "182.49",
+    "discount": "0.1925",
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/6a69642c4869c3e7fe0bf158.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-26T10:58:12-07:00",
