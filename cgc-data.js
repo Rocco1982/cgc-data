@@ -1,5 +1,5 @@
 window.CGC_DATA = {
-  generatedAt: "2026-11-27T15:01:11-07:00",
+  generatedAt: "2026-11-27T15:12:27-07:00",
   source: "Gift Card Book and Balances / Main",
   sort: "Created At descending (active released cards — Standard Sale (72h) + Fast Cash (no expiry))",
   expiryDays: 3, // Applies to STANDARD_SALE only; use deal.expiresAt + route for individual cards.
@@ -30,6 +30,21 @@ window.CGC_DATA = {
     "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f25a71590487fe57d6cc47.png",
     "marketStatus": "buyer_interest",
     "listedAt": "2026-11-27T09:41:46-07:00",
+    "expiresAt": "2100-01-01T00:59:00.000-07:00",
+    "saleRoute": "FAST_CASH",
+    "nonExpiring": true
+  },
+  {
+    "sheetRow": 823,
+    "createdAt": "2026-11-27T07:00:00.000Z",
+    "brand": "Costco",
+    "ref": "GCFC-Q21640",
+    "faceValue": "50",
+    "saleValue": "42.5",
+    "discount": "0.15",
+    "image": "https://assets.cdn.filesafe.space/FxfSu0nbVobswu1XWMTK/media/69f250dc590487fe57d43bd2.png",
+    "marketStatus": "buyer_interest",
+    "listedAt": "2026-11-27T15:12:25.354-07:00",
     "expiresAt": "2100-01-01T00:59:00.000-07:00",
     "saleRoute": "FAST_CASH",
     "nonExpiring": true
